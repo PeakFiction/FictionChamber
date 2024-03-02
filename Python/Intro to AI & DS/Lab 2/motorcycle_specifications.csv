@@ -1,0 +1,962 @@
+Brand,Category,Displacement (ccm),Power (hp),Torque (Nm),Engine cylinder,Gearbox,Bore (mm),Stroke (mm),Fuel capacity (lts),Fuel control,Cooling system,Transmission type,Dry weight (kg),Wheelbase (mm),Seat height (mm)
+yamaha,Enduro / offroad,249.0,28.0,21.0,Single cylinder,5-speed,74.0,58.0,11.0,Single Overhead Cams (SOHC),Oil & air,Chain,130.0,1390.0,875.0
+suzuki,Sport,1340.0,197.0,155.0,In-line four,6-speed,81.0,65.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,266.0,1480.0,805.0
+ducati,Naked bike,1262.0,152.0,126.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Belt,220.0,1615.0,755.0
+benelli,Enduro / offroad,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,170.0,1450.0,815.0
+bmw,Sport,999.0,195.0,113.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,175.5,1425.0,815.0
+honda,Custom / cruiser,398.0,30.8,32.0,V2,5-speed,64.0,62.0,10.0,Overhead Cams (OHC),Liquid,Chain,229.0,1560.0,750.0
+keeway,Scooter,125.0,8.7,9.0,Single cylinder,4-speed,53.5,55.5,3.8,Single Overhead Cams (SOHC),Air,Chain,115.0,1300.0,760.0
+benelli,Enduro / offroad,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,170.0,1450.0,815.0
+benelli,Sport,1131.0,160.0,124.0,In-line three,6-speed,88.0,62.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1419.0,810.0
+ducati,Classic,992.0,90.8,91.3,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,179.0,1425.0,825.0
+bmw,Naked bike,798.0,85.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1520.0,800.0
+suzuki,Naked bike,1340.0,181.0,146.0,In-line four,6-speed,81.0,65.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,235.0,1525.0,805.0
+harley-davidson,Touring,1688.0,87.0,138.0,V2,6-speed,98.4,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,363.0,1625.0,705.0
+harley-davidson,Custom / cruiser,1690.0,80.0,130.0,V2,6-speed,98.4,111.3,17.79,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,295.0,1715.0,680.0
+triumph,Naked bike,765.0,121.0,79.0,In-line three,6-speed,78.0,53.4,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,166.0,1405.0,825.0
+ducati,Naked bike,1198.4,162.0,127.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,210.0,1590.0,770.0
+harley-davidson,Custom / cruiser,1746.0,86.0,145.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,303.0,1631.0,680.0
+bmw,Naked bike,999.0,162.0,114.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,178.0,1439.0,814.0
+aprilia,Naked bike,896.0,95.0,90.0,V2,6-speed,92.0,67.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1465.0,810.0
+bmw,Enduro / offroad,798.0,84.5,83.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1578.0,880.0
+bmw,Touring,1171.0,116.0,120.0,In-line four,5-speed,70.5,75.0,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,353.5,1627.0,770.0
+honda,Scooter,107.0,8.9,9.3,Single cylinder,Automatic,50.0,55.0,6.5,Single Overhead Cams (SOHC),Liquid,Belt,114.0,1275.0,740.0
+moto guzzi,Touring,1064.0,73.8,88.0,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,260.0,1560.0,780.0
+honda,Sport,998.0,96.6,97.0,In-line four,6-speed,75.0,56.5,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,220.0,1483.0,795.0
+ducati,Classic,803.0,73.0,68.0,V2,6-speed,88.0,66.0,14.0,Desmodromic valve control,Air,Chain,170.0,1436.0,790.0
+mv agusta,Sport,798.0,148.0,88.0,In-line three,6-speed,79.0,54.3,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,805.0
+moto guzzi,Touring,1064.0,73.8,88.5,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,253.0,1560.0,760.0
+harley-davidson,Custom / cruiser,1690.0,78.0,132.0,V2,6-speed,98.4,111.3,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,320.0,1690.0,690.0
+buell,Naked bike,492.0,34.0,40.7,Single cylinder,5-speed,88.9,79.4,10.6,Overhead Valves (OHV),Air,Belt,163.3,1405.0,699.0
+honda,Sport touring,680.2,64.8,66.2,V2,5-speed,81.0,66.0,19.7,Single Overhead Cams (SOHC),Liquid,Shaft drive,236.0,1476.0,805.0
+ducati,Naked bike,1198.0,147.0,124.0,V2,6-speed,106.0,67.9,16.5,Desmodromic valve control,Liquid,Chain,185.0,1485.0,795.0
+harley-davidson,Custom / cruiser,1868.0,94.0,155.0,V2,6-speed,102.0,114.3,13.2,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,294.0,1695.0,665.0
+ducati,Classic,992.0,90.8,91.3,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,181.0,1425.0,825.0
+triumph,Custom / cruiser,1699.0,98.0,156.0,Twin,6-speed,107.1,94.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,308.0,1615.0,700.0
+honda,Scooter,279.1,26.8,26.0,Single cylinder,Automatic,72.0,68.5,9.0,Single Overhead Cams (SOHC),Liquid,Belt,165.0,1420.0,785.0
+suzuki,Sport,645.0,75.0,64.0,V2,6-speed,81.0,62.6,14.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,195.0,1445.0,785.0
+aprilia,Naked bike,839.3,75.1,73.0,V2,Automatic,88.0,69.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1463.0,800.0
+honda,Sport touring,1084.0,100.0,110.0,V4,5-speed,73.0,64.8,28.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,279.0,1555.0,800.0
+bmw,Scooter,647.0,60.0,66.0,Twin,Automatic,79.0,66.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,241.0,1591.0,795.0
+harley-davidson,Custom / cruiser,749.0,58.0,60.3,V2,6-speed,85.0,66.0,13.1,Single Overhead Cams (SOHC),Liquid,Belt,223.0,1534.0,720.0
+triumph,Naked bike,765.0,113.0,73.0,In-line three,6-speed,78.0,53.4,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,166.0,1410.0,810.0
+triumph,Allround,1050.0,125.0,104.0,In-line three,6-speed,79.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,216.0,1540.0,830.0
+triumph,Naked bike,675.0,106.0,68.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1410.0,800.0
+aprilia,Sport,997.6,130.0,101.0,Twin,6-speed,97.0,67.5,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1415.0,820.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,323.0,1618.0,750.0
+honda,Custom / cruiser,748.0,78.2,65.0,V4,5-speed,70.0,48.6,13.62,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,229.1,1651.0,711.0
+triumph,Classic,1200.0,77.0,106.0,Twin,6-speed,97.6,80.0,12.11,Single Overhead Cams (SOHC),Liquid,Chain,245.5,1510.0,705.0
+harley-davidson,Touring,1745.0,90.0,153.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,398.0,1625.0,740.0
+harley-davidson,Touring,1753.5,85.8,154.0,V2,6-speed,98.4,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,353.0,1625.0,715.0
+yamaha,Sport,998.0,200.0,112.0,In-line four,6-speed,79.0,50.9,17.03,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1405.0,861.0
+triumph,Classic,1200.0,97.0,112.0,Twin,6-speed,97.6,80.0,14.5,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,206.0,1415.0,805.0
+keeway,Naked bike,124.5,11.0,9.2,Single cylinder,5-speed,57.0,48.8,17.0,Single Overhead Cams (SOHC),Air,Chain,123.0,1330.0,770.0
+can-am,Sport,998.0,106.0,104.0,V2,5-speed,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1727.0,737.0
+suzuki,Scooter,49.0,3.4,3.6,Single cylinder,3-speed,39.0,41.8,4.5,Single Overhead Cams (SOHC),Air,Belt,78.0,1150.0,705.0
+moto guzzi,Touring,1151.0,95.0,100.0,V2,6-speed,95.0,81.2,23.0,Overhead Valves (OHV),Air,Shaft drive,246.0,1495.0,800.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,4-speed,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,99.0,1239.0,776.0
+california scooter,Touring,250.0,24.8,22.5,Single cylinder,6-speed,77.0,53.6,15.9,Single Overhead Cams (SOHC),Liquid,Chain,175.1,1400.0,795.0
+hyosung,Sport,125.0,14.2,10.2,V2,5-speed,44.0,41.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,166.0,1445.0,780.0
+ducati,Classic,803.0,73.8,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,176.5,1445.0,790.0
+can-am,Touring,1330.0,115.0,130.0,In-line three,5-speed,84.0,80.0,27.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,459.0,1714.0,772.0
+aprilia,Super motard,749.9,90.3,82.0,V2,6-speed,92.0,56.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1505.0,870.0
+yamaha,Scooter,125.0,10.7,9.3,Single cylinder,Automatic,52.4,57.9,7.4,Single Overhead Cams (SOHC),Air,Belt,112.0,1295.0,785.0
+ducati,Classic,803.0,73.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,170.0,1445.0,770.0
+moto guzzi,Naked bike,1151.0,103.0,105.0,V2,6-speed,95.0,81.2,23.0,Overhead Valves (OHV),Air,Shaft drive,240.0,1485.0,800.0
+yamaha,Naked bike,153.0,14.0,14.0,Single cylinder,5-speed,58.0,57.9,14.0,Single Overhead Cams (SOHC),Air,Chain,126.0,1335.0,790.0
+fb mondial,Classic,249.0,24.8,22.0,Single cylinder,6-speed,77.0,53.6,14.0,Single Overhead Cams (SOHC),Liquid,Chain,130.0,1370.0,785.0
+honda,Sport,1284.0,99.2,114.0,In-line four,5-speed,78.0,67.2,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,272.0,1510.0,780.0
+harley-davidson,Custom / cruiser,1690.0,75.1,130.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,309.0,1710.0,660.0
+triumph,Allround,1215.0,139.0,123.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,246.0,1520.0,837.0
+triumph,Custom / cruiser,865.0,61.0,72.0,Twin,5-speed,90.0,68.0,19.3,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,231.0,1600.0,690.0
+mv agusta,Sport touring,798.0,110.0,83.0,In-line three,6-speed,79.0,54.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,192.0,1420.0,850.0
+yamaha,Scooter,125.0,9.4,9.6,Single cylinder,Automatic,52.4,57.9,4.2,Single Overhead Cams (SOHC),Air,Belt,98.0,1260.0,760.0
+harley-davidson,Custom / cruiser,1199.0,58.0,69.0,V2,5-speed,88.8,96.8,17.4,Overhead Valves (OHV),Air,Belt,255.0,1520.0,673.0
+ducati,Allround,937.0,113.0,96.2,V2,6-speed,94.0,67.5,20.0,Desmodromic valve control,Liquid,Chain,205.7,1594.0,840.0
+ducati,Naked bike,1198.4,162.0,127.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,210.0,1590.0,770.0
+honda,Super motard,996.0,92.5,98.0,V2,6-speed,98.0,66.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,244.0,1560.0,838.0
+moto guzzi,Naked bike,1064.0,86.9,89.0,V2,6-speed,92.0,80.0,17.2,Overhead Valves (OHV),Air,Shaft drive,227.0,1554.0,800.0
+yamaha,Scooter,113.7,8.0,7.4,Single cylinder,Automatic,50.0,57.9,3.7,Single Overhead Cams (SOHC),Air,Belt,95.0,1240.0,745.0
+ducati,Sport,1198.4,180.0,134.0,V2,6-speed,106.0,67.9,18.0,Desmodromic valve control,Liquid,Chain,164.0,1430.0,820.0
+moto guzzi,Touring,1064.0,73.8,88.5,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,251.0,1560.0,780.0
+triumph,Naked bike,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,12.11,Single Overhead Cams (SOHC),Liquid,Chain,198.2,1415.0,749.0
+bmw,Naked bike,1170.0,107.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,198.0,1495.0,800.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,790.0
+ducati,Allround,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,189.0,1530.0,850.0
+benelli,Naked bike,1131.0,157.0,120.0,In-line three,6-speed,88.0,62.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,205.0,1443.0,830.0
+ducati,Naked bike,998.0,128.0,103.0,V2,6-speed,100.0,63.5,14.0,Desmodromic valve control,Liquid,Chain,177.0,1440.0,800.0
+triumph,Naked bike,765.0,116.0,77.0,In-line three,6-speed,78.0,53.4,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,166.0,1410.0,810.0
+ktm,Sport,1148.0,151.0,120.0,V2,6-speed,103.0,69.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,188.0,1430.0,805.0
+ducati,Naked bike,821.0,112.0,89.4,V2,6-speed,88.0,67.5,17.5,Desmodromic valve control,Air,Chain,179.5,1480.0,785.0
+indian,Custom / cruiser,1203.0,123.0,117.0,V2,6-speed,102.0,73.6,12.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,230.0,1524.0,840.0
+ducati,Sport,1198.0,191.0,132.0,V2,6-speed,112.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,164.0,1437.0,825.0
+triumph,Classic,675.0,126.0,75.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,162.0,1395.0,825.0
+triumph,Sport,675.0,128.0,74.0,In-line three,6-speed,76.0,49.6,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1375.0,830.0
+suzuki,Scooter,125.0,12.2,10.8,Single cylinder,Automatic,57.0,48.8,11.0,Single Overhead Cams (SOHC),Liquid,Belt,148.0,1465.0,735.0
+harley-davidson,Touring,1688.0,87.0,138.0,V2,6-speed,98.4,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,355.0,1625.0,695.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,196.0,1545.0,840.0
+harley-davidson,Custom / cruiser,1868.2,86.0,161.0,V2,6-speed,102.1,114.3,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,294.8,1615.0,673.0
+bmw,Sport,999.0,165.0,112.0,In-line four,6-speed,80.0,49.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1548.0,840.0
+kawasaki,Enduro / offroad,125.0,10.2,10.0,Single cylinder,5-speed,54.0,54.4,7.0,Single Overhead Cams (SOHC),Air,Chain,113.0,1285.0,830.0
+honda,Touring,1832.0,118.0,167.0,Six cylinder boxer,5-speed,74.0,71.0,24.98,Single Overhead Cams (SOHC),Liquid,Shaft drive,359.2,1692.0,739.0
+ducati,Super motard,821.1,110.0,89.0,V2,6-speed,88.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,171.0,1505.0,890.0
+ducati,Allround,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,209.0,1530.0,825.0
+mv agusta,Sport,675.0,126.0,71.0,In-line three,6-speed,79.0,45.9,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,812.0
+triumph,Super motard,800.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1530.0,810.0
+yamaha,Naked bike,779.0,104.0,82.0,In-line four,6-speed,68.0,53.6,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,211.0,1460.0,815.0
+triumph,Allround,865.0,56.0,51.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,204.6,1501.0,826.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1545.0,810.0
+bmw,Enduro / offroad,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,30.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,229.1,1510.0,890.0
+keeway,Naked bike,197.0,12.7,13.5,Single cylinder,5-speed,63.5,62.2,17.0,Overhead Valves (OHV),Liquid,Chain,123.0,1330.0,770.0
+ducati,Sport,998.0,138.0,108.0,V2,6-speed,100.0,63.5,15.5,Desmodromic valve control,Liquid,Chain,186.0,1420.0,780.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,830.0
+ducati,Sport,849.4,140.0,98.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+yamaha,Super motard,249.0,18.0,19.0,Single cylinder,5-speed,74.0,58.0,9.6,Single Overhead Cams (SOHC),Oil & air,Chain,133.0,1365.0,790.0
+bmw,Allround,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,820.0
+bmw,Naked bike,1293.0,175.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,217.0,1585.0,820.0
+suzuki,Scooter,124.0,9.3,9.6,Single cylinder,Automatic,53.5,55.2,3.9,Single Overhead Cams (SOHC),Air,Belt,106.0,1285.0,770.0
+ducati,Sport,959.0,157.0,107.0,V2,6-speed,100.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,176.0,1431.0,830.0
+honda,Sport,999.0,101.0,90.0,V4,6-speed,81.0,48.5,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,172.0,1465.0,830.0
+aprilia,Sport,999.6,201.0,115.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1420.0,845.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,16.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1410.0,790.0
+triumph,Custom / cruiser,1699.0,94.0,146.0,Twin,6-speed,107.1,94.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1615.0,700.0
+bmw,Enduro / offroad,798.0,85.0,83.0,Twin,6-speed,82.0,75.6,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1578.0,890.0
+keeway,Naked bike,124.5,11.3,10.0,Single cylinder,5-speed,57.0,48.8,16.0,Overhead Valves (OHV),Air,Chain,121.0,1260.0,760.0
+ducati,Naked bike,992.0,93.9,94.1,V2,6-speed,94.0,71.5,14.0,Desmodromic valve control,Air,Chain,178.0,1440.0,800.0
+keeway,Scooter,124.8,8.7,9.5,Single cylinder,4-speed,52.4,57.8,3.9,Single Overhead Cams (SOHC),Air,Chain,99.0,1258.0,785.0
+harley-davidson,Custom / cruiser,1745.0,86.0,145.0,V2,6-speed,100.0,111.1,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,287.0,1630.0,690.0
+ducati,Sport,898.0,148.0,99.0,V2,6-speed,100.0,57.2,17.0,Desmodromic valve control,Liquid,Chain,169.0,1426.0,830.0
+triumph,Custom / cruiser,2294.0,142.0,200.0,In-line three,5-speed,101.6,94.3,23.84,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,319.3,1695.0,740.0
+buell,Naked bike,984.0,92.0,94.9,V2,5-speed,88.9,79.4,13.0,Overhead Valves (OHV),Oil & air,Shaft drive,174.6,1321.0,777.0
+triumph,Custom / cruiser,865.0,61.0,72.0,Twin,5-speed,90.0,68.0,19.3,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,231.0,1600.0,690.0
+ducati,Naked bike,618.0,62.2,41.2,V2,6-speed,80.0,61.5,14.0,Desmodromic valve control,Air,Chain,168.0,1440.0,770.0
+kawasaki,Super motard,144.0,11.7,12.0,Single cylinder,5-speed,54.0,54.4,7.0,Single Overhead Cams (SOHC),Air,Chain,113.0,1255.0,805.0
+yamaha,Sport,49.0,2.7,3.0,Single cylinder,5-speed,40.3,39.0,14.0,Single Overhead Cams (SOHC),Liquid,Chain,112.0,1341.0,815.0
+bmw,Touring,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,820.0
+aprilia,Naked bike,1077.0,175.0,121.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1450.0,825.0
+ducati,Allround,1262.0,158.0,129.0,V2,6-speed,106.0,71.5,20.0,Desmodromic valve control,Liquid,Chain,206.0,1585.0,825.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,295.0,1680.0,810.0
+aprilia,Naked bike,1077.0,173.0,120.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,182.0,1445.0,825.0
+aprilia,Sport,997.6,138.0,101.0,Twin,6-speed,97.0,67.5,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1415.0,820.0
+yamaha,Sport,998.0,150.0,108.0,In-line four,6-speed,74.0,58.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1395.0,820.0
+ducati,Allround,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,196.0,1530.0,850.0
+ducati,Sport,849.4,134.0,96.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+ducati,Sport touring,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,189.0,1530.0,850.0
+ducati,Naked bike,803.0,85.8,78.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,169.0,1450.0,770.0
+triumph,Enduro / offroad,955.0,125.0,92.0,In-line three,6-speed,79.0,65.0,16.6,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1515.0,840.0
+moto guzzi,Custom / cruiser,935.6,75.0,75.0,V2,6-speed,95.0,66.0,19.0,Overhead Valves (OHV),Air,Shaft drive,223.0,1560.0,760.0
+bmw,Scooter,647.0,60.0,63.0,Twin,Automatic,79.0,66.0,15.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,236.8,1591.0,800.0
+yamaha,Sport touring,599.0,50.0,53.9,In-line four,6-speed,58.5,55.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,212.0,1445.0,790.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,Automatic,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,96.3,1237.0,776.0
+aprilia,Naked bike,1077.0,175.0,121.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1445.0,825.0
+triumph,Classic,1200.0,80.0,105.0,Twin,6-speed,97.6,80.0,12.87,Single Overhead Cams (SOHC),Air,Chain,224.0,1445.0,790.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,830.0
+ktm,Super motard,999.0,114.0,97.0,V2,6-speed,101.0,62.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1510.0,875.0
+triumph,Naked bike,675.0,106.0,68.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1410.0,800.0
+zontes,Allround,312.0,34.9,30.0,Single cylinder,6-speed,80.0,62.0,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,147.0,1488.0,795.0
+triumph,Naked bike,675.0,106.0,68.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1410.0,820.0
+harley-davidson,Custom / cruiser,1449.0,67.0,110.0,V2,5-speed,95.3,101.6,18.8,Overhead Valves (OHV),Air,Belt,322.0,1592.0,729.0
+aprilia,Allround,839.3,76.1,73.0,V2,Automatic,88.0,69.0,16.0,Single Overhead Cams (SOHC),Liquid,Chain,189.0,1463.0,800.0
+moto guzzi,Sport touring,1151.0,102.0,104.0,V2,6-speed,95.0,81.2,23.0,Overhead Valves (OHV),Air,Shaft drive,257.0,1495.0,800.0
+honda,Touring,996.0,92.5,98.0,V2,6-speed,98.0,66.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,244.2,1560.0,838.0
+ducati,Sport,848.0,140.0,98.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+bmw,Sport,999.0,193.0,112.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1432.0,814.0
+piaggio,Scooter,493.0,40.1,45.5,Single cylinder,Automatic,94.0,71.0,12.0,Single Overhead Cams (SOHC),Liquid,Belt,261.7,1550.0,780.0
+benelli,Naked bike,300.0,38.0,27.4,Twin,6-speed,57.4,57.8,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1405.0,795.0
+moto guzzi,Naked bike,1064.0,86.9,89.0,V2,6-speed,92.0,80.0,17.2,Overhead Valves (OHV),Air,Shaft drive,227.0,1554.0,800.0
+ktm,Super motard,999.0,114.0,97.0,V2,6-speed,101.0,62.4,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1510.0,875.0
+yamaha,Naked bike,153.0,14.0,14.0,Single cylinder,5-speed,58.0,57.9,12.0,Single Overhead Cams (SOHC),Air,Chain,126.0,1335.0,790.0
+honda,Sport,1098.0,121.0,101.0,V4,6-speed,79.5,55.3,21.95,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,241.5,1590.0,831.0
+honda,Touring,1520.0,100.0,150.0,Six cylinder boxer,5-speed,71.0,64.0,23.0,Single Overhead Cams (SOHC),Liquid,Shaft drive,372.0,1690.0,765.0
+keeway,Custom / cruiser,248.9,19.2,18.7,V2,5-speed,49.0,66.0,13.5,Single Overhead Cams (SOHC),Air,Chain,170.0,1530.0,688.0
+ktm,Super motard,999.0,114.0,97.0,V2,6-speed,101.0,62.4,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1505.0,855.0
+johnny pag,Custom / cruiser,300.0,23.8,18.5,Twin,5-speed,57.0,0.0,13.24,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,163.3,1854.0,508.0
+yamaha,Naked bike,399.0,53.0,38.0,In-line four,6-speed,56.0,40.5,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1420.0,740.0
+ducati,Allround,1262.0,159.0,129.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Chain,218.0,1600.0,780.0
+moto guzzi,Naked bike,877.0,75.1,70.0,V2,6-speed,92.0,66.0,17.2,Overhead Valves (OHV),Air,Shaft drive,227.0,1554.0,800.0
+harley-davidson,Touring,1923.0,105.0,169.0,V2,6-speed,103.5,114.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,376.9,1625.0,663.0
+triumph,Custom / cruiser,1699.0,98.0,156.0,Twin,6-speed,107.1,94.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,308.0,1615.0,700.0
+aprilia,Allround,839.3,75.1,73.0,V2,Automatic,88.0,69.0,16.0,Single Overhead Cams (SOHC),Liquid,Chain,189.0,1463.0,800.0
+mv agusta,Naked bike,1078.0,142.0,112.0,In-line four,6-speed,79.0,55.0,23.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1438.0,825.0
+ducati,Naked bike,803.0,76.0,53.5,V2,6-speed,88.0,66.0,14.0,Desmodromic valve control,Air,Chain,173.0,1440.0,800.0
+bmw,Enduro / offroad,652.0,48.0,60.0,Single cylinder,5-speed,100.0,83.0,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1477.0,780.0
+bmw,Enduro / offroad,798.0,84.5,83.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1578.0,880.0
+honda,Sport touring,680.2,64.8,66.2,V2,5-speed,81.0,66.0,19.7,Single Overhead Cams (SOHC),Liquid,Shaft drive,236.0,1476.0,805.0
+can-am,Touring,1330.0,115.0,130.0,In-line three,5-speed,84.0,80.0,27.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,459.0,1714.0,772.0
+ducati,Naked bike,1198.4,145.0,124.0,V2,6-speed,106.0,67.9,17.5,Desmodromic valve control,Liquid,Chain,182.0,1511.0,785.0
+honda,Scooter,109.0,8.0,8.5,Single cylinder,4-speed,50.0,55.6,4.3,Overhead Cams (OHC),Air,Belt,98.0,1210.0,735.0
+ducati,Naked bike,1198.4,135.0,118.0,V2,6-speed,106.0,67.9,17.5,Desmodromic valve control,Liquid,Chain,182.0,1511.0,785.0
+aprilia,Sport,999.6,184.0,117.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1420.0,845.0
+triumph,Classic,1200.0,77.0,106.0,Twin,6-speed,97.6,80.0,12.0,Single Overhead Cams (SOHC),Liquid,Chain,245.5,1510.0,705.0
+ducati,Allround,1262.0,158.0,128.0,V2,6-speed,106.0,71.5,20.0,Desmodromic valve control,Liquid,Chain,225.0,1592.0,840.0
+buell,Sport,984.0,92.0,94.9,V2,5-speed,91.2,79.5,14.0,Overhead Valves (OHV),Oil & air,Shaft drive,174.6,1321.0,775.0
+honda,Touring,680.2,59.1,60.0,V2,5-speed,81.0,66.0,17.5,Single Overhead Cams (SOHC),Liquid,Chain,218.0,1515.0,841.0
+bmw,Sport,999.0,160.0,114.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,178.0,1439.0,814.0
+aprilia,Naked bike,749.9,95.0,80.9,V2,6-speed,92.0,56.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1440.0,810.0
+kymco,Scooter,298.9,29.5,29.8,Single cylinder,Automatic,72.7,72.0,9.08,Single Overhead Cams (SOHC),Liquid,Belt,165.1,1450.0,810.0
+ducati,Naked bike,803.0,85.8,78.0,V2,6-speed,88.0,66.0,15.0,Desmodromic valve control,Air,Chain,167.0,1450.0,770.0
+harley-davidson,Custom / cruiser,1801.0,92.0,145.0,V2,6-speed,101.6,111.3,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,308.0,1636.0,650.0
+moto guzzi,Naked bike,1151.0,92.0,96.0,V2,6-speed,92.0,80.0,23.0,Overhead Valves (OHV),Air,Shaft drive,231.0,1495.0,800.0
+ducati,Naked bike,1262.0,156.0,128.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Belt,220.0,1615.0,755.0
+honda,Naked bike,599.0,100.0,63.5,In-line four,6-speed,67.0,42.5,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,172.0,1435.0,800.0
+suzuki,Super motard,645.0,69.0,69.0,V2,6-speed,81.0,62.6,20.06,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,213.0,1560.0,830.0
+benelli,Naked bike,300.0,38.0,27.4,Twin,6-speed,57.4,57.8,15.97,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.3,1405.0,795.0
+california scooter,Allround,229.5,16.1,18.3,Single cylinder,5-speed,67.0,65.0,15.14,Overhead Valves (OHV),Air,Chain,123.8,1290.0,660.0
+ktm,Super motard,625.0,53.6,60.0,Single cylinder,5-speed,101.0,78.0,11.2,Overhead Cams (OHC),Liquid,Chain,152.0,1460.0,900.0
+bmw,Custom / cruiser,1802.0,91.0,157.0,Two cylinder boxer,6-speed,107.1,100.0,16.01,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,365.1,1730.0,711.0
+keeway,Custom / cruiser,124.1,10.5,8.9,Single cylinder,5-speed,56.5,49.5,15.0,Overhead Valves (OHV),Air,Chain,134.0,1440.0,730.0
+ducati,Naked bike,1198.4,150.0,126.0,V2,6-speed,106.0,67.9,17.5,Desmodromic valve control,Liquid,Chain,187.0,1511.0,785.0
+husqvarna,Super motard,898.0,103.0,100.0,Twin,6-speed,84.0,84.0,13.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,174.0,1495.0,875.0
+moto guzzi,Naked bike,1064.0,110.0,108.0,V2,6-speed,95.0,81.5,16.7,Single Overhead Cams (SOHC),Air,Shaft drive,222.0,1554.0,800.0
+ducati,Enduro / offroad,803.0,75.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,191.0,1505.0,840.0
+indian,Custom / cruiser,1638.0,65.0,105.0,Twin,5-speed,98.4,108.0,20.82,Pushrods,Air,Chain,332.5,1737.0,724.0
+bmw,Naked bike,1170.0,107.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,198.0,1495.0,800.0
+mv agusta,Sport,998.0,195.0,110.0,In-line four,6-speed,79.0,50.9,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1430.0,830.0
+yamaha,Touring,748.0,51.8,43.5,V2,5-speed,83.0,0.0,12.0,Single Overhead Cams (SOHC),Air,Shaft drive,225.0,1520.0,710.0
+mv agusta,Sport,798.0,148.0,88.0,In-line three,6-speed,79.0,54.3,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,812.0
+bmw,Touring,1171.0,116.0,120.0,In-line four,5-speed,70.5,75.0,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,353.5,1627.0,770.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,790.0
+keeway,Sport,124.1,10.1,9.3,Single cylinder,5-speed,56.5,49.5,12.3,Overhead Valves (OHV),Air,Chain,116.0,1320.0,785.0
+triumph,Naked bike,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,12.11,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1415.0,750.0
+triumph,Classic,1200.0,77.0,106.0,Twin,6-speed,97.6,80.0,12.11,Single Overhead Cams (SOHC),Air,Chain,245.5,1510.0,705.0
+yamaha,Sport touring,1003.0,98.0,102.0,In-line four,5-speed,75.5,56.0,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,251.0,1495.0,790.0
+california scooter,Touring,249.0,24.8,22.5,Single cylinder,6-speed,77.0,53.6,15.9,Single Overhead Cams (SOHC),Liquid,Chain,175.1,1400.0,795.0
+ducati,Touring,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,217.0,1530.0,850.0
+aprilia,Scooter,839.3,76.0,76.4,V2,Automatic,88.0,69.0,18.5,Single Overhead Cams (SOHC),Liquid,Belt,249.0,1593.0,780.0
+highland,Enduro / offroad,936.0,83.8,104.0,V2,6-speed,95.0,66.0,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1530.0,910.0
+ducati,Naked bike,1099.0,155.0,115.0,V2,6-speed,104.0,64.7,16.5,Desmodromic valve control,Liquid,Chain,169.0,1475.0,840.0
+benelli,Naked bike,300.0,32.0,25.0,V2,6-speed,61.0,42.7,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.0,1405.0,795.0
+triumph,Naked bike,675.0,105.0,69.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1395.0,800.0
+moto guzzi,Sport,1151.0,95.0,100.0,V2,6-speed,95.0,81.2,23.0,Overhead Valves (OHV),Air,Shaft drive,229.0,1485.0,800.0
+ducati,Sport,1198.0,195.0,133.0,V2,6-speed,112.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,825.0
+moto guzzi,Sport,1225.0,128.0,113.0,V2,6-speed,100.0,78.0,18.5,Overhead Cams (OHC),Air,Shaft drive,192.0,1450.0,820.0
+bmw,Sport,1293.0,173.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,228.0,1585.0,820.0
+triumph,Sport,955.0,125.0,98.0,In-line three,6-speed,79.0,65.0,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1515.0,840.0
+harley-davidson,Custom / cruiser,1442.2,67.0,115.0,V2,6-speed,95.3,101.6,17.78,Overhead Valves (OHV),Air,Belt,290.8,1641.0,655.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,321.0,1680.0,750.0
+honda,Scooter,279.0,24.8,27.2,Single cylinder,Automatic,72.0,68.5,11.5,Single Overhead Cams (SOHC),Liquid,Belt,182.0,1510.0,780.0
+ducati,Touring,1198.4,150.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,217.0,1530.0,850.0
+bimota,Super motard,1078.0,98.0,105.0,V2,6-speed,98.0,71.5,13.5,Desmodromic valve control,Oil & air,Chain,174.6,1465.0,810.0
+bmw,Sport,999.0,193.0,112.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,169.0,1422.0,820.0
+yamaha,Allround,897.0,85.0,88.8,Twin,6-speed,92.0,67.5,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1485.0,825.0
+harley-davidson,Custom / cruiser,1746.0,86.0,149.0,V2,6-speed,100.0,111.0,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,287.0,1630.0,690.0
+moto guzzi,Custom / cruiser,1064.0,73.8,88.5,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,251.0,1560.0,750.0
+ducati,Sport,849.4,134.0,96.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+honda,Sport,124.7,11.1,11.2,Single cylinder,5-speed,52.4,57.8,13.0,Overhead Cams (OHC),Air,Chain,128.0,1270.0,792.0
+suzuki,Naked bike,599.4,98.0,64.7,In-line four,6-speed,67.0,42.5,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.0,1440.0,785.0
+honda,Sport,125.0,14.2,10.0,V2,5-speed,42.0,45.0,16.8,Single Overhead Cams (SOHC),Liquid,Chain,152.0,1450.0,800.0
+triumph,Sport touring,1050.0,128.0,108.0,In-line three,6-speed,79.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,210.0,1457.0,805.0
+harley-davidson,Custom / cruiser,1746.0,86.0,145.0,V2,6-speed,100.0,111.0,13.6,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,296.0,1615.0,710.0
+ktm,Sport,1148.0,152.0,120.0,Twin,6-speed,103.0,69.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1430.0,805.0
+mv agusta,Sport touring,798.0,125.0,84.0,In-line three,6-speed,79.0,54.3,20.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,199.0,1420.0,870.0
+bmw,Sport,1293.0,173.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,228.0,1585.0,820.0
+harley-davidson,Touring,1688.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,363.0,1625.0,705.0
+kawasaki,Sport,249.0,59.1,40.2,Twin,6-speed,56.0,50.6,16.0,Membrane,Liquid,Chain,131.0,1365.0,755.0
+ducati,Sport,1078.0,93.9,102.0,V2,6-speed,98.0,71.5,20.0,Desmodromic valve control,Air,Chain,196.0,1462.0,850.0
+gilera,Scooter,492.7,40.0,46.5,Single cylinder,Automatic,94.0,71.0,12.0,Single Overhead Cams (SOHC),Liquid,Chain,244.0,1550.0,785.0
+triumph,Classic,865.0,59.0,68.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,214.0,1500.0,825.0
+bmw,Sport touring,1293.0,160.0,135.0,In-line four,6-speed,80.0,64.3,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,255.0,1572.0,800.0
+triumph,Sport,675.0,128.0,74.0,In-line three,6-speed,76.0,49.6,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1375.0,830.0
+harley-davidson,Custom / cruiser,1688.0,77.8,132.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,320.0,1638.0,670.0
+mv agusta,Sport,998.0,200.0,111.0,In-line four,6-speed,79.0,50.9,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1430.0,830.0
+titan,Custom / cruiser,1750.0,112.0,121.0,V2,6-speed,101.6,113.0,17.41,Overhead Valves (OHV),Air,Chain,308.4,1882.0,584.0
+mv agusta,Naked bike,798.0,125.0,81.0,In-line three,6-speed,79.0,54.3,16.6,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,167.0,1380.0,810.0
+ducati,Naked bike,1198.4,162.0,130.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,210.0,1590.0,770.0
+aprilia,Naked bike,997.6,138.0,96.0,V2,6-speed,97.0,67.5,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1415.0,820.0
+yamaha,Super motard,124.7,14.8,12.2,Single cylinder,6-speed,52.0,58.6,8.5,Single Overhead Cams (SOHC),Liquid,Chain,127.0,1430.0,920.0
+bmw,Touring,1649.0,160.0,129.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,308.0,1679.0,810.0
+aprilia,Sport,999.6,201.0,115.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1420.0,845.0
+triumph,Custom / cruiser,865.0,61.0,72.0,Twin,5-speed,90.0,68.0,19.3,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,231.0,1617.0,690.0
+triumph,Custom / cruiser,865.0,55.0,69.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,225.4,1655.0,720.0
+ducati,Classic,992.0,90.8,93.0,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,179.0,1425.0,825.0
+kymco,Custom / cruiser,149.4,11.5,9.3,Single cylinder,5-speed,62.0,49.5,12.0,Overhead Cams (OHC),Air,Chain,153.0,1475.0,720.0
+loncin,Naked bike,180.1,14.1,13.5,Single cylinder,6-speed,63.0,58.0,12.0,Overhead Cams (OHC),Air,Chain,125.0,1335.0,780.0
+honda,Sport,998.0,96.6,97.0,In-line four,6-speed,75.0,56.5,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,228.0,1483.0,795.0
+harley-davidson,Custom / cruiser,883.0,68.0,69.0,V2,5-speed,76.2,96.8,12.9,Overhead Valves (OHV),Air,Belt,251.0,1520.0,693.0
+ducati,Naked bike,1285.0,215.0,146.0,V2,6-speed,116.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,156.0,1511.0,830.0
+harley-davidson,Custom / cruiser,1745.0,86.0,145.0,V2,6-speed,100.0,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,304.0,1625.0,680.0
+keeway,Custom / cruiser,150.1,11.8,11.0,Single cylinder,5-speed,62.0,49.5,15.0,Overhead Valves (OHV),Air,Chain,134.0,1440.0,730.0
+ducati,Sport,849.4,138.0,98.0,V2,6-speed,94.0,61.2,18.0,Desmodromic valve control,Liquid,Chain,167.0,1430.0,830.0
+ducati,Super motard,1078.0,90.0,103.0,V2,6-speed,98.0,71.5,12.4,Desmodromic valve control,Air,Chain,179.0,1455.0,845.0
+mv agusta,Naked bike,909.0,139.0,96.0,In-line four,6-speed,75.9,43.2,19.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,185.0,1410.0,805.0
+ktm,Naked bike,373.0,44.0,37.0,Single cylinder,6-speed,89.0,60.0,13.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,150.0,1357.0,830.0
+benelli,Naked bike,1131.0,123.0,115.0,In-line three,6-speed,88.0,62.0,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,205.0,1540.0,840.0
+triumph,Classic,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,14.38,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,213.0,1450.0,790.0
+ducati,Classic,992.0,90.8,91.3,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,185.0,1425.0,828.0
+triumph,Allround,1215.0,139.0,123.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,253.0,1520.0,837.0
+bmw,Sport,999.0,165.0,112.0,In-line four,6-speed,80.0,49.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1548.0,840.0
+cleveland,Enduro / offroad,110.0,7.0,6.9,Single cylinder,4-speed,52.4,49.5,3.4,Single Overhead Cams (SOHC),Air,Chain,74.0,1280.0,845.0
+zontes,Naked bike,312.0,34.9,30.0,Single cylinder,6-speed,80.0,62.0,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,155.0,1400.0,795.0
+bmw,Touring,1649.0,158.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,321.0,1680.0,750.0
+bmw,Enduro / offroad,798.0,84.5,83.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1578.0,880.0
+triumph,Custom / cruiser,865.0,61.0,74.0,Twin,5-speed,90.0,68.0,19.3,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,226.0,1655.0,720.0
+bmw,Naked bike,1293.0,170.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,217.0,1585.0,820.0
+ducati,Sport,748.0,106.0,82.0,V2,6-speed,90.0,58.8,15.5,Desmodromic valve control,Liquid,Chain,189.0,1420.0,780.0
+ktm,Super motard,999.0,114.0,97.0,Twin,6-speed,101.0,62.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1510.0,875.0
+bmw,Touring,1170.0,108.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,16.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,182.0,1485.0,780.0
+yamaha,Sport,998.0,200.0,112.0,In-line four,6-speed,79.0,50.9,17.03,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1405.0,861.0
+honda,Scooter,279.0,24.8,27.5,Single cylinder,Automatic,68.0,68.5,11.5,Single Overhead Cams (SOHC),Liquid,Belt,189.0,1510.0,755.0
+ktm,Super motard,999.0,114.0,97.0,Twin,6-speed,101.0,62.4,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,196.0,1505.0,855.0
+mv agusta,Naked bike,675.0,125.0,81.0,In-line three,6-speed,79.0,54.3,16.6,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1380.0,810.0
+moto guzzi,Enduro / offroad,1151.0,105.0,108.0,V2,6-speed,95.0,81.2,18.0,Overhead Valves (OHV),Oil & air,Shaft drive,251.0,1535.0,840.0
+bmw,Sport touring,1293.0,173.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,228.0,1585.0,820.0
+ducati,Super motard,1078.0,95.0,102.0,V2,6-speed,98.0,71.5,12.4,Desmodromic valve control,Air,Chain,171.0,1465.0,875.0
+ktm,Enduro / offroad,373.2,43.0,37.0,Single cylinder,6-speed,89.0,60.0,14.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,158.0,1430.0,855.0
+triumph,Classic,865.0,68.4,70.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,205.0,1490.0,790.0
+keeway,Custom / cruiser,248.9,19.2,18.7,V2,5-speed,49.0,66.0,13.5,Single Overhead Cams (SOHC),Air,Chain,170.0,1530.0,688.0
+ducati,Naked bike,803.0,85.8,58.0,V2,6-speed,88.0,66.0,15.0,Desmodromic valve control,Air,Chain,167.0,1450.0,800.0
+ducati,Classic,992.0,92.0,93.0,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,185.0,1425.0,810.0
+ducati,Naked bike,849.0,130.0,93.5,V2,6-speed,94.0,61.2,16.5,Desmodromic valve control,Liquid,Chain,169.0,1475.0,840.0
+harley-davidson,Custom / cruiser,1690.0,75.0,126.0,V2,6-speed,98.4,111.3,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,308.0,1636.0,650.0
+moto guzzi,Sport touring,1064.0,89.9,94.0,V2,6-speed,98.0,80.0,20.7,Overhead Cams (OHC),Air,Shaft drive,226.0,1490.0,800.0
+honda,Scooter,124.8,9.2,10.1,Single cylinder,4-speed,52.4,57.9,3.7,Single Overhead Cams (SOHC),Air,Chain,105.5,1240.0,778.0
+triumph,Custom / cruiser,865.0,55.0,69.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,228.6,1655.0,720.0
+bmw,Scooter,647.0,60.0,63.0,Twin,Automatic,79.0,66.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,236.8,1590.0,810.0
+triumph,Custom / cruiser,1699.0,98.0,156.0,Twin,6-speed,107.1,94.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,308.0,1615.0,700.0
+can-am,Sport,998.0,106.0,104.0,V2,Automatic,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1727.0,737.0
+ducati,Sport,848.0,140.0,98.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+bmw,Naked bike,1170.0,110.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,198.0,1495.0,800.0
+triumph,Naked bike,660.0,81.0,63.7,In-line three,6-speed,74.0,51.1,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1401.0,805.0
+keeway,Super motard,199.7,16.1,14.5,Single cylinder,5-speed,68.0,55.0,7.0,Single Overhead Cams (SOHC),Liquid,Chain,137.0,1460.0,825.0
+harley-davidson,Touring,1868.0,89.0,165.0,V2,6-speed,102.0,114.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,372.0,1625.0,695.0
+honda,Scooter,109.0,8.0,8.5,Single cylinder,4-speed,50.0,55.6,4.3,Overhead Cams (OHC),Air,Belt,98.0,1210.0,735.0
+ducati,Naked bike,1198.0,147.0,124.0,V2,6-speed,106.0,67.9,16.5,Desmodromic valve control,Liquid,Chain,185.0,1485.0,785.0
+honda,Enduro / offroad,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,17.3,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1421.0,810.0
+honda,Scooter,50.0,4.0,4.5,Single cylinder,Automatic,38.0,44.0,5.0,Single Overhead Cams (SOHC),Liquid,Belt,84.0,1265.0,735.0
+triumph,Naked bike,900.0,65.0,80.0,Twin,5-speed,84.6,80.0,12.11,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1415.0,759.0
+ducati,Naked bike,821.0,112.0,89.4,V2,6-speed,88.0,67.5,17.5,Desmodromic valve control,Air,Chain,179.5,1480.0,785.0
+buell,Naked bike,984.0,92.0,95.0,Twin,5-speed,88.9,79.4,14.0,Overhead Valves (OHV),Air,Belt,175.0,1320.0,775.0
+honda,Scooter,108.0,8.3,8.3,Single cylinder,Automatic,50.0,55.0,3.8,Overhead Cams (OHC),Air,Belt,90.0,1240.0,747.0
+ducati,Enduro / offroad,1198.4,152.0,128.0,V2,6-speed,106.0,67.9,30.0,Desmodromic valve control,Liquid,Chain,232.0,1594.0,870.0
+bmw,Enduro / offroad,798.0,69.7,75.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,179.0,1575.0,820.0
+ducati,Sport,1198.4,170.0,131.0,V2,6-speed,106.0,67.9,15.5,Desmodromic valve control,Liquid,Chain,171.0,1430.0,820.0
+triumph,Allround,1215.0,139.0,123.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,258.0,1520.0,837.0
+honda,Super motard,996.0,92.5,98.0,V2,6-speed,98.0,66.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,244.2,1560.0,838.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,360.2,1625.0,668.0
+kymco,Scooter,49.0,1.9,4.1,Single cylinder,4-speed,39.0,41.0,3.5,Single Overhead Cams (SOHC),Air,Shaft drive,92.5,1325.0,800.0
+mv agusta,Sport,998.0,195.0,110.0,In-line four,6-speed,79.0,50.9,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,291.0,1430.0,830.0
+ducati,Allround,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,209.0,1530.0,825.0
+bmw,Enduro / offroad,798.0,48.0,83.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1578.0,880.0
+aprilia,Super motard,749.9,90.3,82.0,V2,6-speed,92.0,56.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1505.0,870.0
+bmw,Touring,1649.0,158.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,306.0,1618.0,750.0
+triumph,Super motard,800.0,95.0,79.0,In-line three,6-speed,74.1,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1545.0,840.0
+suzuki,Sport,1340.0,194.0,155.0,In-line four,6-speed,81.0,65.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,266.0,1480.0,805.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,196.0,1545.0,790.0
+piaggio,Scooter,49.9,11.4,3.5,Single cylinder,Automatic,39.0,41.8,7.1,Single Overhead Cams (SOHC),Air,Belt,100.0,1331.0,785.0
+victory,Custom / cruiser,1179.0,104.0,103.0,V2,6-speed,101.0,73.6,12.87,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,248.6,1577.0,658.0
+suzuki,Sport,1340.0,197.0,155.0,In-line four,6-speed,81.0,65.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,266.0,1480.0,805.0
+honda,Sport,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,17.3,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,182.0,1421.0,810.0
+ducati,Naked bike,1198.4,145.0,124.0,V2,6-speed,106.0,67.9,17.5,Desmodromic valve control,Liquid,Chain,182.0,1511.0,785.0
+bmw,Sport touring,798.0,90.0,86.0,Twin,6-speed,82.0,75.6,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,206.0,1514.0,800.0
+harley-davidson,Touring,1584.0,84.0,127.0,V2,6-speed,95.3,111.1,22.7,Overhead Valves (OHV),Air,Belt,375.0,1612.0,693.0
+ducati,Sport touring,939.0,113.0,97.9,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,187.0,1485.0,810.0
+ducati,Naked bike,803.0,87.0,78.0,V2,6-speed,88.0,66.0,15.0,Desmodromic valve control,Air,Chain,167.0,1450.0,770.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,164.0,1437.0,830.0
+kawasaki,Sport,599.0,108.0,65.0,In-line four,6-speed,66.0,43.8,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,176.0,1466.0,820.0
+ktm,Naked bike,125.0,15.0,12.0,Single cylinder,6-speed,58.0,47.2,13.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,139.0,1357.0,830.0
+harley-davidson,Custom / cruiser,1449.0,67.0,106.0,V2,5-speed,95.3,101.6,19.7,Overhead Valves (OHV),Air,Belt,293.0,1665.0,738.0
+triumph,Custom / cruiser,865.0,55.0,69.0,Twin,5-speed,90.0,68.0,16.6,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,229.0,1655.0,720.0
+ducati,Classic,1079.0,84.5,88.0,V2,6-speed,98.0,71.0,15.0,Desmodromic valve control,Air,Chain,189.0,1514.0,810.0
+yamaha,Naked bike,689.0,73.8,68.0,Twin,6-speed,80.0,68.6,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,164.0,1400.0,805.0
+honda,Scooter,248.0,22.8,23.0,Single cylinder,Automatic,68.0,68.5,12.0,Overhead Cams (OHC),Liquid,Belt,180.0,1540.0,755.0
+bmw,Touring,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,233.2,1485.0,805.0
+aprilia,Scooter,181.0,19.0,17.2,Single cylinder,Automatic,63.0,58.0,8.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,154.0,1380.0,810.0
+honda,Sport,125.0,14.2,10.0,V2,5-speed,42.0,45.0,16.8,Single Overhead Cams (SOHC),Liquid,Chain,152.0,1450.0,800.0
+ccm,Super motard,644.0,53.0,52.0,Single cylinder,5-speed,100.0,82.0,13.0,Overhead Cams (OHC),Oil & air,Chain,137.0,1525.0,865.0
+ducati,Sport,955.0,155.0,104.0,V2,6-speed,100.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,176.0,1436.0,830.0
+aprilia,Sport,999.6,180.0,115.0,V4,6-speed,78.0,52.3,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,179.0,1412.0,845.0
+benelli,Naked bike,300.0,38.0,27.4,Twin,6-speed,57.4,57.8,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1410.0,795.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,323.0,1680.0,750.0
+moto guzzi,Custom / cruiser,935.6,75.0,75.0,V2,6-speed,95.0,66.0,19.0,Overhead Valves (OHV),Air,Shaft drive,223.0,1560.0,760.0
+buell,Naked bike,1203.0,100.0,109.0,Twin,5-speed,88.9,96.8,14.0,Overhead Valves (OHV),Air,Belt,179.0,1320.0,765.0
+benelli,Sport,300.0,35.4,27.4,Twin,6-speed,57.4,57.8,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1405.0,780.0
+harley-davidson,Custom / cruiser,1868.0,94.0,155.0,V2,6-speed,100.0,114.3,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,316.0,1630.0,680.0
+benelli,Naked bike,1131.0,135.0,110.0,In-line three,6-speed,88.0,62.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1443.0,780.0
+ducati,Enduro / offroad,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,30.0,Desmodromic valve control,Liquid,Chain,225.0,1594.0,870.0
+yamaha,Custom / cruiser,696.0,86.0,61.8,In-line four,5-speed,65.0,52.4,13.0,Double Overhead Cams/Twin Cam (DOHC),Air,Shaft drive,219.0,1520.0,750.0
+harley-davidson,Custom / cruiser,1201.3,67.0,96.0,V2,5-speed,88.9,96.8,17.0,Overhead Valves (OHV),Air,Belt,255.0,1530.0,725.0
+honda,Allround,149.2,10.5,11.6,Single cylinder,5-speed,57.3,57.8,14.3,Overhead Cams (OHC),Air,Chain,120.0,1306.0,771.0
+triumph,Super motard,800.0,95.0,79.0,In-line three,6-speed,74.1,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1530.0,760.0
+moto guzzi,Naked bike,1064.0,110.0,108.0,V2,6-speed,95.0,81.5,16.7,Overhead Valves (OHV),Air,Shaft drive,222.0,1554.0,800.0
+moto guzzi,Sport touring,1064.0,89.9,94.0,V2,6-speed,92.0,80.0,20.7,Overhead Cams (OHC),Air,Shaft drive,226.0,1490.0,800.0
+ktm,Enduro / offroad,999.0,104.0,100.0,Twin,6-speed,101.0,62.4,19.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,209.0,1570.0,860.0
+ktm,Sport,1195.0,167.0,123.0,V2,6-speed,105.0,69.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,182.0,1425.0,805.0
+benelli,Naked bike,899.0,120.0,88.0,In-line three,6-speed,88.0,49.2,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,205.0,1443.0,830.0
+moto guzzi,Custom / cruiser,744.0,45.6,77.3,V2,5-speed,80.0,74.0,14.0,Overhead Cams (OHC),Air,Shaft drive,176.0,1482.0,770.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,830.0
+triumph,Classic,865.0,68.0,68.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,209.0,1490.0,740.0
+ktm,Naked bike,999.0,130.0,102.0,V2,6-speed,101.0,62.4,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1450.0,855.0
+triumph,Naked bike,1050.0,130.0,105.0,In-line three,6-speed,79.0,71.4,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1429.0,815.0
+ducati,Naked bike,849.0,132.0,93.5,V2,6-speed,94.0,61.2,16.5,Desmodromic valve control,Liquid,Chain,169.0,1475.0,840.0
+yamaha,Enduro / offroad,660.0,47.3,60.0,Single cylinder,5-speed,100.0,84.0,15.0,Single Overhead Cams (SOHC),Liquid,Chain,165.0,1505.0,875.0
+honda,Allround,223.0,21.5,18.0,Single cylinder,5-speed,65.5,66.2,7.2,Overhead Cams (OHC),Air,Chain,119.0,1395.0,780.0
+malaguti,Scooter,493.0,40.9,40.4,Single cylinder,Automatic,94.0,71.0,14.5,Single Overhead Cams (SOHC),Liquid,Belt,204.0,1490.0,760.0
+ducati,Sport,937.0,113.0,96.7,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,183.0,1478.0,810.0
+keeway,Sport,149.4,11.3,11.3,Single cylinder,4-speed,62.0,49.5,11.3,Single Overhead Cams (SOHC),Air,Chain,99.0,1246.0,800.0
+ducati,Naked bike,1262.0,156.0,128.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Belt,220.0,1615.0,755.0
+yamaha,Sport,49.0,2.7,3.0,Single cylinder,6-speed,40.3,39.0,14.0,Single Overhead Cams (SOHC),Liquid,Chain,112.0,1341.0,815.0
+hyosung,Custom / cruiser,647.0,79.0,67.0,V2,5-speed,81.5,62.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,232.0,1700.0,690.0
+harley-davidson,Custom / cruiser,1690.0,77.5,130.0,V2,6-speed,98.4,111.1,17.8,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,291.0,1631.0,680.0
+honda,Sport,998.0,169.0,114.0,In-line four,6-speed,75.0,56.5,18.16,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,176.0,1402.0,820.0
+gilera,Scooter,492.7,40.0,46.5,Single cylinder,Automatic,94.0,71.0,12.0,Single Overhead Cams (SOHC),Liquid,Chain,244.0,1550.0,785.0
+husqvarna,Enduro / offroad,692.7,73.8,67.0,Single cylinder,6-speed,105.0,80.0,13.0,Single Overhead Cams (SOHC),Liquid,Chain,145.0,1504.0,920.0
+triumph,Classic,865.0,68.0,68.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,209.0,1490.0,740.0
+honda,Sport,399.0,52.3,38.0,In-line four,6-speed,55.0,42.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,195.0,1560.0,755.0
+moto guzzi,Custom / cruiser,1064.0,73.8,88.5,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,246.0,1560.0,760.0
+wakan,Naked bike,1640.0,120.0,165.0,V2,5-speed,101.6,101.6,13.0,Overhead Valves (OHV),Air,Belt,183.0,1380.0,790.0
+mv agusta,Sport,998.0,201.0,111.0,In-line four,6-speed,79.0,50.9,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1430.0,830.0
+bmw,Enduro / offroad,652.0,53.0,60.0,Single cylinder,5-speed,100.0,83.0,9.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,148.0,1498.0,870.0
+bmw,Sport,1170.0,131.0,115.0,Twin,6-speed,101.0,73.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,178.0,1485.0,830.0
+harley-davidson,Touring,1745.0,90.0,150.0,V2,6-speed,100.0,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,372.0,1625.0,685.0
+triumph,Touring,2294.0,106.0,154.0,In-line three,5-speed,101.6,94.3,18.54,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,357.4,1707.0,736.0
+ducati,Enduro / offroad,1262.0,158.0,128.0,V2,6-speed,106.0,71.5,30.0,Desmodromic valve control,Liquid,Chain,225.0,1592.0,840.0
+bmw,Scooter,350.0,34.0,35.0,Single cylinder,Automatic,80.0,69.5,12.8,Overhead Cams (OHC),Liquid,Chain,193.0,1565.0,775.0
+keeway,Super motard,124.5,11.0,9.4,Single cylinder,5-speed,57.0,48.8,10.5,Single Overhead Cams (SOHC),Air,Chain,135.0,1340.0,825.0
+harley-davidson,Sport,1202.0,90.0,100.0,V2,5-speed,88.9,96.8,13.3,Overhead Valves (OHV),Air,Belt,250.0,1515.0,765.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,295.0,1680.0,810.0
+benelli,Allround,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,213.0,1525.0,800.0
+harley-davidson,Touring,1745.0,89.0,150.0,V2,6-speed,100.0,111.3,22.7,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,362.0,1625.0,690.0
+ktm,Super motard,999.0,115.0,100.0,V2,6-speed,101.0,62.4,19.68,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,209.6,1570.0,861.0
+moto guzzi,Classic,744.0,48.0,60.0,V2,5-speed,80.0,74.0,21.0,Pushrods,Air,Shaft drive,186.0,1450.0,798.0
+keeway,Enduro / offroad,197.0,12.7,13.5,Single cylinder,5-speed,63.5,62.2,10.5,Overhead Valves (OHV),Liquid,Chain,135.0,1340.0,825.0
+suzuki,Enduro / offroad,124.0,10.0,9.5,Single cylinder,6-speed,57.0,48.8,8.5,Overhead Cams (OHC),Air,Chain,121.0,1340.0,820.0
+bmw,Touring,1170.0,108.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,229.0,1485.0,820.0
+bmw,Enduro / offroad,798.0,85.0,83.0,Twin,6-speed,82.0,75.6,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1578.0,890.0
+triumph,Allround,1215.0,139.0,122.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,243.0,1520.0,837.0
+bmw,Touring,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,233.2,1485.0,805.0
+mv agusta,Naked bike,1078.0,154.0,117.0,In-line four,6-speed,79.0,55.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,185.0,1411.0,805.0
+aprilia,Naked bike,896.1,95.2,90.0,V2,6-speed,92.0,64.1,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1440.0,810.0
+honda,Scooter,125.0,13.0,11.1,Single cylinder,Automatic,52.4,57.8,9.4,Single Overhead Cams (SOHC),Liquid,Belt,156.0,1490.0,776.0
+yamaha,Sport,998.0,177.0,112.0,In-line four,6-speed,77.0,53.6,17.97,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,176.9,1415.0,836.0
+triumph,Classic,1200.0,80.0,105.0,Twin,6-speed,97.6,80.0,12.87,Single Overhead Cams (SOHC),Air,Chain,224.0,1446.0,790.0
+honda,Scooter,248.0,22.0,22.0,Single cylinder,Automatic,68.0,68.5,12.0,Overhead Cams (OHC),Liquid,Belt,201.0,1540.0,755.0
+ktm,Naked bike,690.0,69.1,70.0,Single cylinder,6-speed,102.0,84.5,13.5,Overhead Cams (OHC),Liquid,Chain,148.0,1472.0,865.0
+harley-davidson,Touring,1200.0,67.1,96.0,V2,5-speed,88.9,96.8,17.03,Overhead Valves (OHV),Air,Belt,232.0,1501.0,648.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,790.0
+ducati,Sport,849.4,170.0,131.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+harley-davidson,Touring,1746.0,90.0,150.0,V2,6-speed,100.0,111.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,398.0,1625.0,740.0
+suzuki,Scooter,124.0,9.9,10.0,Single cylinder,Automatic,53.5,55.2,4.3,Single Overhead Cams (SOHC),Air,Belt,104.0,1220.0,770.0
+mv agusta,Naked bike,798.0,138.0,87.0,In-line three,6-speed,79.0,54.3,16.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,168.0,1380.0,820.0
+yamaha,Allround,897.0,85.0,88.8,Twin,6-speed,92.0,67.5,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1485.0,825.0
+bmw,Enduro / offroad,652.0,50.0,44.0,Single cylinder,5-speed,100.0,83.0,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.1,1478.0,800.0
+yamaha,Sport,1670.0,90.0,150.0,V2,5-speed,97.0,113.0,15.0,Overhead Valves (OHV),Air,Chain,246.0,1525.0,825.0
+bmw,Enduro / offroad,1170.0,108.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,33.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,223.0,1510.0,890.0
+triumph,Classic,865.0,70.0,72.0,Twin,5-speed,90.0,68.0,16.6,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,205.0,1490.0,790.0
+suzuki,Scooter,124.0,9.3,9.6,Single cylinder,Automatic,53.5,55.2,3.9,Single Overhead Cams (SOHC),Air,Belt,106.0,1285.0,770.0
+moto guzzi,Custom / cruiser,1064.0,73.8,88.0,V2,5-speed,92.0,80.0,19.0,Overhead Valves (OHV),Air,Shaft drive,256.0,1560.0,780.0
+buell,Naked bike,1202.9,92.5,104.0,V2,5-speed,88.9,96.8,14.45,Overhead Valves (OHV),Oil & air,Belt,179.0,1320.0,726.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1545.0,840.0
+honda,Scooter,97.1,7.2,7.3,Single cylinder,4-speed,50.0,49.5,3.7,Overhead Cams (OHC),Air,Belt,90.7,1234.0,751.0
+ktm,Sport,124.7,15.0,12.0,Single cylinder,6-speed,58.0,47.2,10.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,135.0,1340.0,820.0
+triumph,Classic,1200.0,77.0,106.0,Twin,6-speed,97.6,80.0,10.6,Single Overhead Cams (SOHC),Liquid,Chain,228.0,1510.0,690.0
+triumph,Classic,865.0,67.0,71.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,204.6,1500.0,775.0
+hyosung,Sport,125.0,14.2,10.2,V2,5-speed,44.0,41.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,167.0,1445.0,795.0
+suzuki,Sport,1340.0,197.0,155.0,In-line four,6-speed,81.0,65.0,20.82,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,266.0,1480.0,805.0
+honda,Naked bike,249.4,29.0,23.0,Single cylinder,6-speed,76.0,63.0,12.87,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,158.0,1369.0,775.0
+keeway,Custom / cruiser,124.1,10.5,8.9,Single cylinder,5-speed,56.5,49.5,15.0,Overhead Valves (OHV),Air,Chain,134.0,1440.0,730.0
+triumph,Allround,1215.0,141.0,122.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,242.0,1520.0,835.0
+keeway,Custom / cruiser,124.1,10.5,8.9,Single cylinder,5-speed,56.5,49.5,15.0,Overhead Valves (OHV),Air,Chain,134.0,1440.0,730.0
+harley-davidson,Custom / cruiser,749.0,58.0,60.3,V2,6-speed,85.0,66.0,13.1,Single Overhead Cams (SOHC),Liquid,Belt,223.0,1534.0,653.0
+moto guzzi,Naked bike,1064.0,110.0,108.0,V2,6-speed,95.0,81.5,16.7,Overhead Valves (OHV),Air,Shaft drive,222.0,1554.0,800.0
+keeway,Scooter,124.8,8.7,9.5,Single cylinder,4-speed,52.4,57.8,4.0,Single Overhead Cams (SOHC),Air,Chain,105.0,1275.0,785.0
+honda,Sport,399.0,52.3,38.0,In-line four,6-speed,55.0,42.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,195.0,1560.0,755.0
+harley-davidson,Custom / cruiser,1202.0,65.0,99.0,V2,6-speed,88.9,96.8,7.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,247.0,1495.0,665.0
+ducati,Naked bike,1099.0,155.0,115.0,V2,6-speed,104.0,64.7,16.5,Desmodromic valve control,Liquid,Chain,167.0,1475.0,840.0
+honda,Sport,124.7,11.1,11.2,Single cylinder,5-speed,52.4,57.8,13.0,Overhead Cams (OHC),Air,Chain,128.0,1270.0,792.0
+triumph,Custom / cruiser,2294.0,140.0,200.0,In-line three,5-speed,101.6,94.3,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,320.0,1690.0,740.0
+mv agusta,Naked bike,998.0,139.0,106.0,In-line four,6-speed,76.0,55.0,23.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,190.0,1438.0,830.0
+yamaha,Scooter,125.0,9.4,9.6,Single cylinder,Automatic,52.4,57.9,4.2,Single Overhead Cams (SOHC),Air,Belt,96.0,1260.0,750.0
+skyteam,"Minibike, cross",49.0,3.4,2.8,Single cylinder,4-speed,39.0,41.4,8.5,Single Overhead Cams (SOHC),Air,Chain,88.0,1215.0,720.0
+moto guzzi,Classic,1064.0,72.4,94.0,V2,5-speed,92.0,80.0,19.0,Overhead Valves (OHV),Air,Shaft drive,263.0,1560.0,780.0
+suzuki,Custom / cruiser,805.0,50.0,62.0,V2,5-speed,83.0,74.4,12.0,Single Overhead Cams (SOHC),Liquid,Shaft drive,204.0,1560.0,700.0
+yamaha,Sport,847.0,115.0,87.5,In-line three,6-speed,78.0,59.1,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1440.0,815.0
+ktm,Allround,799.0,93.9,88.0,Twin,6-speed,88.0,65.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1475.0,850.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,321.0,1618.0,750.0
+norton,Classic,961.0,80.0,90.0,Twin,5-speed,88.0,79.0,17.0,Pushrods,Air,Chain,188.0,1400.0,810.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,188.0,1545.0,810.0
+buell,Naked bike,984.0,84.2,85.6,Twin,5-speed,88.9,96.8,14.0,Overhead Valves (OHV),Air,Belt,175.0,1320.0,765.0
+honda,Allround,149.2,10.5,11.6,Single cylinder,5-speed,57.3,57.8,14.3,Overhead Cams (OHC),Air,Chain,120.0,1306.0,771.0
+bmw,Touring,987.0,90.0,86.0,In-line four,5-speed,67.0,70.0,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,253.0,1565.0,800.0
+piaggio,Scooter,493.0,40.1,45.5,Single cylinder,Automatic,94.0,71.0,12.0,Single Overhead Cams (SOHC),Liquid,Belt,261.7,1550.0,780.0
+harley-davidson,Touring,1745.0,91.0,152.0,V2,6-speed,100.0,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,398.0,1625.0,740.0
+triumph,Classic,865.0,68.0,69.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,205.0,1500.0,775.0
+yamaha,Naked bike,998.0,143.0,106.0,In-line four,6-speed,74.0,58.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1397.0,825.0
+ducati,Naked bike,618.0,46.4,57.0,Twin,5-speed,80.0,61.5,14.0,Desmodromic valve control,Air,Chain,166.0,1440.0,770.0
+loncin,Enduro / offroad,150.1,17.7,10.5,Single cylinder,5-speed,62.0,49.9,9.0,Overhead Valves (OHV),Air,Chain,150.0,1470.0,910.0
+mv agusta,Naked bike,1078.0,158.0,100.0,In-line four,6-speed,79.0,55.0,23.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1438.0,825.0
+bmw,Naked bike,798.0,90.0,86.0,Twin,6-speed,82.0,75.6,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1520.0,790.0
+kawasaki,Sport touring,649.0,71.0,65.8,Twin,6-speed,83.0,60.0,15.51,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.8,1410.0,787.0
+suzuki,Naked bike,1340.0,181.0,146.0,In-line four,6-speed,81.0,65.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,239.0,1525.0,805.0
+honda,Super motard,680.2,59.1,60.0,V2,5-speed,81.0,66.0,17.5,Single Overhead Cams (SOHC),Liquid,Chain,218.0,1515.0,841.0
+aprilia,Naked bike,749.9,95.0,80.9,V2,6-speed,92.0,56.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1440.0,810.0
+ducati,Sport touring,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,189.0,1530.0,850.0
+suzuki,Sport touring,1298.0,175.0,138.0,In-line four,6-speed,81.0,63.0,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1485.0,805.0
+ducati,Sport,1198.4,180.0,134.0,V2,6-speed,106.0,67.9,15.5,Desmodromic valve control,Liquid,Chain,165.0,1430.0,820.0
+honda,Scooter,97.1,7.3,7.3,Single cylinder,Automatic,50.0,49.5,3.7,Overhead Cams (OHC),Air,Belt,91.5,1234.0,751.0
+suzuki,Sport,154.9,14.8,14.0,Single cylinder,5-speed,56.0,62.9,12.0,Single Overhead Cams (SOHC),Air,Chain,128.0,1330.0,780.0
+buell,Naked bike,983.3,92.0,94.9,V2,5-speed,88.9,79.4,14.45,Overhead Valves (OHV),Oil & air,Belt,177.0,1321.0,765.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,790.0
+buell,Naked bike,1203.0,92.0,113.0,V2,5-speed,88.9,96.8,13.0,Overhead Valves (OHV),Oil & air,Shaft drive,179.2,1321.0,765.0
+ducati,Sport,999.0,150.0,119.0,V2,6-speed,104.0,58.8,15.5,Desmodromic valve control,Liquid,Chain,181.0,1420.0,780.0
+honda,Custom / cruiser,1312.0,57.0,107.0,V2,5-speed,89.5,104.3,20.3,Single Overhead Cams (SOHC),Liquid,Shaft drive,309.0,1805.0,678.0
+triumph,Naked bike,675.0,106.0,68.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1410.0,800.0
+wk,Sport,649.0,69.7,62.0,Twin,6-speed,83.0,60.0,17.5,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,220.0,1414.0,795.0
+harley-davidson,Custom / cruiser,1746.0,86.0,149.0,V2,6-speed,100.0,111.0,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,287.0,1630.0,690.0
+triumph,Naked bike,675.0,105.0,69.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1390.0,805.0
+harley-davidson,Touring,1690.0,78.0,125.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,333.0,1635.0,690.0
+bmw,Enduro / offroad,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,30.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,229.1,1510.0,890.0
+harley-davidson,Custom / cruiser,1868.0,93.0,155.0,V2,6-speed,102.0,114.0,13.2,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,294.0,1695.0,665.0
+mv agusta,Sport,998.0,183.0,115.0,In-line four,6-speed,76.0,55.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1408.0,810.0
+triumph,Allround,1215.0,139.0,122.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,242.0,1520.0,835.0
+benelli,Naked bike,1131.0,140.0,122.0,In-line three,6-speed,88.0,62.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1419.0,780.0
+loncin,Naked bike,292.4,29.0,17.2,Single cylinder,6-speed,78.0,61.2,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,140.0,1360.0,780.0
+honda,Allround,124.1,9.7,9.4,Single cylinder,5-speed,56.5,49.5,8.6,Overhead Valves (OHV),Air,Chain,108.0,1306.0,771.0
+harley-davidson,Touring,1688.0,87.0,138.0,V2,6-speed,98.4,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,407.0,1625.0,735.0
+aprilia,Naked bike,1077.0,175.0,120.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1445.0,825.0
+ktm,Naked bike,999.0,118.0,100.0,V2,6-speed,101.0,62.4,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1450.0,850.0
+can-am,Touring,998.0,100.0,104.0,V2,5-speed,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,421.0,1708.0,772.0
+triumph,Custom / cruiser,2294.0,140.0,147.0,In-line three,5-speed,101.6,94.3,23.84,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,319.3,1694.0,739.0
+aprilia,Naked bike,1077.0,173.0,121.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1450.0,825.0
+triumph,Sport,675.0,128.0,74.0,In-line three,6-speed,76.0,49.6,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1375.0,820.0
+malaguti,Scooter,493.0,40.9,40.4,Single cylinder,Automatic,94.0,71.0,14.5,Single Overhead Cams (SOHC),Liquid,Belt,204.0,1490.0,760.0
+honda,Allround,599.3,76.4,59.0,In-line four,6-speed,67.0,42.5,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,222.0,1490.0,785.0
+ducati,Classic,803.0,75.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,176.0,1445.0,790.0
+ducati,Sport touring,992.0,105.0,93.0,V2,6-speed,94.0,71.5,21.0,Desmodromic valve control,Liquid,Chain,203.0,1430.0,820.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,362.0,1625.0,705.0
+suzuki,Super motard,645.0,69.0,69.0,V2,6-speed,81.0,62.6,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1560.0,835.0
+ducati,Super motard,1078.0,95.0,10.5,V2,6-speed,98.0,71.5,12.4,Desmodromic valve control,Air,Chain,172.0,1455.0,845.0
+ducati,Naked bike,696.0,78.9,50.6,V2,6-speed,88.0,57.2,14.0,Desmodromic valve control,Air,Chain,161.0,1450.0,770.0
+mv agusta,Naked bike,1078.0,154.0,117.0,In-line four,6-speed,79.0,55.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,185.0,1411.0,805.0
+bmw,Enduro / offroad,1170.0,110.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,33.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,223.0,1510.0,890.0
+vespa,Scooter,150.0,11.7,11.5,Single cylinder,Automatic,62.5,48.5,8.6,Single Overhead Cams (SOHC),Air,Belt,110.2,1280.0,785.0
+yamaha,Enduro / offroad,660.0,47.3,60.0,Single cylinder,5-speed,100.0,84.0,15.0,Single Overhead Cams (SOHC),Liquid,Chain,165.0,1505.0,875.0
+kymco,Sport,124.1,10.1,9.2,Single cylinder,5-speed,56.5,49.5,16.0,Overhead Cams (OHC),Air,Chain,117.0,1270.0,755.0
+mv agusta,Naked bike,675.0,108.0,65.0,In-line three,6-speed,79.0,45.9,16.6,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1380.0,810.0
+ducati,Sport touring,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,206.0,1530.0,850.0
+kymco,Scooter,125.0,9.3,9.1,Single cylinder,Automatic,52.4,57.8,4.92,Single Overhead Cams (SOHC),Air,Belt,107.0,1334.0,787.0
+keeway,Naked bike,124.5,11.0,9.2,Single cylinder,5-speed,57.0,48.8,17.0,Single Overhead Cams (SOHC),Air,Chain,123.0,1330.0,770.0
+honda,Scooter,107.0,8.9,9.3,Single cylinder,Automatic,50.0,55.0,6.5,Single Overhead Cams (SOHC),Liquid,Belt,114.0,1275.0,740.0
+hyosung,Sport,249.0,27.0,22.7,V2,6-speed,57.0,48.8,17.41,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,188.7,1435.0,830.0
+bmw,Sport,999.0,190.0,112.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.0,1432.0,820.0
+honda,Scooter,108.0,8.5,8.7,Single cylinder,Automatic,50.0,55.0,3.8,Overhead Cams (OHC),Air,Belt,90.0,1240.0,747.0
+ducati,Sport,1099.0,134.0,122.0,V2,6-speed,104.0,64.7,15.5,Desmodromic valve control,Liquid,Chain,173.0,1430.0,820.0
+moto guzzi,Classic,744.0,52.0,60.0,V2,5-speed,80.0,74.0,21.0,Pushrods,Air,Shaft drive,189.0,1445.0,770.0
+triumph,Classic,675.0,126.0,75.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,162.0,1395.0,825.0
+moto morini,Naked bike,1187.0,140.0,123.0,V2,6-speed,107.0,66.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,196.0,1440.0,830.0
+bmw,Enduro / offroad,798.0,48.0,75.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,179.0,1575.0,820.0
+harley-davidson,Custom / cruiser,1499.0,67.0,110.0,V2,5-speed,95.3,101.6,18.9,Overhead Valves (OHV),Air,Belt,345.0,1612.0,684.0
+ducati,Touring,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,192.0,1530.0,850.0
+aprilia,Naked bike,999.6,165.0,110.0,V4,6-speed,78.0,52.2,17.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1440.0,840.0
+triumph,Classic,865.0,57.0,69.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,204.6,1500.0,825.0
+victory,Custom / cruiser,1737.1,97.0,153.0,V2,6-speed,101.0,108.0,17.03,Single Overhead Cams (SOHC),Oil & air,Belt,304.8,1669.0,660.0
+ducati,Super motard,937.0,113.0,97.7,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,178.0,1498.0,890.0
+aprilia,Sport,999.6,201.0,115.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1420.0,840.0
+mv agusta,Naked bike,921.0,129.0,95.0,In-line four,6-speed,73.0,55.0,23.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1430.0,825.0
+bmw,Enduro / offroad,652.0,50.0,60.0,Single cylinder,5-speed,100.0,83.0,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1477.0,780.0
+benelli,Enduro / offroad,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,170.0,1456.0,815.0
+moto guzzi,Classic,1064.0,72.4,94.0,V2,5-speed,92.0,80.0,19.0,Overhead Valves (OHV),Air,Shaft drive,263.0,1560.0,780.0
+keeway,Allround,100.0,7.4,7.6,Single cylinder,4-speed,50.0,50.8,12.4,Single Overhead Cams (SOHC),Air,Chain,120.0,1230.0,800.0
+harley-davidson,Custom / cruiser,753.9,57.0,60.3,V2,6-speed,85.1,66.0,13.25,Single Overhead Cams (SOHC),Liquid,Belt,206.4,1534.0,653.0
+bmw,Scooter,647.0,60.0,63.0,Twin,Automatic,79.0,66.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,236.8,1591.0,800.0
+ducati,Sport,1198.4,170.0,131.0,V2,6-speed,106.0,67.9,18.0,Desmodromic valve control,Liquid,Chain,168.0,1430.0,820.0
+suzuki,Naked bike,1340.0,181.0,146.0,In-line four,6-speed,81.0,65.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,235.0,1525.0,805.0
+aprilia,Super motard,749.9,92.0,82.0,V2,6-speed,92.0,56.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1505.0,870.0
+ducati,Sport,888.0,118.0,88.0,Twin,6-speed,94.0,64.0,19.0,Desmodromic valve control,Liquid,Chain,188.0,1430.0,760.0
+ktm,Super motard,999.0,114.0,97.0,V2,6-speed,101.0,62.4,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1510.0,875.0
+bmw,Enduro / offroad,1170.0,103.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,33.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,223.0,1510.0,910.0
+suzuki,Sport,1052.0,130.0,103.0,In-line four,5-speed,76.0,58.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,197.0,1460.0,795.0
+ducati,Sport,998.0,143.0,114.0,V2,6-speed,100.0,63.5,15.5,Desmodromic valve control,Liquid,Chain,186.0,1420.0,780.0
+mv agusta,Sport,675.0,126.0,71.0,In-line three,6-speed,79.0,45.9,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,812.0
+triumph,Allround,1215.0,137.0,121.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,228.0,1530.0,837.0
+aprilia,Naked bike,839.3,75.1,73.0,V2,Automatic,88.0,69.0,16.0,Single Overhead Cams (SOHC),Liquid,Chain,185.0,1463.0,800.0
+honda,Allround,155.3,12.5,12.1,Single cylinder,4-speed,58.5,57.8,9.0,Overhead Valves (OHV),Air,Chain,108.3,1201.0,743.0
+harley-davidson,Custom / cruiser,749.0,58.0,60.3,V2,6-speed,85.0,66.0,13.1,Single Overhead Cams (SOHC),Liquid,Belt,223.0,1534.0,653.0
+bmw,Touring,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,840.0
+suzuki,Super motard,645.0,69.0,69.0,V2,6-speed,81.0,62.6,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,216.0,1560.0,830.0
+bmw,Naked bike,999.0,165.0,114.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,178.0,1439.0,814.0
+ducati,Naked bike,618.0,62.2,55.6,V2,6-speed,80.0,61.5,15.0,Desmodromic valve control,Air,Chain,183.0,1459.0,830.0
+honda,Sport,125.0,14.2,10.0,V2,5-speed,42.0,45.0,16.8,Single Overhead Cams (SOHC),Liquid,Chain,152.0,1450.0,800.0
+triumph,Naked bike,1050.0,130.0,105.0,In-line three,6-speed,79.0,71.4,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,189.0,1425.0,830.0
+triumph,Sport,888.0,85.0,82.0,In-line three,6-speed,78.0,61.9,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,199.0,1556.0,810.0
+bmw,Sport,999.0,162.0,114.0,In-line four,6-speed,80.0,49.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,205.0,1548.0,840.0
+benelli,Enduro / offroad,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,210.0,1535.0,815.0
+buell,Naked bike,1202.9,103.0,113.0,V2,5-speed,88.9,96.8,16.65,Overhead Valves (OHV),Oil & air,Belt,181.0,1364.0,843.0
+aprilia,Naked bike,1077.0,175.0,120.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1445.0,825.0
+aprilia,Sport,999.6,201.0,115.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1420.0,845.0
+ducati,Naked bike,1078.0,98.6,103.0,V2,6-speed,98.0,71.5,13.5,Desmodromic valve control,Air,Chain,169.0,1450.0,810.0
+bimota,Naked bike,1078.0,98.0,88.3,V2,6-speed,98.0,71.5,16.0,Desmodromic valve control,Oil & air,Chain,170.0,1425.0,800.0
+kawasaki,Custom / cruiser,750.0,55.0,60.9,Twin,5-speed,78.0,78.0,10.6,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,206.0,1475.0,775.0
+mv agusta,Naked bike,798.0,140.0,85.0,In-line three,6-speed,79.0,54.3,16.6,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,168.0,1380.0,811.0
+kawasaki,Sport,248.0,45.0,24.0,Twin,6-speed,62.0,41.0,18.16,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,138.3,1400.0,740.0
+titan,Custom / cruiser,1750.0,112.0,121.0,V2,6-speed,101.6,113.0,17.41,Overhead Valves (OHV),Air,Chain,308.4,1882.0,584.0
+ducati,Naked bike,803.0,87.0,78.0,V2,6-speed,88.0,66.0,15.0,Desmodromic valve control,Air,Chain,167.0,1450.0,800.0
+bmw,Enduro / offroad,798.0,73.8,57.0,Twin,6-speed,82.0,75.6,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1562.0,820.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,790.0
+loncin,Sport,292.4,29.0,17.2,Single cylinder,6-speed,78.0,61.2,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,153.0,1340.0,780.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Overhead Valves (OHV),Oil & air,Belt,372.0,1625.0,658.0
+ducati,Sport touring,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,189.0,1530.0,850.0
+buell,Sport,491.6,34.0,40.7,Single cylinder,5-speed,88.9,79.4,10.59,Overhead Valves (OHV),Air,Belt,163.3,1397.0,648.0
+malaguti,Scooter,244.0,22.1,21.5,Single cylinder,Automatic,72.0,60.0,8.5,Single Overhead Cams (SOHC),Liquid,Belt,158.0,1410.0,795.0
+yamaha,Scooter,499.0,42.9,46.4,Twin,Automatic,66.0,73.0,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,210.0,1580.0,800.0
+enfield,Classic,346.0,19.8,28.0,Single cylinder,5-speed,70.0,90.0,14.5,Overhead Valves (OHV),Air,Chain,163.0,1370.0,800.0
+honda,Sport,124.7,13.4,10.6,Single cylinder,6-speed,58.0,47.2,10.0,Single Overhead Cams (SOHC),Liquid,Chain,127.3,1294.0,776.0
+moto morini,Allround,1187.0,118.0,103.0,V2,6-speed,107.0,66.0,27.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,210.0,1505.0,875.0
+ducati,Naked bike,849.0,132.0,93.5,V2,6-speed,94.0,61.2,16.5,Desmodromic valve control,Liquid,Chain,169.0,1475.0,840.0
+suzuki,Scooter,113.0,9.3,9.1,Single cylinder,4-speed,51.0,55.4,3.7,Single Overhead Cams (SOHC),Air,Chain,94.0,1220.0,765.0
+bmw,Sport,1293.0,170.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,217.0,1585.0,820.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,4-speed,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,99.0,1239.0,776.0
+motoczysz,Sport,990.0,220.0,108.0,In-line four,6-speed,82.0,46.9,7.57,Overhead Cams (OHC),Liquid,Chain,158.0,1420.0,780.0
+bmw,Sport,1170.0,120.0,112.0,Two cylinder boxer,6-speed,101.0,73.0,17.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,190.0,1487.0,830.0
+ducati,Naked bike,1198.4,152.0,123.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,210.0,1590.0,770.0
+victory,Touring,1737.1,97.0,147.0,V2,6-speed,101.0,108.0,21.95,Single Overhead Cams (SOHC),Oil & air,Belt,350.2,1669.0,667.0
+yamaha,Sport,779.0,104.0,82.0,In-line four,6-speed,68.0,53.6,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,211.0,1460.0,815.0
+bmw,Touring,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,233.2,1485.0,805.0
+ducati,Sport,989.0,197.0,116.0,V4,6-speed,86.0,42.6,15.0,Desmodromic valve control,Liquid,Chain,171.0,1430.0,830.0
+can-am,Sport,998.0,106.0,104.0,V2,5-speed,97.0,68.0,26.98,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,316.2,1727.0,737.0
+ducati,Sport,1198.0,205.0,136.0,V2,6-speed,112.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,162.0,1437.0,830.0
+harley-davidson,Custom / cruiser,1745.0,86.0,145.0,V2,6-speed,100.0,111.1,13.2,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,286.0,1630.0,680.0
+bmw,Enduro / offroad,798.0,75.0,77.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1562.0,820.0
+harley-davidson,Touring,1753.5,90.0,150.0,V2,6-speed,100.0,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,394.0,1625.0,740.0
+honda,Allround,1284.0,99.2,114.0,In-line four,5-speed,78.0,67.2,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,266.0,1510.0,780.0
+honda,Scooter,153.0,14.7,14.0,Single cylinder,Automatic,57.3,57.9,7.5,Overhead Cams (OHC),Liquid,Belt,129.0,1340.0,799.0
+harley-davidson,Custom / cruiser,1690.0,75.0,126.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,320.0,1690.0,670.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1545.0,845.0
+bmw,Sport,1170.0,107.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,198.0,1495.0,800.0
+harley-davidson,Touring,1745.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,372.0,1625.0,695.0
+ducati,Super motard,821.1,110.0,89.0,V2,6-speed,88.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,171.0,1500.0,890.0
+ktm,Naked bike,125.0,15.0,12.0,Single cylinder,6-speed,58.0,47.2,13.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,139.0,1357.0,830.0
+honda,Sport touring,1261.0,118.0,117.0,V4,5-speed,78.0,66.0,29.14,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,286.0,1491.0,790.0
+can-am,Sport,998.0,106.0,104.0,V2,5-speed,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1727.0,737.0
+suzuki,Sport touring,1255.0,98.0,108.0,In-line four,6-speed,79.0,64.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,254.0,1485.0,805.0
+honda,Scooter,109.2,7.2,8.5,Single cylinder,4-speed,50.0,55.6,3.7,Overhead Cams (OHC),Liquid,Belt,94.0,1227.0,765.0
+benelli,Sport touring,600.0,85.0,54.6,In-line four,6-speed,65.0,45.2,27.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,223.0,1480.0,800.0
+yamaha,Enduro / offroad,249.0,18.0,19.0,Single cylinder,6-speed,74.0,58.0,9.6,Single Overhead Cams (SOHC),Air,Chain,130.0,1360.0,810.0
+triumph,Naked bike,675.0,106.0,69.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1385.0,805.0
+buell,Naked bike,1203.0,92.0,113.0,V2,5-speed,88.9,96.8,14.0,Overhead Valves (OHV),Oil & air,Shaft drive,179.2,1321.0,726.0
+victory,Touring,1737.1,97.0,147.0,V2,6-speed,101.0,108.0,22.71,Single Overhead Cams (SOHC),Oil & air,Belt,394.2,1669.0,673.0
+honda,Sport touring,680.2,64.8,66.2,V2,5-speed,81.0,66.0,19.7,Single Overhead Cams (SOHC),Liquid,Shaft drive,239.0,1476.0,805.0
+skyteam,"Minibike, cross",124.0,6.7,7.3,Single cylinder,4-speed,52.4,57.0,5.5,Single Overhead Cams (SOHC),Air,Chain,78.0,1075.0,740.0
+bmw,Sport,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,790.0
+keeway,Sport,149.4,11.0,10.0,Single cylinder,4-speed,62.0,49.5,12.5,Single Overhead Cams (SOHC),Air,Chain,120.0,1330.0,750.0
+benelli,Sport touring,1131.0,125.0,112.0,In-line three,6-speed,88.0,62.0,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1530.0,780.0
+moto guzzi,Naked bike,1064.0,110.0,108.0,V2,6-speed,95.0,81.5,16.7,Single Overhead Cams (SOHC),Air,Shaft drive,222.0,1554.0,800.0
+ktm,Naked bike,999.0,118.0,100.0,V2,6-speed,100.0,72.0,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1438.0,855.0
+honda,Naked bike,599.3,76.4,59.0,In-line four,6-speed,67.0,42.5,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,213.0,1490.0,785.0
+suzuki,Enduro / offroad,349.0,30.1,67.0,Single cylinder,6-speed,79.0,71.2,9.0,Single Overhead Cams (SOHC),Air,Chain,130.0,1450.0,890.0
+honda,Scooter,108.0,6.1,8.3,Single cylinder,Automatic,50.0,55.0,3.5,Overhead Cams (OHC),Air,Belt,91.0,1240.0,745.0
+harley-davidson,Touring,1690.0,74.8,130.0,V2,6-speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,333.0,1635.0,690.0
+keeway,Custom / cruiser,124.1,10.5,8.9,Single cylinder,5-speed,56.5,49.5,15.0,Overhead Valves (OHV),Air,Chain,134.0,1440.0,730.0
+harley-davidson,Touring,1746.0,90.0,150.0,V2,6-speed,100.0,111.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,354.3,1625.0,663.0
+hyosung,Custom / cruiser,647.0,79.0,67.0,V2,5-speed,81.5,62.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,229.0,1699.0,706.0
+aprilia,Super motard,749.9,90.3,82.0,V2,6-speed,92.0,56.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1505.0,870.0
+honda,Custom / cruiser,1312.0,57.0,107.0,V2,5-speed,89.5,104.3,20.3,Single Overhead Cams (SOHC),Liquid,Shaft drive,309.0,1805.0,678.0
+bmw,Enduro / offroad,1170.0,108.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,20.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,203.0,1507.0,850.0
+bmw,Enduro / offroad,1170.0,125.0,125.0,Twin,6-speed,101.0,73.0,30.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,229.1,1510.0,890.0
+ducati,Sport,937.0,113.0,96.7,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,183.0,1478.0,810.0
+honda,Allround,99.0,7.0,6.6,Single cylinder,5-speed,53.0,45.0,5.5,Overhead Cams (OHC),Air,Chain,82.0,1190.0,715.0
+keeway,Scooter,109.0,6.9,7.8,Single cylinder,4-speed,50.0,55.5,4.8,Single Overhead Cams (SOHC),Air,Chain,103.0,1240.0,780.0
+benelli,Naked bike,899.0,118.0,88.0,In-line three,6-speed,88.0,49.2,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1443.0,780.0
+bmw,Naked bike,999.0,165.0,114.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,178.0,1439.0,814.0
+suzuki,Scooter,249.0,34.9,25.0,Single cylinder,Automatic,69.0,66.8,13.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,173.0,1590.0,695.0
+honda,Sport,1237.0,170.0,129.0,V4,6-speed,81.0,60.0,18.5,Single Overhead Cams (SOHC),Liquid,Shaft drive,267.0,1545.0,815.0
+harley-davidson,Custom / cruiser,1868.0,94.0,161.0,V2,6-speed,102.0,114.0,18.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,316.0,1630.0,668.0
+triumph,Allround,1215.0,137.0,121.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,228.0,1530.0,837.0
+harley-davidson,Touring,1688.0,87.0,138.0,V2,6-speed,98.4,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,394.0,1625.0,740.0
+yamaha,Custom / cruiser,1670.0,62.6,134.0,V2,5-speed,97.0,113.0,20.06,Overhead Valves (OHV),Air,Belt,319.0,1689.0,709.0
+triumph,Classic,865.0,55.0,69.0,Twin,5-speed,90.0,68.0,16.6,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,205.0,1500.0,825.0
+honda,Scooter,125.0,11.7,11.0,Single cylinder,Automatic,52.4,57.9,7.5,Single Overhead Cams (SOHC),Liquid,Belt,120.0,1340.0,799.0
+bimota,Sport,1098.0,160.0,123.0,V2,6-speed,104.0,64.5,18.0,Desmodromic valve control,Liquid,Chain,174.0,1430.0,800.0
+harley-davidson,Custom / cruiser,1201.3,67.1,96.0,V2,5-speed,88.9,96.8,7.9,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,247.0,1495.0,710.0
+enfield,Classic,346.0,18.0,32.0,Single cylinder,4-speed,70.0,90.0,14.5,Overhead Valves (OHV),Air,Chain,163.0,1370.0,800.0
+ducati,Naked bike,803.0,76.0,72.6,V2,6-speed,88.0,66.0,14.0,Desmodromic valve control,Air,Chain,173.0,1440.0,800.0
+moto guzzi,Naked bike,1151.0,110.0,108.0,V2,6-speed,95.0,81.2,16.7,Overhead Valves (OHV),Air,Shaft drive,222.0,1554.0,800.0
+ducati,Naked bike,1099.0,155.0,115.0,V2,6-speed,104.0,64.7,16.5,Desmodromic valve control,Liquid,Chain,169.0,1475.0,840.0
+bmw,Enduro / offroad,798.0,85.0,83.0,Twin,6-speed,82.0,75.6,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1573.0,890.0
+yamaha,Super motard,124.7,14.8,12.2,Single cylinder,6-speed,52.0,58.6,8.5,Single Overhead Cams (SOHC),Liquid,Chain,127.0,1430.0,920.0
+triumph,Naked bike,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,12.11,Single Overhead Cams (SOHC),Liquid,Chain,206.0,1446.0,790.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,830.0
+benelli,Naked bike,300.0,37.0,27.0,Twin,6-speed,57.4,57.8,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1405.0,795.0
+keeway,Naked bike,124.5,11.0,9.2,Single cylinder,5-speed,57.0,48.8,16.0,Overhead Valves (OHV),Air,Chain,117.0,1260.0,760.0
+harley-davidson,Custom / cruiser,1868.0,94.0,155.0,V2,6-speed,102.0,114.0,13.6,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,296.0,1690.0,710.0
+bimota,Sport,1098.0,95.0,103.0,V2,6-speed,104.0,64.5,16.0,Desmodromic valve control,Liquid,Chain,170.0,1435.0,800.0
+ducati,Sport,749.0,119.0,84.3,V2,6-speed,94.0,54.0,18.3,Desmodromic valve control,Liquid,Chain,183.5,1420.0,780.0
+triumph,Naked bike,1050.0,150.0,117.0,In-line three,6-speed,79.0,71.4,15.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1445.0,825.0
+ducati,Naked bike,1198.4,145.0,124.0,V2,6-speed,106.0,67.9,17.5,Desmodromic valve control,Liquid,Chain,182.0,1511.0,785.0
+honda,Scooter,124.8,9.2,10.1,Single cylinder,4-speed,52.4,57.9,3.7,Single Overhead Cams (SOHC),Air,Chain,105.5,1240.0,778.0
+harley-davidson,Touring,1923.0,105.0,169.0,V2,6-speed,103.5,114.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,382.0,1625.0,695.0
+mv agusta,Sport,998.0,174.0,111.0,In-line four,6-speed,76.0,55.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1408.0,810.0
+honda,Sport,998.0,96.6,97.0,In-line four,6-speed,75.0,56.5,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,224.0,1483.0,795.0
+triumph,Sport,1050.0,125.0,104.0,In-line three,6-speed,79.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,210.0,1457.0,805.0
+ducati,Super motard,821.1,110.0,89.0,V2,6-speed,88.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,175.0,1500.0,870.0
+honda,Scooter,279.1,26.8,26.0,Single cylinder,Automatic,72.0,68.5,9.0,Single Overhead Cams (SOHC),Liquid,Belt,161.8,1420.0,785.0
+bmw,Enduro / offroad,798.0,48.0,75.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1575.0,820.0
+cf moto,ATV,495.0,38.0,43.0,Single cylinder,Automatic,91.0,76.2,18.5,Single Overhead Cams (SOHC),Liquid,Belt,360.0,1480.0,880.0
+ducati,Enduro / offroad,803.0,73.0,67.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,193.0,1505.0,840.0
+honda,Custom / cruiser,745.0,44.9,64.0,V2,5-speed,79.0,76.0,10.6,Single Overhead Cams (SOHC),Liquid,Shaft drive,230.0,1562.0,747.0
+triumph,Classic,865.0,59.0,68.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,214.0,1500.0,825.0
+yamaha,Super motard,249.0,18.0,19.0,Single cylinder,5-speed,74.0,58.0,7.2,Single Overhead Cams (SOHC),Air,Chain,118.0,1330.0,790.0
+triumph,Sport,675.0,128.0,74.0,In-line three,6-speed,76.0,49.6,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1395.0,830.0
+triumph,Classic,1200.0,77.0,106.0,Twin,6-speed,97.6,80.0,10.6,Single Overhead Cams (SOHC),Air,Chain,228.0,1510.0,690.0
+hartford,Allround,124.0,9.5,6.9,Single cylinder,5-speed,56.5,49.5,10.3,Overhead Valves (OHV),Air,Chain,110.0,1280.0,780.0
+hyosung,Custom / cruiser,249.0,25.0,22.0,V2,5-speed,57.0,48.8,14.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,176.0,1435.0,709.0
+moto guzzi,Sport touring,1064.0,89.9,94.0,V2,6-speed,92.0,80.0,20.7,Overhead Cams (OHC),Air,Shaft drive,226.0,1490.0,800.0
+harley-davidson,Touring,1801.0,97.9,156.0,V2,6-speed,101.6,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,422.0,1625.0,755.0
+benelli,Sport touring,1131.0,125.0,112.0,In-line three,6-speed,88.0,62.0,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1530.0,780.0
+mv agusta,Sport,998.0,183.0,114.0,In-line four,6-speed,76.0,55.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1430.0,830.0
+moto guzzi,Touring,1151.0,102.0,104.0,V2,6-speed,95.0,81.2,23.0,Overhead Valves (OHV),Air,Shaft drive,257.0,1495.0,800.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,4-speed,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,101.0,1239.0,775.0
+enfield,Classic,346.0,18.0,27.5,Single cylinder,5-speed,70.0,90.0,14.5,Overhead Valves (OHV),Air,Chain,163.0,1370.0,772.0
+moto guzzi,Naked bike,1151.0,92.0,96.0,V2,6-speed,92.0,80.0,23.0,Overhead Valves (OHV),Air,Shaft drive,236.0,1495.0,800.0
+kawasaki,Touring,1196.0,97.0,107.0,In-line four,5-speed,78.0,62.0,23.2,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,330.0,1620.0,755.0
+ducati,Sport,849.4,134.0,96.0,V2,6-speed,94.0,61.2,15.5,Desmodromic valve control,Liquid,Chain,168.0,1430.0,830.0
+bmw,Enduro / offroad,1170.0,48.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,20.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,223.0,1510.0,890.0
+triumph,Touring,865.0,61.0,72.0,Twin,5-speed,90.0,68.0,19.3,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,250.0,1617.0,690.0
+victory,Custom / cruiser,1737.1,97.0,153.0,V2,6-speed,101.0,108.0,17.03,Single Overhead Cams (SOHC),Oil & air,Belt,302.1,1666.0,673.0
+aprilia,Naked bike,999.6,167.0,111.0,V4,6-speed,78.0,52.3,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.0,1445.0,835.0
+aprilia,Sport,1099.0,217.0,122.0,V4,6-speed,85.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1439.0,840.0
+yamaha,Scooter,155.0,15.2,13.8,Single cylinder,4-speed,57.0,58.7,4.2,Single Overhead Cams (SOHC),Liquid,Chain,116.0,1240.0,765.0
+benelli,Naked bike,1131.0,155.0,120.0,In-line three,6-speed,88.0,62.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1443.0,820.0
+honda,Custom / cruiser,745.0,44.9,64.0,V2,5-speed,79.0,76.0,14.6,Single Overhead Cams (SOHC),Liquid,Shaft drive,256.3,1640.0,658.0
+honda,Custom / cruiser,1312.0,57.0,107.0,V2,5-speed,89.5,104.3,20.3,Single Overhead Cams (SOHC),Liquid,Shaft drive,303.0,1805.0,678.0
+honda,Sport,124.7,13.4,10.6,Single cylinder,6-speed,58.0,47.2,13.0,Single Overhead Cams (SOHC),Liquid,Chain,136.9,1313.0,793.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1530.0,810.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,196.0,1545.0,790.0
+bmw,Scooter,647.0,60.0,66.0,Twin,Automatic,79.0,66.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,236.8,1590.0,810.0
+bmw,Enduro / offroad,1170.0,125.0,125.0,Two cylinder boxer,6-speed,101.0,73.0,30.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,229.1,1510.0,890.0
+victory,Touring,1737.1,96.0,146.0,V2,6-speed,101.0,108.0,21.95,Single Overhead Cams (SOHC),Oil & air,Belt,383.3,1669.0,667.0
+honda,Enduro / offroad,680.2,59.1,60.0,V2,5-speed,81.0,66.0,17.5,Single Overhead Cams (SOHC),Liquid,Chain,218.0,1515.0,841.0
+buell,Sport,1203.0,103.0,113.0,V2,5-speed,88.9,96.8,14.0,Overhead Valves (OHV),Oil & air,Shaft drive,179.2,1321.0,775.0
+ducati,Classic,1079.0,84.5,88.0,V2,6-speed,98.0,71.0,15.0,Desmodromic valve control,Air,Chain,189.0,1514.0,810.0
+hyosung,Sport,249.0,27.0,22.7,V2,5-speed,57.0,48.8,14.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,149.7,1435.0,762.0
+vespa,Scooter,123.5,8.9,9.6,Single cylinder,4-speed,52.5,57.0,8.0,Single Overhead Cams (SOHC),Air,Belt,97.0,1260.0,810.0
+honda,Scooter,125.0,11.7,11.0,Single cylinder,Automatic,52.4,57.8,7.5,Single Overhead Cams (SOHC),Liquid,Belt,120.0,1335.0,790.0
+yamaha,Naked bike,249.0,20.9,20.0,Single cylinder,5-speed,74.0,58.0,14.0,Single Overhead Cams (SOHC),Air,Chain,148.0,1360.0,795.0
+mv agusta,Sport,798.0,153.0,88.0,In-line three,6-speed,79.0,54.3,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,165.0,1380.0,805.0
+harley-davidson,Touring,1868.0,100.0,165.0,V2,6-speed,102.0,114.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,399.2,1625.0,699.0
+ducati,Super motard,937.0,113.0,97.7,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,178.0,1498.0,890.0
+can-am,Sport,998.0,106.0,104.0,V2,5-speed,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,316.2,1727.0,737.0
+bmw,Sport,999.0,199.0,113.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,175.5,1425.0,815.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,202.0,1530.0,810.0
+triumph,Naked bike,675.0,105.0,69.0,In-line three,6-speed,74.0,52.3,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,167.0,1395.0,800.0
+moto guzzi,Naked bike,1064.0,89.9,94.0,V2,6-speed,92.0,80.0,20.7,Overhead Cams (OHC),Air,Shaft drive,226.0,1490.0,800.0
+honda,Sport touring,399.0,55.0,35.0,V4,6-speed,55.0,42.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1415.0,780.0
+harley-davidson,Touring,1745.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,361.0,1625.0,715.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,200.0,1530.0,810.0
+yamaha,Sport,149.0,17.0,15.0,Single cylinder,6-speed,57.0,58.7,12.0,Single Overhead Cams (SOHC),Liquid,Chain,120.0,1290.0,790.0
+bmw,Sport,999.0,190.0,112.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,183.0,1432.0,820.0
+kawasaki,Cross / motocross,249.0,27.0,26.0,Single cylinder,5-speed,77.0,53.6,7.94,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,137.0,1471.0,955.0
+bmw,Naked bike,1170.0,110.0,116.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,220.0,1522.0,820.0
+mv agusta,Sport,998.0,192.0,112.0,In-line four,6-speed,79.0,50.9,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1430.0,830.0
+kymco,Scooter,124.6,11.5,9.6,Single cylinder,Automatic,52.4,57.8,9.0,Overhead Cams (OHC),Liquid,Belt,140.0,1435.0,775.0
+triumph,Naked bike,1050.0,148.0,116.0,In-line three,6-speed,79.0,71.4,15.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1445.0,825.0
+bmw,Scooter,647.0,60.0,66.0,Twin,Automatic,79.0,66.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,241.0,1591.0,795.0
+aprilia,Super motard,749.9,90.3,82.0,V2,6-speed,92.0,56.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1505.0,870.0
+bmw,Scooter,647.0,60.0,63.0,Twin,Automatic,79.0,66.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,236.8,1591.0,800.0
+gilera,Enduro / offroad,124.0,29.3,18.5,Single cylinder,6-speed,56.0,50.5,5.0,Single Overhead Cams (SOHC),Liquid,Chain,132.0,1450.0,870.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,295.0,1680.0,810.0
+moto guzzi,Naked bike,1064.0,84.5,85.0,V2,6-speed,92.0,80.0,23.0,Overhead Valves (OHV),Air,Shaft drive,236.0,1495.0,800.0
+moto guzzi,Naked bike,744.0,47.6,54.7,V2,5-speed,80.0,74.0,18.0,Overhead Valves (OHV),Air,Shaft drive,182.0,1449.0,790.0
+harley-davidson,Custom / cruiser,1690.0,80.0,130.0,V2,6-speed,98.4,111.3,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,307.0,1621.0,705.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,295.0,1680.0,810.0
+kawasaki,Naked bike,649.0,72.0,64.0,Twin,6-speed,83.0,60.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,204.0,1410.0,805.0
+benelli,Sport touring,1131.0,125.0,112.0,In-line three,6-speed,88.0,62.0,21.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1515.0,850.0
+ducati,Sport touring,1198.4,150.0,118.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,189.0,1530.0,850.0
+kawasaki,Super motard,125.0,10.2,10.0,Single cylinder,5-speed,54.0,54.4,7.0,Single Overhead Cams (SOHC),Air,Chain,114.0,1255.0,805.0
+mv agusta,Sport,1078.0,200.0,125.0,In-line four,6-speed,79.0,55.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,187.0,1408.0,810.0
+triumph,Enduro / offroad,888.0,93.9,87.0,In-line three,6-speed,78.0,61.9,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1556.0,810.0
+jawa-cz,Sport,49.5,3.0,3.2,Single cylinder,4-speed,39.0,41.4,6.5,Single Overhead Cams (SOHC),Air,Chain,87.0,1200.0,730.0
+ducati,Allround,1262.0,158.0,129.0,V2,6-speed,106.0,71.5,20.0,Desmodromic valve control,Liquid,Chain,212.0,1530.0,825.0
+benelli,Sport touring,1131.0,125.0,112.0,In-line three,6-speed,88.0,62.0,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1419.0,780.0
+triumph,Allround,1200.0,96.0,112.0,Twin,6-speed,97.6,80.0,14.5,Single Overhead Cams (SOHC),Liquid,Chain,196.0,1430.0,807.0
+ducati,Allround,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,196.0,1530.0,850.0
+bmw,Enduro / offroad,652.0,50.0,44.0,Single cylinder,5-speed,100.0,83.0,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,176.9,1483.0,861.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.1,22.71,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,362.0,1625.0,705.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,361.0,1625.0,715.0
+ducati,Sport,1285.0,205.0,144.0,V2,6-speed,116.0,60.8,17.0,Desmodromic valve control,Liquid,Chain,166.5,1437.0,830.0
+bmw,Naked bike,999.0,165.0,114.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1439.0,814.0
+mv agusta,Sport touring,798.0,108.0,80.0,In-line three,6-speed,79.0,54.3,20.5,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,192.0,1445.0,850.0
+bmw,Naked bike,1170.0,87.0,119.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,198.0,1495.0,800.0
+keeway,Naked bike,197.0,12.7,13.5,Single cylinder,5-speed,63.5,62.2,17.0,Overhead Valves (OHV),Liquid,Chain,123.0,1330.0,770.0
+honda,Sport,125.0,14.2,10.0,V2,5-speed,42.0,45.0,16.8,Single Overhead Cams (SOHC),Liquid,Chain,152.0,1450.0,800.0
+yamaha,Naked bike,998.0,147.0,106.0,In-line four,6-speed,77.0,53.6,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1460.0,815.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,200.0,1530.0,760.0
+harley-davidson,Touring,1868.0,100.0,160.0,V2,6-speed,102.0,114.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,371.0,1625.0,695.0
+bmw,Enduro / offroad,798.0,85.0,83.0,Twin,6-speed,82.0,75.6,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1578.0,890.0
+ducati,Naked bike,1198.4,162.0,130.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,205.0,1590.0,770.0
+ducati,Classic,803.0,73.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,172.0,1436.0,805.0
+ducati,Naked bike,803.0,73.0,67.0,V2,6-speed,88.0,66.0,16.5,Desmodromic valve control,Air,Chain,175.0,1435.0,805.0
+ducati,Naked bike,1103.0,208.0,123.0,V4,6-speed,81.0,53.5,16.0,Desmodromic valve control,Liquid,Chain,178.0,1488.0,845.0
+keeway,Custom / cruiser,197.0,12.7,14.0,Single cylinder,5-speed,63.5,62.2,15.0,Overhead Valves (OHV),Liquid,Chain,134.0,1440.0,730.0
+triumph,Classic,865.0,70.0,72.0,Twin,5-speed,90.0,68.0,16.65,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,204.6,1490.0,790.0
+ajp,Enduro / offroad,124.0,12.5,8.5,Single cylinder,5-speed,56.5,49.5,7.5,Single Overhead Cams (SOHC),Air,Chain,105.0,1410.0,910.0
+honda,Scooter,49.0,4.0,4.5,Single cylinder,Automatic,38.0,44.0,5.0,Single Overhead Cams (SOHC),Liquid,Belt,84.0,1265.0,735.0
+keeway,Custom / cruiser,248.9,19.2,18.7,V2,5-speed,49.0,66.0,13.5,Single Overhead Cams (SOHC),Air,Chain,170.0,1540.0,688.0
+ducati,Naked bike,1078.0,98.6,103.0,V2,6-speed,98.0,71.5,13.5,Desmodromic valve control,Air,Chain,169.0,1450.0,810.0
+bmw,Sport,999.0,160.0,112.0,In-line four,6-speed,80.0,49.7,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,178.0,1439.0,814.0
+ajp,Enduro / offroad,659.7,48.0,58.0,Single cylinder,6-speed,100.0,76.4,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,155.0,1540.0,920.0
+bmw,Enduro / offroad,652.0,48.0,60.0,Single cylinder,5-speed,100.0,83.0,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1477.0,780.0
+ducati,Super motard,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,194.0,1530.0,850.0
+husqvarna,Naked bike,898.0,103.0,100.0,Twin,6-speed,84.0,84.0,13.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,174.0,1495.0,870.0
+aprilia,Sport,997.6,141.0,107.0,Twin,6-speed,97.0,67.5,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,175.0,1418.0,810.0
+ducati,Allround,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,212.0,1529.0,825.0
+bmw,Naked bike,1293.0,173.0,140.0,In-line four,6-speed,80.0,64.3,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,214.0,1585.0,790.0
+honda,Scooter,109.1,8.4,8.7,Single cylinder,4-speed,50.0,55.6,3.7,Single Overhead Cams (SOHC),Air,Chain,94.0,1227.0,760.0
+benelli,Sport,898.0,140.0,100.0,In-line three,6-speed,88.0,49.2,9.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,185.0,1419.0,810.0
+triumph,Naked bike,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,12.11,Single Overhead Cams (SOHC),Liquid,Chain,200.0,1415.0,749.0
+suzuki,Scooter,638.0,53.6,62.0,Twin,Automatic,75.5,71.3,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,235.0,1595.0,750.0
+harley-davidson,Custom / cruiser,883.0,53.0,69.0,V2,5-speed,76.2,96.8,12.9,Overhead Valves (OHV),Air,Belt,251.0,1520.0,693.0
+ducati,Classic,992.0,90.8,91.3,V2,6-speed,94.0,71.5,15.0,Desmodromic valve control,Air,Chain,185.0,1425.0,828.0
+honda,Touring,1832.0,116.0,167.0,Six cylinder boxer,5-speed,74.0,71.0,25.0,Single Overhead Cams (SOHC),Liquid,Shaft drive,417.0,1690.0,740.0
+moto guzzi,Custom / cruiser,1064.0,73.8,88.5,V2,5-speed,92.0,80.0,19.0,Overhead Cams (OHC),Air,Shaft drive,251.0,1560.0,750.0
+hyosung,Sport,125.0,14.2,10.2,V2,5-speed,44.0,41.0,17.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,166.0,1445.0,780.0
+yamaha,Sport,847.0,115.0,87.5,In-line three,6-speed,78.0,59.1,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,190.0,1440.0,815.0
+ducati,Allround,803.0,72.4,67.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,173.0,1445.0,798.0
+triumph,Naked bike,675.0,106.0,68.0,In-line three,6-speed,74.0,52.3,17.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,168.0,1410.0,800.0
+yamaha,Custom / cruiser,535.0,42.0,34.0,V2,5-speed,76.0,59.0,8.6,Overhead Cams (OHC),Air,Shaft drive,185.0,1511.0,700.0
+harley-davidson,Custom / cruiser,1868.0,100.0,161.0,V2,6-speed,102.0,114.0,13.2,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,294.0,1695.0,665.0
+ducati,Allround,1262.0,155.0,129.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Chain,218.0,1600.0,780.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1530.0,810.0
+can-am,Sport,998.0,106.0,104.0,V2,5-speed,97.0,68.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1727.0,737.0
+motoczysz,Sport,990.0,220.0,108.0,In-line four,6-speed,82.0,46.9,7.57,Overhead Cams (OHC),Liquid,Chain,158.0,1420.0,780.0
+bmw,Custom / cruiser,1802.0,91.0,157.0,Two cylinder boxer,6-speed,107.1,100.0,16.01,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,345.2,1730.0,691.0
+ducati,Naked bike,1198.4,162.0,127.0,V2,6-speed,106.0,67.9,17.0,Desmodromic valve control,Liquid,Chain,210.0,1590.0,770.0
+victory,Touring,1737.1,97.0,147.0,V2,6-speed,101.0,108.0,21.95,Single Overhead Cams (SOHC),Oil & air,Belt,337.9,1669.0,667.0
+bmw,Naked bike,1170.0,110.0,116.0,Two cylinder boxer,6-speed,101.0,73.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,220.0,1522.0,820.0
+bmw,Enduro / offroad,1170.0,103.0,115.0,Two cylinder boxer,6-speed,101.0,73.0,20.0,Single Overhead Cams (SOHC),Oil & air,Shaft drive,203.0,1507.0,850.0
+hyosung,Custom / cruiser,647.0,79.0,67.0,V2,5-speed,81.5,62.0,15.9,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,229.0,1699.0,706.0
+kawasaki,Super motard,144.0,12.0,11.3,Single cylinder,5-speed,58.0,54.4,6.9,Single Overhead Cams (SOHC),Air,Chain,120.0,1255.0,840.0
+mv agusta,Naked bike,1078.0,142.0,112.0,In-line four,6-speed,79.0,55.0,23.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1430.0,830.0
+ducati,Sport,898.0,146.0,99.0,V2,6-speed,100.0,57.2,17.0,Desmodromic valve control,Liquid,Chain,169.0,1426.0,830.0
+ducati,Sport touring,1198.4,147.0,124.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,206.0,1530.0,850.0
+ducati,Sport touring,992.0,105.0,98.1,V2,6-speed,94.0,71.5,21.0,Desmodromic valve control,Liquid,Chain,201.0,1430.0,820.0
+yamaha,Super motard,249.0,19.0,18.8,Single cylinder,5-speed,74.0,58.0,6.0,Single Overhead Cams (SOHC),Air,Chain,118.0,1330.0,790.0
+can-am,Touring,1330.0,115.0,130.0,In-line three,5-speed,84.0,80.0,27.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,386.0,1709.0,737.0
+mbk,Scooter,49.2,3.2,3.6,Single cylinder,Automatic,40.0,39.2,5.3,Single Overhead Cams (SOHC),Air,Belt,267.0,1172.0,768.0
+triumph,Sport,675.0,128.0,74.0,In-line three,6-speed,76.0,49.6,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,169.0,1375.0,830.0
+hyosung,Custom / cruiser,678.2,79.0,67.0,V2,5-speed,81.5,65.0,17.03,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,244.0,1690.0,675.0
+wakan,Naked bike,1640.0,120.0,165.0,V2,5-speed,101.6,101.6,13.0,Overhead Valves (OHV),Air,Belt,183.0,1380.0,790.0
+honda,Sport,399.0,52.3,38.0,In-line four,6-speed,55.0,42.0,18.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,200.0,1410.0,755.0
+bmw,Super motard,652.0,52.3,60.0,Single cylinder,5-speed,100.0,83.0,9.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,147.0,1500.0,900.0
+suzuki,Super motard,645.0,71.0,62.0,V2,6-speed,81.0,62.6,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,213.0,1560.0,835.0
+triumph,Classic,1200.0,97.0,112.0,Twin,6-speed,97.6,80.0,14.5,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,206.0,1415.0,810.0
+ktm,Super motard,999.0,113.0,100.0,V2,6-speed,101.0,62.4,19.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,207.0,1570.0,915.0
+suzuki,Allround,656.0,84.5,62.0,In-line four,6-speed,65.5,48.7,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,215.0,1470.0,770.0
+aprilia,Scooter,839.3,76.0,76.4,V2,Automatic,88.0,69.0,18.5,Single Overhead Cams (SOHC),Liquid,Belt,249.0,1593.0,780.0
+cf moto,Scooter,124.6,9.0,8.4,Single cylinder,Automatic,52.4,57.8,7.5,Single Overhead Cams (SOHC),Liquid,Belt,138.0,1320.0,760.0
+ducati,Classic,803.0,75.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,170.0,1445.0,790.0
+aprilia,Super motard,900.0,95.2,90.0,V2,6-speed,92.0,67.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1505.0,870.0
+bmw,Sport touring,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,820.0
+mv agusta,Naked bike,998.0,209.0,116.0,In-line four,6-speed,79.0,50.9,16.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,186.0,1415.0,845.0
+benelli,Allround,124.8,12.6,10.0,Single cylinder,5-speed,54.0,54.5,17.0,Overhead Cams (OHC),Liquid,Chain,153.0,1380.0,835.0
+ducati,Enduro / offroad,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,30.0,Desmodromic valve control,Liquid,Chain,225.0,1594.0,870.0
+hartford,Enduro / offroad,223.0,19.2,10.9,Single cylinder,5-speed,63.5,62.2,12.0,Overhead Cams (OHC),Air,Chain,140.0,1375.0,860.0
+suzuki,Custom / cruiser,1783.0,123.0,160.0,V2,5-speed,112.0,90.5,19.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,319.0,1710.0,705.0
+mv agusta,Naked bike,798.0,116.0,83.0,In-line three,6-speed,79.0,54.3,16.6,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,175.0,1400.0,830.0
+aprilia,Naked bike,999.0,162.0,110.0,V4,6-speed,78.0,52.2,17.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,183.0,1440.0,840.0
+triumph,Custom / cruiser,1699.0,94.0,151.0,Twin,6-speed,107.1,94.3,22.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,317.0,1615.0,700.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,321.0,1680.0,750.0
+piaggio,Scooter,330.0,32.8,32.3,Single cylinder,Automatic,78.0,69.0,13.0,Single Overhead Cams (SOHC),Liquid,Belt,176.9,1560.0,787.0
+johnny pag,Custom / cruiser,300.0,23.8,18.5,Twin,5-speed,57.0,53.0,13.24,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,163.3,1651.0,508.0
+yamaha,Sport,1298.0,141.0,125.0,In-line four,5-speed,79.0,66.2,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,268.0,1550.0,805.0
+triumph,Touring,1699.0,94.0,146.0,Twin,6-speed,107.1,94.3,26.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,349.0,1665.0,700.0
+ducati,Naked bike,1262.0,156.0,128.0,V2,6-speed,106.0,71.5,17.0,Desmodromic valve control,Liquid,Belt,220.0,1615.0,755.0
+triumph,Classic,865.0,70.0,72.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,205.0,1490.0,790.0
+triumph,Allround,1215.0,139.0,123.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,254.0,1520.0,837.0
+kymco,Custom / cruiser,249.4,27.5,19.8,V2,5-speed,58.0,47.2,14.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,175.0,1600.0,725.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,4-speed,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,101.0,1239.0,775.0
+ducati,Naked bike,821.0,112.0,89.4,V2,6-speed,88.0,67.5,17.5,Desmodromic valve control,Air,Chain,179.5,1480.0,785.0
+bmw,Touring,1649.0,160.0,175.0,In-line six,6-speed,72.0,67.5,26.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,321.0,1680.0,750.0
+ktm,Sport,1148.0,152.0,120.0,V2,6-speed,103.0,69.0,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1430.0,805.0
+ktm,Super motard,654.0,62.8,65.0,Single cylinder,6-speed,102.0,80.0,13.5,Overhead Cams (OHC),Liquid,Chain,154.0,1472.0,880.0
+buell,Sport touring,1202.9,103.0,113.0,V2,5-speed,88.9,96.8,16.6,Overhead Valves (OHV),Oil & air,Belt,211.0,1369.0,836.0
+triumph,Naked bike,765.0,123.0,77.0,In-line three,6-speed,78.0,53.4,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,166.0,1410.0,810.0
+ducati,Sport,937.0,110.0,93.0,V2,6-speed,94.0,67.5,16.0,Desmodromic valve control,Liquid,Chain,183.0,1478.0,810.0
+aeon,Scooter,313.0,22.8,30.0,Single cylinder,Automatic,78.0,65.8,13.5,Single Overhead Cams (SOHC),Liquid,Chain,177.0,1545.0,815.0
+ajp,Enduro / offroad,600.0,48.0,58.0,Single cylinder,6-speed,100.0,76.4,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,155.0,1540.0,920.0
+bmw,Touring,1170.0,108.0,120.0,Two cylinder boxer,6-speed,101.0,73.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Shaft drive,229.0,1485.0,820.0
+kymco,Scooter,125.0,9.3,9.1,Single cylinder,Automatic,52.4,57.8,4.92,Single Overhead Cams (SOHC),Air,Belt,107.0,1334.0,787.0
+mv agusta,Sport,1078.3,190.0,124.0,In-line four,6-speed,79.0,55.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1408.0,810.0
+harley-davidson,Touring,1801.0,97.9,156.0,V2,6-speed,101.6,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,380.0,1625.0,690.0
+buell,Naked bike,983.3,84.5,81.0,V2,5-speed,88.9,79.4,14.45,Overhead Valves (OHV),Oil & air,Belt,177.0,1321.0,765.0
+yamaha,Scooter,49.0,4.2,3.9,Single cylinder,Automatic,38.0,43.5,4.5,Single Overhead Cams (SOHC),Air,Belt,88.0,1280.0,735.0
+bmw,Enduro / offroad,853.0,90.0,86.0,Twin,6-speed,84.0,77.0,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,216.0,1593.0,815.0
+honda,Scooter,124.8,9.4,10.4,Single cylinder,Automatic,52.4,57.9,3.8,Overhead Cams (OHC),Air,Belt,96.3,1237.0,776.0
+aprilia,Naked bike,839.0,75.1,73.0,V2,Automatic,88.0,69.0,16.0,Single Overhead Cams (SOHC),Liquid,Chain,181.0,1463.0,800.0
+triumph,Naked bike,1050.0,148.0,116.0,In-line three,6-speed,79.0,71.4,15.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,192.0,1445.0,825.0
+ducati,Naked bike,1078.0,93.9,102.0,V2,6-speed,98.0,71.5,20.0,Desmodromic valve control,Air,Chain,196.0,1462.0,850.0
+triumph,Super motard,799.0,95.0,79.0,In-line three,6-speed,74.0,61.9,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1545.0,840.0
+honda,Scooter,108.0,8.9,9.3,Single cylinder,Automatic,50.0,55.0,6.5,Single Overhead Cams (SOHC),Liquid,Belt,114.0,1275.0,740.0
+enfield,Custom / cruiser,346.0,18.0,27.1,Single cylinder,5-speed,70.0,90.0,14.5,Overhead Cams (OHC),Air,Chain,170.0,1370.0,740.0
+kymco,Sport,124.1,12.9,9.8,Single cylinder,5-speed,56.5,49.5,15.0,Overhead Cams (OHC),Oil & air,Chain,137.0,1355.0,800.0
+harley-davidson,Touring,1868.0,90.0,165.0,V2,6-speed,102.0,114.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,408.0,1625.0,735.0
+harley-davidson,Touring,1212.7,60.0,94.9,V2,4-speed,87.3,101.0,16.0,Overhead Valves (OHV),Air,Chain,325.0,1549.0,762.0
+triumph,Allround,1215.0,137.0,121.0,In-line three,6-speed,85.0,71.4,20.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,235.5,1435.0,837.0
+suzuki,Sport touring,1255.0,98.0,108.0,In-line four,6-speed,79.0,64.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,254.0,1485.0,805.0
+ducati,Sport,992.0,93.7,93.0,V2,6-speed,94.0,71.5,16.0,Desmodromic valve control,Air,Chain,179.4,1395.0,820.0
+ajs,Allround,124.0,11.3,9.4,Single cylinder,5-speed,54.0,54.0,19.0,Overhead Cams (OHC),Air,Chain,164.0,1460.0,710.0
+bmw,Sport,1293.0,175.0,103.0,In-line four,6-speed,80.0,64.3,18.93,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,229.0,1585.0,820.0
+harley-davidson,Touring,1745.0,90.0,152.0,V2,6-speed,100.0,111.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,396.0,1625.0,675.0
+aprilia,Super motard,900.0,95.2,90.0,V2,6-speed,92.0,67.4,12.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1505.0,870.0
+bmw,Sport,999.0,158.0,112.0,In-line four,6-speed,80.0,49.7,20.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,178.0,1548.0,840.0
+ducati,Classic,803.0,75.0,68.0,V2,6-speed,88.0,66.0,13.5,Desmodromic valve control,Air,Chain,172.0,1436.0,805.0
+aprilia,Sport,999.6,201.0,115.0,V4,6-speed,78.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,180.0,1420.0,845.0
+mv agusta,Naked bike,1078.3,154.0,117.0,In-line four,6-speed,79.0,55.0,19.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,185.0,1411.0,805.0
+benelli,Naked bike,600.0,82.0,52.0,In-line four,6-speed,65.0,45.2,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,208.0,1480.0,800.0
+buell,Sport,984.0,92.0,92.2,V2,5-speed,88.9,79.4,14.0,Overhead Valves (OHV),Air,Belt,175.0,1321.0,775.0
+aprilia,Scooter,181.0,19.0,17.2,Single cylinder,Automatic,63.0,58.0,8.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,154.0,1380.0,810.0
+bmw,Touring,1171.0,116.0,120.0,In-line four,5-speed,70.5,75.0,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,353.5,1627.0,770.0
+bmw,Sport touring,798.0,83.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Belt,182.0,1466.0,840.0
+benelli,"Minibike, sport",134.7,13.0,10.8,Single cylinder,6-speed,54.0,58.8,7.2,Single Overhead Cams (SOHC),Air,Chain,121.0,1250.0,790.0
+keeway,Naked bike,148.0,12.1,11.0,Single cylinder,5-speed,57.0,58.0,16.0,Single Overhead Cams (SOHC),Air,Chain,121.0,1260.0,760.0
+honda,Super motard,996.0,92.5,98.0,V2,6-speed,98.0,66.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,268.7,1560.0,838.0
+harley-davidson,Touring,1868.0,89.0,165.0,V2,6-speed,102.0,114.3,22.7,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,362.0,1625.0,691.0
+aprilia,Naked bike,997.6,136.0,107.0,V2,6-speed,97.0,67.5,18.0,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,185.0,1410.0,810.0
+hero,Sport,109.0,8.7,9.4,Single cylinder,4-speed,50.0,55.6,9.5,Overhead Cams (OHC),Air,Chain,120.0,1265.0,785.0
+triumph,Naked bike,1160.0,180.0,124.0,In-line three,6-speed,90.0,60.8,17.4,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1405.0,825.0
+aprilia,Naked bike,1077.0,201.0,121.0,V4,6-speed,81.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1442.0,825.0
+honda,Custom / cruiser,1312.0,57.0,107.0,V2,5-speed,89.5,104.3,20.3,Single Overhead Cams (SOHC),Liquid,Shaft drive,303.0,1805.0,678.0
+aprilia,Sport,999.6,180.0,115.0,V4,6-speed,78.0,52.3,17.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,184.0,1420.0,845.0
+triumph,Naked bike,1050.0,131.0,77.0,In-line three,6-speed,79.0,71.4,17.78,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,188.7,1427.0,815.0
+ducati,Allround,992.0,84.0,84.0,V2,6-speed,94.0,71.5,20.0,Desmodromic valve control,Air,Chain,200.0,1462.0,820.0
+bmw,Sport,999.0,193.0,112.0,In-line four,6-speed,80.0,49.7,17.41,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,169.2,1422.0,820.0
+fb mondial,Classic,124.2,14.8,12.3,Single cylinder,6-speed,58.0,47.0,9.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,130.0,1370.0,775.0
+moto morini,Naked bike,1187.0,117.0,102.0,V2,6-speed,107.0,66.0,21.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,198.0,1470.0,800.0
+mv agusta,Sport,675.0,126.0,71.0,In-line three,6-speed,79.0,45.9,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,812.0
+triumph,Enduro / offroad,885.0,84.0,80.0,In-line three,6-speed,76.0,65.0,25.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,209.0,1560.0,851.0
+ducati,Allround,1198.4,160.0,136.0,V2,6-speed,106.0,67.9,20.0,Desmodromic valve control,Liquid,Chain,209.0,1530.0,825.0
+keeway,Scooter,125.0,8.7,9.0,Single cylinder,4-speed,53.5,55.5,3.8,Single Overhead Cams (SOHC),Air,Chain,115.0,1300.0,760.0
+mv agusta,Sport,675.0,126.0,71.0,In-line three,6-speed,79.0,45.9,16.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.0,1380.0,812.0
+ducati,Naked bike,1099.0,155.0,115.0,V2,6-speed,104.0,64.7,16.5,Desmodromic valve control,Liquid,Chain,167.0,1475.0,840.0
+ducati,Naked bike,1078.0,93.6,75.9,V2,6-speed,98.0,71.5,15.0,Desmodromic valve control,Air,Chain,169.0,1450.0,810.0
+mv agusta,Naked bike,798.0,140.0,86.0,In-line three,6-speed,79.0,54.3,16.6,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Chain,168.0,1380.0,810.0
+harley-davidson,Touring,1746.0,89.0,150.0,V2,6-speed,100.0,111.0,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,361.0,1625.0,663.0
+triumph,Naked bike,675.0,107.0,68.0,In-line three,6-speed,74.0,52.3,17.41,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,166.5,1394.0,803.0
+indian,Enduro / offroad,97.0,8.0,5.0,Single cylinder,5-speed,53.0,44.0,6.05,Port control,Air,Chain,79.4,1270.0,762.0
+yamaha,Scooter,125.0,9.4,9.6,Single cylinder,Automatic,52.4,57.9,4.2,Single Overhead Cams (SOHC),Air,Belt,98.0,1260.0,745.0
+aprilia,Naked bike,749.9,95.0,80.9,V2,6-speed,92.0,56.4,15.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,193.0,1440.0,810.0
+keeway,Naked bike,199.7,16.1,14.5,Single cylinder,5-speed,68.0,55.0,17.0,Single Overhead Cams (SOHC),Liquid,Chain,123.0,1330.0,770.0
+bajaj,Allround,199.5,23.5,18.3,Single cylinder,6-speed,72.0,49.0,12.0,Single Overhead Cams (SOHC),Liquid,Chain,145.0,1363.0,805.0
+harley-davidson,Touring,1868.2,102.0,165.0,V2,6-speed,102.0,114.3,22.71,Double Overhead Cams/Twin Cam (DOHC),Oil & air,Belt,380.0,1625.0,690.0
+honda,Allround,149.2,10.5,11.6,Single cylinder,5-speed,57.3,57.8,14.3,Overhead Cams (OHC),Air,Chain,120.0,1306.0,771.0
+triumph,Custom / cruiser,2294.0,142.0,200.0,In-line three,5-speed,101.6,94.3,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Shaft drive,320.0,1695.0,740.0
+bmw,Enduro / offroad,798.0,85.0,83.0,Twin,6-speed,82.0,75.6,24.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,191.0,1573.0,890.0
+bmw,Touring,1130.0,93.9,100.0,Two cylinder boxer,6-speed,101.0,70.5,25.2,Overhead Cams (OHC),Oil & air,Shaft drive,255.1,1485.0,805.0
+harley-davidson,Custom / cruiser,1449.0,63.0,106.0,V2,5-speed,95.3,101.6,19.0,Overhead Valves (OHV),Air,Belt,302.0,1638.0,647.0
+vespa,Scooter,150.0,11.7,11.5,Single cylinder,Automatic,62.5,48.5,8.2,Single Overhead Cams (SOHC),Air,Belt,110.0,1280.0,785.0
+buell,Sport touring,1203.0,76.0,103.0,Twin,5-speed,88.9,96.8,18.92,Overhead Valves (OHV),Air,Belt,220.0,1387.0,756.0
+honda,Custom / cruiser,1832.0,107.0,165.0,V2,5-speed,101.0,112.0,17.03,Single Overhead Cams (SOHC),Liquid,Shaft drive,335.0,1715.0,693.0
+ducati,Naked bike,998.0,128.0,103.0,V2,6-speed,100.0,63.5,14.0,Desmodromic valve control,Liquid,Chain,177.0,1440.0,800.0
+triumph,Classic,865.0,68.0,68.0,Twin,5-speed,90.0,68.0,16.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,209.0,1490.0,740.0
+suzuki,Sport touring,748.0,63.0,60.0,In-line four,5-speed,65.0,56.4,18.0,Double Overhead Cams/Twin Cam (DOHC),Air,Chain,223.0,1490.0,800.0
+hyosung,Scooter,249.0,25.0,22.2,Single cylinder,Automatic,73.0,59.6,7.87,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,154.7,1501.0,749.0
+honda,Naked bike,471.0,46.9,43.0,Twin,6-speed,67.0,66.8,15.7,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,173.4,1410.0,785.0
+bmw,Enduro / offroad,798.0,75.0,77.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1562.0,820.0
+kymco,Scooter,298.9,29.5,29.8,Single cylinder,Automatic,72.7,72.0,9.08,Single Overhead Cams (SOHC),Liquid,Belt,165.1,1450.0,810.0
+lifan,Super motard,149.0,12.2,11.8,Single cylinder,5-speed,57.3,57.8,5.3,Single Overhead Cams (SOHC),Air,Chain,109.8,1219.0,729.0
+benelli,Enduro / offroad,499.6,47.6,45.0,Twin,6-speed,69.0,66.8,13.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,186.0,1450.0,785.0
+triumph,Naked bike,900.0,55.0,80.0,Twin,5-speed,84.6,80.0,12.11,Single Overhead Cams (SOHC),Liquid,Chain,206.0,1446.0,790.0
+keeway,Allround,149.4,11.0,10.0,Single cylinder,5-speed,62.0,49.5,16.0,Overhead Valves (OHV),Air,Chain,99.0,1246.0,770.0
+aprilia,Sport,1099.0,217.0,122.0,V4,6-speed,85.0,52.3,18.5,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1439.0,840.0
+harley-davidson,Custom / cruiser,1745.0,86.0,145.0,V2,6-speed,100.0,111.1,18.93,Double Overhead Cams/Twin Cam (DOHC),Air,Belt,304.0,1665.0,675.0
+benelli,Naked bike,600.0,80.5,52.0,In-line four,6-speed,65.0,45.2,14.99,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,212.7,1480.0,800.0
+bmw,Naked bike,798.0,85.8,86.0,Twin,6-speed,82.0,75.6,16.0,Double Overhead Cams/Twin Cam (DOHC),Liquid,Chain,177.0,1520.0,800.0

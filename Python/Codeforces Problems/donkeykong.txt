@@ -1,0 +1,20 @@
+totalbanana = 3
+
+price = 12
+
+index = 1
+total = 0
+
+12 * index(1) = temporary (12)
+total = temporary (12) + total (0)
+
+index + 1
+
+12 * index(2) = temporary (24)
+total = total (12) + temporary (24)
+total = 36
+
+index + 1
+12 * index(3) = temporary (36)
+total = total (36) + temporary (36)
+

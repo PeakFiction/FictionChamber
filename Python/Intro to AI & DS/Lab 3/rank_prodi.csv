@@ -1,0 +1,1702 @@
+rank,id_prodi,prodi-universitas,id_universitas,wilayah,peminat_2017,kapasitas_2018,peminat_2018,kapasitas_2019
+1,3211015,Pendidikan Dokter - UI,321,1,4041,127,3955,72
+2,3321073,Sekolah Tek. Elektro & Informatika (STEI) - ITB,332,1,4215,168,4804,168
+3,3321026,Fak. Teknik Pertamb. & Perminyakan (FTTM) - ITB,332,1,2889,132,2928,136
+4,3321081,Fakultas Teknologi Industri (FTI) - Kampus Ganesa - ITB,332,1,2034,142,2365,144
+5,3611066,Kedokteran - UGM,361,2,3777,70,4444,79
+6,3331013,Pendidikan Dokter - Unpad,333,1,5979,165,6513,125
+7,3211182,Teknik Industri - UI,321,1,1577,66,1795,48
+8,3811014,Pendidikan Dokter - Unair,381,3,3465,100,3805,100
+9,3551027,Kedokteran - Undip,355,2,3647,86,4318,85
+10,3211112,Teknik Elektro - UI,321,1,1073,58,1086,40
+11,3721085,Pendidikan Dokter - UB,372,3,3340,90,4085,100
+12,3531015,Kedokteran - UNS,353,2,5294,115,5658,110
+13,3321096,Fakultas Teknik Mesin & Dirgantara (FTMD) - ITB,332,1,3043,120,3215,120
+14,3821202,Informatika - ITS,382,3,2537,72,2155,100
+15,3211166,Ilmu Komputer - UI,321,1,2100,91,2403,60
+16,3611186,Ilmu Komputer - UGM,361,2,1664,32,1816,32
+17,3211216,Teknik Komputer - UI,321,1,1505,56,1450,32
+18,7111076,Pendidikan Dokter - Unhas,711,4,4914,135,5335,125
+19,3821105,Teknik Industri - ITS,382,3,1833,80,2057,80
+20,3611372,Teknik Kimia - UGM,361,2,1089,66,1236,68
+21,3611387,Teknik Elektro - UGM,361,2,1278,44,1168,45
+22,3821071,Teknik Elektro - ITS,382,3,1551,96,1697,96
+23,3821086,Teknik Kimia - ITS,382,3,1185,64,1072,80
+24,3211143,Teknik Kimia - UI,321,1,1209,63,1080,36
+25,3611492,Teknologi Informasi - UGM,361,2,2144,45,2361,45
+26,3321107,Sek. Arsitektur Perenc & Pengemb Kebijakan - ITB,332,1,2142,76,2359,68
+27,1411033,Pendidikan Dokter - Unand,141,1,2897,100,3401,100
+28,3321042,Fakultas Teknik Sipil & Lingkungan (FTSL) - Kampus Ganesa - ITB,332,1,2819,137,2981,136
+29,1211015,Pendidikan Dokter - USU,121,1,2731,82,2698,82
+30,3211077,Farmasi - UI,321,1,1768,91,1873,52
+31,3211104,Teknik Mesin - UI,321,1,1376,60,1423,32
+32,1711067,Pendidikan Dokter - Unsri,171,1,2490,102,3272,125
+33,3611437,Teknik Industri - UGM,361,2,1546,44,1693,50
+34,3211093,Teknik Sipil - UI,321,1,1855,60,1970,36
+35,3241061,Kedokteran - UPNVJ,324,1,3053,60,3337,75
+36,3321057,Sekolah Farmasi (SF) - ITB,332,1,1176,60,1454,60
+37,3611027,Farmasi - UGM,361,2,2917,97,3195,108
+38,3211023,Pendidikan Dokter Gigi - UI,321,1,2040,91,1796,48
+39,3321011,Fak. Ilmu dan Teknologi Kebumian (FITB) - ITB,332,1,1470,112,1671,112
+40,3631032,Teknik Perminyakan - UPNYK,363,2,2037,64,1699,90
+41,3511107,Pendidikan Dokter - Unsoed,351,2,4128,62,4902,60
+42,3221114,Pendidikan Dokter - UIN Jkt,322,1,1906,42,2152,40
+43,6111014,Pendidikan Dokter - Unud,611,3,2532,101,3006,125
+44,3811037,Pendidikan Apoteker - Unair,381,3,1890,96,2174,100
+45,3211135,Arsitektur - UI,321,1,1656,40,1583,24
+46,1911201,Pend. Kedokteran - Unila,191,1,2908,68,3017,65
+47,3611097,Kedokteran Gigi - UGM,361,2,2040,60,2047,68
+48,3211255,Gizi - UI,321,1,2063,43,2043,24
+49,3611422,Teknik Fisika - UGM,361,2,622,52,760,54
+50,1311191,Pend. Dokter - Unri,131,1,1619,25,1769,48
+51,3711133,Pendidikan Dokter - Unej,371,3,2807,80,3334,70
+52,3551205,Teknik Kimia - Undip,355,2,1461,79,1503,113
+53,3811022,Pendidikan Dokter Gigi - Unair,381,3,1777,66,1956,72
+54,3211127,Teknik Metalurgi & Material - UI,321,1,1121,61,1011,36
+55,3211224,Sistem Informasi - UI,321,1,2254,91,2467,60
+56,3721375,Teknik Kimia - UB,372,3,701,41,784,60
+57,3331164,Farmasi - Unpad,333,1,3597,106,4258,80
+58,3821217,Sistem Informasi - ITS,382,3,1626,60,1889,60
+59,3331187,Psikologi - Unpad,333,1,3475,106,4602,80
+60,3611453,Teknologi Pangan Dan Hasil Pertanian - UGM,361,2,1383,52,1712,50
+61,3611082,Gizi Kesehatan - UGM,361,2,1684,41,2065,45
+62,3211201,Teknik Lingkungan - UI,321,1,957,42,1220,28
+63,3631024,Teknik Pertambangan - UPNYK,363,2,2184,64,2401,90
+64,3321131,Fakultas Teknik Sipil Dan Lingkungan (FTSL) - Kampus Jatinangor - ITB,332,1,843,32,900,32
+65,3741124,Pendidikan Dokter - UIN Malang,374,3,1366,30,1695,30
+66,3611395,Teknik Mesin - UGM,361,2,1855,56,1848,63
+67,3611163,Kimia - UGM,361,2,716,66,786,63
+68,3321034,Fak. Matematika & Ilmu Penget. Alam (FMIPA) - ITB,332,1,1921,180,2273,180
+69,3551236,Teknik Industri - Undip,355,2,1874,62,2229,75
+70,3611414,Teknik Nuklir - UGM,361,2,609,28,679,30
+71,3321065,Sekolah Ilmu & Tekno. Hayati - Prog. Sains - ITB,332,1,757,50,785,64
+72,7211015,Pendidikan Dokter - Unsrat,721,4,1779,53,1911,68
+73,3331091,Pendidikan Dokter Gigi - Unpad,333,1,3011,99,3049,70
+74,3551101,Informatika - Undip,355,2,2296,61,2044,83
+75,7111045,Farmasi - Unhas,711,4,3386,80,3712,85
+76,3321146,Fakultas Teknologi Industri (FTI) - Kampus Jatinangor - ITB,332,1,698,32,758,32
+77,3611171,Matematika - UGM,361,2,663,31,777,32
+78,3611194,Statistika - UGM,361,2,875,31,1205,27
+79,3721336,Farmasi - UB,372,3,2428,49,2861,48
+80,3211263,Kesehatan Lingkungan - UI,321,1,514,35,976,20
+81,3811157,Sistem Informasi - Unair,381,3,846,24,1020,32
+82,3211174,Ilmu Kesehatan Masyarakat - UI,321,1,2413,105,2397,60
+83,3331206,Teknik Informatika - Unpad,333,1,3773,46,4155,40
+84,3821063,Teknik Mesin - ITS,382,3,2144,80,1977,88
+85,3611333,Arsitektur - UGM,361,2,1790,40,1893,36
+86,3721305,Pendidikan Dokter Gigi - UB,372,3,1776,49,2102,40
+87,3531093,Teknik Industri - UNS,353,2,1681,57,1996,55
+88,3611406,Teknik Sipil - UGM,361,2,2565,67,2735,68
+89,3411354,Ilmu Gizi - IPB,341,1,2200,26,2480,37
+90,3821144,Teknik Lingkungan - ITS,382,3,1124,48,1156,48
+91,3611317,Mikrobiologi Pertanian - UGM,361,2,269,18,258,14
+92,3321123,Sekolah Ilmu & Tekno Hayati - Prog Rekayasa - ITB,332,1,1134,81,1171,80
+93,3611074,Ilmu Keperawatan - UGM,361,2,1129,44,1165,45
+94,3211151,Ilmu Keperawatan - UI,321,1,1169,60,1113,48
+95,3211031,Matematika - UI,321,1,1083,56,942,28
+96,3611364,Teknik Geologi - UGM,361,2,1020,49,1008,54
+97,3551213,Teknik Elektro - Undip,355,2,1595,60,1663,75
+98,3411273,Teknologi Pangan - IPB,341,1,1489,41,1703,65
+99,3321162,Sek. Arsitektur Perenc & Pengemb Kebijakan (SAPPK) - Kampus Cirebon - ITB,332,1,425,14,317,14
+100,3821121,Teknik Sipil - ITS,382,3,2246,60,2253,60
+101,5311233,Pendidikan Dokter - ULM,531,3,1340,57,1606,63
+102,3631016,Teknik Geologi - UPNYK,363,2,1336,64,1311,78
+103,1411114,Sistem Komputer - Unand,141,1,1194,34,1438,34
+104,3721367,Sistem Informasi - UB,372,3,1574,63,1768,64
+105,1211247,Teknologi Informasi - USU,121,1,2606,50,2524,54
+106,1111165,Pendidikan Dokter - Unsyiah,111,1,2352,62,2624,60
+107,3221025,Teknik Informatika - UIN Jkt,322,1,1796,53,1786,52
+108,3821024,Matematika - ITS,382,3,612,52,632,52
+109,3611213,Elektronika Dan Instrumentasi - UGM,361,2,546,31,666,32
+110,3721247,Teknik Industri - UB,372,3,2075,69,2173,80
+111,3211271,Keselamatan Dan Kesehatan Kerja - UI,321,1,1251,35,1284,20
+112,3411226,Statistika - IPB,341,1,759,25,936,37
+113,3721255,Teknik Informatika - UB,372,3,3030,94,3158,96
+114,3531174,Informatika - UNS,353,2,2075,31,2015,40
+115,3821032,Statistika - ITS,382,3,1047,44,866,60
+116,3411443,Matematika - IPB,341,1,592,25,560,31
+117,3211232,Arsitektur Interior - UI,321,1,1621,35,1654,20
+118,3511204,Teknik Informatika - Unsoed,351,2,1620,34,2046,32
+119,5411211,Pendidikan Dokter - Unmul,541,3,1189,50,1339,40
+120,3551333,Kedokteran Gigi - Undip,355,2,1937,24,1388,13
+121,3211197,Teknik Perkapalan - UI,321,1,807,42,713,24
+122,3331172,Teknik Geologi - Unpad,333,1,1929,139,2452,80
+123,3411106,Ilmu Komputer - IPB,341,1,1854,50,2184,49
+124,3321154,Fakultas Teknologi Industri (FTI) - Kampus Cirebon - ITB,332,1,369,11,300,20
+125,3721182,Statistika - UB,372,3,1021,58,1298,80
+126,3211313,Aktuaria - UI,321,1,0,28,2252,20
+127,3821167,Perencanaan Wilayah Dan Kota - ITS,382,3,1174,44,1149,44
+128,3551283,Teknik Komputer - Undip,355,2,1093,46,1424,60
+129,3241037,Teknik Industri - UPNVJ,324,1,1234,41,1474,53
+130,3631086,Teknik Informatika - UPNYK,363,2,1892,88,2164,100
+131,3551194,Teknik Mesin - Undip,355,2,1684,72,2096,90
+132,3611341,Perencanaan Wilayah Dan Kota - UGM,361,2,1329,32,1469,36
+133,3721031,Teknik Sipil - UB,372,3,2354,54,2626,70
+134,1611194,Pendidikan Dokter - Unib,161,1,906,21,905,33
+135,3531112,Teknik Kimia - UNS,353,2,994,50,915,50
+136,3531271,Farmasi - UNS,353,2,2219,31,2068,30
+137,3721216,Ilmu Keperawatan - UB,372,3,1129,45,1126,56
+138,5111207,Pend. Dokter - Untan,511,1,813,24,884,36
+139,3211054,Kimia - UI,321,1,843,76,830,40
+140,3551171,Teknik Sipil - Undip,355,2,2774,70,3032,80
+141,3211321,Teknik Biomedis - UI,321,1,0,28,1472,16
+142,3241045,Informatika - UPNVJ,324,1,1856,64,2154,75
+143,7111196,Pendidikan Dokter Gigi - Unhas,711,4,2746,56,2780,50
+144,3821314,Teknologi Informasi - ITS,382,3,0,18,1052,20
+145,5211224,Pendidikan Dokter - UPR,521,3,505,20,552,20
+146,1411184,Farmasi - Unand,141,1,2378,60,2830,60
+147,6211224,Pendidikan Dokter - Unram,621,3,1384,31,1628,50
+148,3411497,Aktuaria - IPB,341,1,1564,20,1441,27
+149,3611461,Teknologi Industri Pertanian - UGM,361,2,658,44,856,50
+150,3721054,Teknik Elektro - UB,372,3,1214,68,1325,80
+151,3551341,Farmasi - Undip,355,2,2018,25,1744,25
+152,3331222,Teknik Elektro - Unpad,333,1,1187,33,1211,30
+153,7511212,Pendidikan Dokter - Unhalu,751,4,1131,30,1023,40
+154,3731017,Pendidikan Matematika - UM,373,3,1071,66,1242,70
+155,1211031,Teknik Mesin - USU,121,1,1449,91,1475,69
+156,7311183,Pend. Dokter - Untad,731,4,842,67,988,75
+157,3341104,Ilmu Komputer - UPI,334,1,1439,16,1445,41
+158,3551186,Arsitektur - Undip,355,2,1680,48,1909,65
+159,3811103,Pendidikan Ners - Unair,381,3,916,60,997,70
+160,3231012,Pendidikan Matematika - UNJ,323,1,1037,16,847,20
+161,3331141,Teknologi Pangan - Unpad,333,1,2521,79,2770,60
+162,3821152,Teknik Geomatika - ITS,382,3,748,44,700,48
+163,1511146,Kedokteran - Unja,151,1,1866,42,2014,68
+164,1211077,Pendidikan Dokter Gigi - USU,121,1,2364,83,2286,82
+165,3531216,Pendidikan Matematika - UNS,353,2,1001,40,1112,40
+166,3621014,Pendidikan Matematika - UNY,362,2,1529,44,1567,32
+167,3821306,Sains Aktuaria - ITS,382,3,0,24,1119,32
+168,3331284,Ilmu Aktuaria - Unpad,333,1,0,55,2272,35
+169,3711187,Farmasi - Unej,371,3,1800,68,2181,80
+170,3551244,Teknik Lingkungan - Undip,355,2,982,49,1721,60
+171,3531166,Perencanaan Wilayah Dan Kota (Pwk) - UNS,353,2,1066,23,1148,23
+172,6311233,Pendidikan Dokter - Undana,631,3,766,32,896,27
+173,3811165,Statistika - Unair,381,3,638,24,624,32
+174,3721232,Gizi Kesehatan / Ilmu Gizi - UB,372,3,2372,48,2683,48
+175,3821136,Arsitektur - ITS,382,3,1623,40,1563,40
+176,3341054,Pendidikan Ilmu Komputer - UPI,334,1,467,34,570,41
+177,7131162,Pendidikan Dokter - UIN Alauddin,713,4,941,25,953,25
+178,9111126,Pendidikan Dokter - Uncen,911,4,572,13,634,13
+179,3211305,Statistika - UI,321,1,1135,46,838,24
+180,3511212,Pendidikan Dokter Gigi - Unsoed,351,2,1871,25,1929,25
+181,1121113,Pendidikan Dokter - Unimal,112,1,1117,32,1243,32
+182,3511131,Farmasi - Unsoed,351,2,2417,52,2592,50
+183,3411315,Teknik Sipil Dan Lingkungan - IPB,341,1,1395,27,1753,41
+184,1211143,Keteknikan Pertanian - USU,121,1,1339,39,1303,36
+185,3331067,Statistika - Unpad,333,1,1159,59,1478,50
+186,3611155,Fisika - UGM,361,2,362,34,360,32
+187,3631047,Teknik Lingkungan - UPNYK,363,2,1077,36,1125,63
+188,8111246,Pendidikan Dokter - Unpatti,811,4,542,42,610,75
+189,3631071,Teknik Industri - UPNYK,363,2,1229,71,1576,80
+190,3811126,Pendidikan Bidan - Unair,381,3,567,20,590,30
+191,8211224,Pendidikan Dokter - Unkhair,821,4,200,24,243,20
+192,3651052,Teknik Informatika - UIN Suka,365,2,987,25,1371,27
+193,1211062,Teknik Kimia - USU,121,1,884,77,887,69
+194,3341015,Pendidikan Matematika - UPI,334,1,1133,49,1202,41
+195,3621157,Pendidikan Teknik Informatika - UNY,362,2,1825,17,2014,16
+196,1711075,Pendidikan Dokter Gigi - Unsri,171,1,1250,24,1246,40
+197,3721046,Teknik Mesin - UB,372,3,1756,69,2034,80
+198,3531104,Teknik Mesin - UNS,353,2,1921,51,1703,50
+199,1211054,Teknik Industri - USU,121,1,1536,77,1665,69
+200,1211232,Ilmu Komputer - USU,121,1,3083,50,3126,54
+201,3551097,Statistika - Undip,355,2,1191,49,1563,83
+202,3611325,Ilmu Dan Industri Peternakan - UGM,361,2,1121,121,1041,135
+203,7111424,Psikologi - Unhas,711,4,1641,46,1752,35
+204,3211046,Fisika - UI,321,1,761,74,630,40
+205,3341046,Pendidikan Kimia - UPI,334,1,704,41,754,41
+206,3231132,Pendidikan Informatika - UNJ,323,1,1862,39,890,45
+207,3331021,Matematika - Unpad,333,1,1014,66,1040,50
+208,3721197,Perencanaan Wilayah & Kota - UB,372,3,1612,54,1829,70
+209,3211294,Geologi - UI,321,1,1046,60,518,28
+210,3411041,Biokimia - IPB,341,1,598,28,682,40
+211,3721093,Ilmu Dan Teknologi Pangan - UB,372,3,1747,48,1735,68
+212,3631055,Teknik Geofisika - UPNYK,363,2,409,28,413,45
+213,3811173,Ilmu Gizi - Unair,381,3,1446,36,1624,48
+214,3211247,Teknologi Bioproses - UI,321,1,1052,42,896,24
+215,3231051,Matematika - UNJ,323,1,685,16,755,20
+216,3411122,Kimia - IPB,341,1,560,30,654,41
+217,3331195,Geofisika - Unpad,333,1,769,40,841,30
+218,3611205,Geofisika - UGM,361,2,424,27,508,27
+219,3611252,Ekonomi Pertanian Dan Agribisnis - UGM,361,2,807,32,935,36
+220,1711021,Teknik Pertambangan - Unsri,171,1,1821,51,1858,60
+221,1111277,Farmasi - Unsyiah,111,1,1951,18,1994,24
+222,3551051,Matematika - Undip,355,2,645,49,790,70
+223,3411153,Manajemen Hutan - IPB,341,1,800,32,821,43
+224,3551043,Gizi - Undip,355,2,2146,49,2725,65
+225,1711036,Teknik Kimia - Unsri,171,1,769,48,842,70
+226,3411265,Teknologi Industri Pertanian - IPB,341,1,1390,40,1375,63
+227,3551035,Keperawatan - Undip,355,2,1510,65,1746,60
+228,3551267,Teknik Geologi - Undip,355,2,811,33,758,45
+229,3651067,Teknik Industri - UIN Suka,365,2,605,25,657,27
+230,3811134,Teknobiomedik - Unair,381,3,961,24,1032,32
+231,1711276,Sistem Komputer - Unsri,171,1,1085,59,1225,83
+232,3411234,Teknik Pertanian Dan Biosistem - IPB,341,1,678,35,932,50
+233,3511227,Ilmu Gizi - Unsoed,351,2,1509,31,1955,40
+234,3411346,Manajemen - IPB,341,1,1536,40,1920,53
+235,3341062,Matematika - UPI,334,1,612,20,716,41
+236,3811092,Kesehatan Masyarakat - Unair,381,3,2072,96,2309,112
+237,1311183,Teknik Elektro - Unri,131,1,636,55,731,32
+238,3411056,Biologi - IPB,341,1,750,31,808,42
+239,3821272,Teknik Geofisika - ITS,382,3,417,24,454,24
+240,3811084,Kimia - Unair,381,3,400,40,647,40
+241,3231043,Pendidikan Biologi - UNJ,323,1,890,33,949,40
+242,3721321,Kebidanan - UB,372,3,969,46,1042,44
+243,3211286,Geofisika - UI,321,1,802,59,656,28
+244,1111262,Informatika - Unsyiah,111,1,1858,32,1904,36
+245,3711083,Pendidikan Dokter Gigi - Unej,371,3,1931,80,2301,70
+246,3231155,Ilmu Komputer - UNJ,323,1,1496,16,2373,20
+247,3341093,Kimia - UPI,334,1,695,26,633,36
+248,3411017,Agribisnis - IPB,341,1,2204,37,2274,55
+249,3621045,Pendidikan Biologi - UNY,362,2,1120,27,1151,32
+250,3611043,Kartografi Dan Penginderaan Jauh - UGM,361,2,637,34,687,34
+251,3821256,Teknik Komputer - ITS,382,3,675,32,962,32
+252,3411033,Arsitektur Lansekap - IPB,341,1,1175,25,1119,35
+253,3611356,Teknik Geodesi - UGM,361,2,811,52,1024,61
+254,3821183,Teknik Kelautan - ITS,382,3,1046,52,766,52
+255,3531197,Pendidikan Kimia - UNS,353,2,454,40,519,40
+256,3821113,Teknik Material - ITS,382,3,1019,60,1192,64
+257,3331125,Ilmu Keperawatan - Unpad,333,1,2587,99,2691,70
+258,3531023,Psikologi - UNS,353,2,2596,53,3167,60
+259,3611051,Pembangunan Wilayah - UGM,361,2,523,36,791,30
+260,3531182,Pendidikan Fisika - UNS,353,2,492,40,390,40
+261,3721062,Arsitektur - UB,372,3,1957,54,2131,70
+262,3621037,Pendidikan Kimia - UNY,362,2,696,27,624,32
+263,1211046,Teknik Elektro - USU,121,1,1318,77,1252,69
+264,3821175,Teknik Perkapalan - ITS,382,3,1022,36,887,36
+265,3721127,Kimia - UB,372,3,571,55,665,80
+266,3851062,Teknik Informatika - UPNV Jatim,385,3,1298,57,1381,100
+267,3721294,Pendidikan Dokter Hewan - UB,372,3,884,80,1017,80
+268,3231035,Pendidikan Kimia - UNJ,323,1,527,33,523,40
+269,1411041,Ilmu Keperawatan - Unand,141,1,1071,50,1218,72
+270,3821241,Tek. Sist Perkapalan (Glr Ganda Its-Jerman) - ITS,382,3,380,24,421,24
+271,3721135,Matematika - UB,372,3,689,57,806,80
+272,3821225,Desain Produk Industri - ITS,382,3,851,24,426,27
+273,3531286,Teknik Elektro - UNS,353,2,865,21,891,40
+274,3631063,Teknik Kimia - UPNYK,363,2,803,80,1046,80
+275,3211062,Biologi - UI,321,1,1080,75,1013,40
+276,3531077,Teknik Sipil - UNS,353,2,3325,81,3297,80
+277,6111207,Ilmu Komputer/Teknik Informatika - Unud,611,3,771,54,943,60
+278,3531085,Arsitektur - UNS,353,2,2003,51,1942,50
+279,1111181,Pendidikan Dokter Gigi - Unsyiah,111,1,1474,24,1495,24
+280,3731033,Pendidikan Kimia - UM,373,3,607,41,577,55
+281,3511123,Keperawatan - Unsoed,351,2,1510,56,1784,40
+282,1911224,Ilmu Komputer - Unila,191,1,1449,45,1516,45
+283,3511096,Teknik Sipil - Unsoed,351,2,1530,48,1688,50
+284,3561014,Pendidikan Matematika - Unnes,356,2,1580,89,1661,76
+285,3611035,Geografi Lingkungan - UGM,361,2,834,46,834,45
+286,3821047,Kimia - ITS,382,3,556,48,543,48
+287,3511146,Teknik Geologi - Unsoed,351,2,516,30,1000,30
+288,3831011,Pend. Matematika - Unesa,383,3,969,50,1200,45
+289,3331036,Kimia - Unpad,333,1,1110,66,1020,50
+290,3341023,Pendidikan Fisika - UPI,334,1,473,36,544,41
+291,3511081,Teknik Elektro - Unsoed,351,2,982,50,946,50
+292,3721352,Teknik Komputer - UB,372,3,658,66,1476,64
+293,1111254,Teknik Industri - Unsyiah,111,1,539,43,581,48
+294,3221087,Kesehatan Masyarakat - UIN Jkt,322,1,1462,48,1715,48
+295,1411273,Gizi - Unand,141,1,938,20,1182,20
+296,3531294,Statistika - UNS,353,2,1105,32,819,50
+297,3821094,Teknik Fisika - ITS,382,3,957,60,871,72
+298,7111382,Teknik Informatika - Unhas,711,4,3055,37,3270,45
+299,3811053,Matematika - Unair,381,3,557,48,645,40
+300,3851104,Teknik Sipil - UPNV Jatim,385,3,1001,29,1110,60
+301,3821287,Desain Interior - ITS,382,3,635,28,710,24
+302,3411114,Kedokteran Hewan - IPB,341,1,1170,55,1227,86
+303,3331052,Biologi - Unpad,333,1,1338,79,1316,60
+304,3611445,Teknik Pertanian - UGM,361,2,640,40,545,45
+305,1411064,Pendidikan Dokter Gigi - Unand,141,1,1333,28,1338,32
+306,3341031,Pendidikan Biologi - UPI,334,1,1047,37,1188,41
+307,3611101,Kedokteran Hewan - UGM,361,2,1176,96,1250,90
+308,3551221,Perencanaan Wilayah dan Kota - Undip,355,2,1647,56,2126,79
+309,3221033,Sistem Informasi - UIN Jkt,322,1,1233,57,1302,52
+310,1421012,Pendidikan Matematika - UNP,142,1,810,64,845,64
+311,3611012,Biologi - UGM,361,2,965,93,1232,102
+312,3221106,Ilmu Keperawatan - UIN Jkt,322,1,1025,39,1097,40
+313,3721391,Teknik Geofisika - UB,372,3,776,36,727,36
+314,7211271,Farmasi - Unsrat,721,4,854,28,1024,36
+315,3241092,Gizi - UPNVJ,324,1,1524,46,1814,53
+316,3621022,Pendidikan Fisika - UNY,362,2,582,44,492,32
+317,3231074,Kimia - UNJ,323,1,452,16,551,23
+318,7111374,Teknik Pertambangan - Unhas,711,4,1589,32,1908,35
+319,3551074,Kimia - Undip,355,2,656,61,759,83
+320,3731041,Pendidikan Biologi - UM,373,3,992,40,1046,55
+321,3631113,Metalurgi - UPNYK,363,2,457,24,373,30
+322,3721313,Ilmu Kelautan - UB,372,3,644,61,845,72
+323,3611221,Agronomi - UGM,361,2,559,33,576,36
+324,3231027,Pendidikan Fisika - UNJ,323,1,361,32,403,40
+325,6111215,Teknologi Informasi - Unud,611,3,743,57,862,90
+326,3821295,Teknik Biomedik - ITS,382,3,453,30,924,32
+327,3531127,Matematika - UNS,353,2,594,42,813,50
+328,3531201,Pendidikan Biologi - UNS,353,2,901,42,797,45
+329,3551012,Kesehatan Masyarakat - Undip,355,2,2906,165,3807,150
+330,1711284,Teknik Informatika - Unsri,171,1,1772,58,1951,83
+331,1211104,Farmasi - USU,121,1,2626,81,2669,78
+332,5111103,Pend. Matematika - Untan,511,1,521,30,458,30
+333,6111262,Pendidikan Dokter Gigi - Unud,611,3,926,21,922,25
+334,3411451,Fisika - IPB,341,1,388,30,446,35
+335,3731137,Kimia - UM,373,3,519,41,585,55
+336,1211174,Ilmu Dan Teknologi Pangan - USU,121,1,1172,39,1361,36
+337,3651075,Pendidikan Matematika - UIN Suka,365,2,409,25,357,27
+338,3811142,Ilmu Dan Teknologi Lingkungan - Unair,381,3,792,24,869,32
+339,1311175,Teknik Mesin - Unri,131,1,894,59,830,48
+340,3611476,Higiene Gigi - UGM,361,2,416,20,320,23
+341,3851031,Teknik Kimia - UPNV Jatim,385,3,1015,84,894,120
+342,3511243,Teknik Industri - Unsoed,351,2,697,24,852,22
+343,1421147,Pend. Teknik Informatika Dan Komputer - UNP,142,1,1438,36,1721,39
+344,1921064,Teknik Informatika - Itera,192,1,1418,116,1531,117
+345,3231082,Biologi - UNJ,323,1,930,34,1040,40
+346,3821233,Teknik Transportasi Laut - ITS,382,3,449,20,401,20
+347,6121055,Pendidikan Teknik Informatika - Undiksha,612,3,260,68,257,60
+348,3411145,Konservasi Sumberdayahutan& Ekowisata - IPB,341,1,973,30,1026,45
+349,1211023,Teknik Sipil - USU,121,1,2066,57,1943,51
+350,5421035,Teknik Mesin - ITK,542,3,346,48,295,50
+351,3721417,Bioteknologi - UB,372,3,966,37,1332,52
+352,3811076,Fisika - Unair,381,3,284,40,388,40
+353,5111076,Teknik Informatika - Untan,511,1,1415,14,1444,35
+354,3241053,Sistem Informasi - UPNVJ,324,1,1219,56,1580,75
+355,1411211,Sistem Informasi - Unand,141,1,1259,24,1771,32
+356,7111343,Teknik Industri - Unhas,711,4,941,36,950,45
+357,3411331,Ekonomi Pembangunan - IPB,341,1,647,27,783,37
+358,3511115,Kesehatan Masyarakat - Unsoed,351,2,1851,66,2189,60
+359,3221122,Pendidikan Matematika - UIN Jkt,322,1,557,42,567,39
+360,3611484,Kehutanan - UGM,361,2,2107,111,2242,124
+361,3531143,Kimia - UNS,353,2,422,41,662,45
+362,7111165,Teknik Elektro - Unhas,711,4,1434,56,1407,60
+363,3411404,Teknologi Hasil Perairan - IPB,341,1,462,28,638,39
+364,3851046,Teknik Industri - UPNV Jatim,385,3,1047,74,1599,100
+365,3221095,Farmasi - UIN Jkt,322,1,1770,44,1885,44
+366,3821016,Fisika - ITS,382,3,477,48,384,48
+367,3851093,Teknik Lingkungan - UPNV Jatim,385,3,810,29,1148,60
+368,1211263,Teknik Lingkungan - USU,121,1,648,19,672,18
+369,5311306,Ilmu Komputer - ULM,531,3,1056,35,1146,32
+370,3221161,Teknik Pertambangan - UIN Jkt,322,1,575,19,439,16
+371,5411265,Teknik Informatika - Unmul,541,3,1193,81,1109,68
+372,3331083,Agribisnis - Unpad,333,1,2364,83,2371,70
+373,3211085,Geografi - UI,321,1,808,76,832,40
+374,5411203,Teknik Pertambangan - Unmul,541,3,393,21,537,25
+375,3331214,Teknologi Industri Pertanian - Unpad,333,1,948,40,921,30
+376,1711172,Pend Biologi - Unsri,171,1,729,35,678,40
+377,5111223,Sistem Komputer - Untan,511,1,634,46,707,48
+378,1321034,Sistem Informasi - UIN Riau,132,1,681,48,723,20
+379,5311191,Teknik Pertambangan - ULM,531,3,286,25,339,18
+380,3731184,Ilmu Kesehatan Masyarakat - UM,373,3,1331,36,1594,80
+381,1421163,Teknik Pertambangan (NK) - UNP,142,1,1562,14,1404,16
+382,3221145,Pendidikan Kimia - UIN Jkt,322,1,241,47,315,39
+383,3221056,Biologi - UIN Jkt,322,1,666,55,772,48
+384,3831042,Pend. Biologi - Unesa,383,3,943,51,1133,45
+385,3561157,Pend. Teknik Informatika & Komputer - Unnes,356,2,868,31,797,24
+386,3331044,Fisika - Unpad,333,1,655,53,633,40
+387,3341085,Biologi - UPI,334,1,853,16,928,21
+388,7111312,Ilmu Keperawatan - Unhas,711,4,1323,68,1341,75
+389,1511212,Farmasi - Unja,151,1,1066,14,940,36
+390,3331133,Ilmu Kelautan - Unpad,333,1,1510,46,1731,50
+391,1421035,Pendidikan Biologi - UNP,142,1,908,64,984,64
+392,1111173,Ilmu Keperawatan - Unsyiah,111,1,1473,64,1544,60
+393,7111142,Teknik Sipil - Unhas,711,4,3023,56,3176,70
+394,1211112,Fisika - USU,121,1,393,60,355,44
+395,5111111,Pend. Biologi - Untan,511,1,502,29,439,30
+396,3821322,Desain Komunikasi Visual - ITS,382,3,0,24,868,24
+397,1411153,Teknik Industri - Unand,141,1,1672,52,1741,52
+398,1911255,Teknik Informatika - Unila,191,1,1173,18,1223,44
+399,1421074,Pendidikan Kimia - UNP,142,1,484,64,482,64
+400,3411025,Agronomi Dan Hortikultura - IPB,341,1,1659,62,1666,78
+401,1121063,Teknik Informatika - Unimal,112,1,1090,127,1331,80
+402,1411176,Teknik Elektro - Unand,141,1,1529,52,1448,52
+403,3731114,Matematika - UM,373,3,759,56,826,70
+404,3511177,Agribisnis - Unsoed,351,2,1519,40,1516,60
+405,7311191,Kesehatan Masyarakat - Untad,731,4,936,132,999,150
+406,3421082,Kesehatan Masyarakat - Unsil,342,1,1434,50,1421,72
+407,3711036,Pendidikan Matematika - Unej,371,3,703,73,833,72
+408,6111181,Farmasi - Unud,611,3,1193,32,1287,50
+409,1411265,Kebidanan - Unand,141,1,530,20,646,20
+410,9111157,Teknik Pertambangan - Uncen,911,4,312,18,250,18
+411,3531062,Ilmu Dan Teknologi Pangan - UNS,353,2,1752,51,2180,50
+412,1211085,Matematika - USU,121,1,808,46,760,44
+413,3731087,Pendidikan Teknik Informatika - UM,373,3,808,36,739,45
+414,3811061,Biologi - Unair,381,3,586,40,794,40
+415,3241014,Teknik Mesin - UPNVJ,324,1,1051,41,1032,53
+416,3551275,Teknik Geodesi - Undip,355,2,765,40,858,60
+417,3241022,Teknik Perkapalan - UPNVJ,324,1,435,24,594,35
+418,3831034,Pend. Kimia - Unesa,383,3,598,50,659,45
+419,3411064,Ekonomi Sumberdaya Dan Lingkungan - IPB,341,1,693,30,751,40
+420,5311016,Pend. Matematika - ULM,531,3,459,40,415,36
+421,3231163,Statistika - UNJ,323,1,854,16,727,20
+422,5411323,Kedokteran Gigi - Unmul,541,3,550,12,499,14
+423,3241084,Kesehatan Masyarakat - UPNVJ,324,1,2327,71,2711,70
+424,3551302,Teknologi Pangan - Undip,355,2,1174,41,1376,50
+425,1921056,Teknik Sipil - Itera,192,1,1049,112,1052,117
+426,5421101,Sistem Informasi - ITK,542,3,753,48,381,47
+427,3531151,Biologi - UNS,353,2,843,49,818,45
+428,1711326,Farmasi - Unsri,171,1,2179,49,2096,60
+429,1211255,Manajemen Sumber Daya Perairan - USU,121,1,1041,39,1136,36
+430,3411377,Manajemen Sumberdaya Lahan - IPB,341,1,657,26,524,35
+431,5511011,Teknik Elektro - UBT,551,3,145,32,119,32
+432,3221017,Sosial Ekonomi Pertanian / Agribisnis - UIN Jkt,322,1,1049,70,904,52
+433,1411145,Teknik Sipil - Unand,141,1,2545,80,2373,80
+434,3651083,Pendidikan Fisika - UIN Suka,365,2,139,25,106,27
+435,6111223,Fisioterapi - Unud,611,3,531,21,577,30
+436,3731211,Teknik Informatika - UM,373,3,1861,38,1985,45
+437,3411385,Proteksi Tanaman - IPB,341,1,583,30,691,40
+438,7211263,Informatika - Unsrat,721,4,669,28,846,36
+439,3731226,Teknik Industri - UM,373,3,938,24,665,30
+440,1911143,Teknik Elektro - Unila,191,1,634,54,624,66
+441,3721441,Teknik Lingkungan - UB,372,3,1595,38,1375,52
+442,1711334,Teknik Geologi - Unsri,171,1,498,34,579,40
+443,1511243,Teknik Pertambangan - Unja,151,1,721,18,569,36
+444,3331156,Teknik Pertanian - Unpad,333,1,1198,66,1289,50
+445,3611244,Ilmu Tanah - UGM,361,2,419,24,432,27
+446,1331021,Teknik Informatika - Umrah,133,1,207,31,215,28
+447,3731025,Pendidikan Fisika - UM,373,3,476,42,443,53
+448,5111304,Teknik Pertambangan - Untan,511,1,288,16,297,24
+449,3551252,Teknik Perkapalan - Undip,355,2,841,59,934,65
+450,1311167,Teknik Kimia - Unri,131,1,660,58,741,48
+451,7111254,Ilmu Gizi - Unhas,711,4,1597,38,1852,40
+452,9121016,Teknik Elektro - Unmus,912,4,29,24,30,25
+453,3331237,Kedokteran Hewan - Unpad,333,1,620,33,783,25
+454,1321081,Pendidikan Matematika - UIN Riau,132,1,376,40,327,45
+455,6121016,Pendidikan Matematika - Undiksha,612,3,177,53,138,36
+456,3241076,Keperawatan - UPNVJ,324,1,1445,48,1496,40
+457,3711195,Ilmu Keperawatan - Unej,371,3,1359,109,1541,100
+458,1321096,Pendidikan Kimia - UIN Riau,132,1,169,31,151,30
+459,3511026,Kimia - Unsoed,351,2,515,36,529,40
+460,5411226,Kesehatan Masyarakat - Unmul,541,3,1470,21,1395,25
+461,3821055,Biologi - ITS,382,3,524,40,535,40
+462,3831026,Pend. Fisika - Unesa,383,3,496,50,518,45
+463,1411072,Kimia - Unand,141,1,643,48,679,48
+464,3311055,Teknik Informatika - Unsika,331,1,1696,120,1770,111
+465,1221017,Pendidikan Matematika - Unimed,122,1,1673,111,1396,144
+466,1111142,Pendidikan Fisika - Unsyiah,111,1,154,31,188,36
+467,3621053,Pendidikan Teknik Elektronika - UNY,362,2,285,17,263,16
+468,5421082,Perencanaan Wilayah Dan Kota - ITK,542,3,520,48,384,45
+469,7111111,Keteknikan Pertanian - Unhas,711,4,1205,46,1271,50
+470,3221041,Matematika - UIN Jkt,322,1,464,44,516,32
+471,1311217,Pend. Matematika - Unri,131,1,819,30,729,32
+472,6111246,Arsitektur Pertamanan - Unud,611,3,224,24,226,25
+473,7111401,Teknik Lingkungan - Unhas,711,4,509,38,746,40
+474,3361066,Teknik Informatika - UIN Bdg,336,1,1182,39,1292,48
+475,3411474,Bisnis - IPB,341,1,1125,25,1250,41
+476,3561165,Teknik Arsitektur - Unnes,356,2,755,17,752,24
+477,7121047,Pendidikan Biologi - UNM,712,4,1121,50,1016,29
+478,5111084,Teknik Industri - Untan,511,1,274,21,242,28
+479,3831204,Gizi - Unesa,383,3,1292,44,1198,36
+480,1311225,Pend. Biologi - Unri,131,1,823,31,794,32
+481,3411087,Ilmu Dan Teknologi Kelautan - IPB,341,1,949,31,976,41
+482,3551066,Biologi - Undip,355,2,797,63,900,83
+483,6111084,Biologi - Unud,611,3,180,35,220,35
+484,1921033,Perencanaan Wilayah Dan Kota - Itera,192,1,1044,126,952,117
+485,1311287,Teknik Informatika - Unri,131,1,1545,18,1562,32
+486,3551147,Ilmu Kelautan - Undip,355,2,1135,81,1062,90
+487,1711044,Teknik Mesin - Unsri,171,1,1107,48,1293,70
+488,3821191,Teknik Sistem Perkapalan - ITS,382,3,933,54,878,52
+489,6211135,Pendidikan Matematika - Unram,621,3,348,38,291,90
+490,5411234,Farmasi - Unmul,541,3,1335,104,1426,60
+491,7111037,Kesehatan Masyarakat - Unhas,711,4,3247,102,3374,125
+492,3611275,Penyuluhan Dan Komunikasi Pertanian - UGM,361,2,238,16,258,18
+493,3721077,Teknik Pengairan - UB,372,3,898,54,1026,70
+494,7111397,Fisoterapi - Unhas,711,4,1214,28,1101,30
+495,3561215,Teknik Informatika - Unnes,356,2,1577,34,1969,32
+496,5411281,Teknik Geologi - Unmul,541,3,134,24,174,25
+497,5111215,Farmasi - Untan,511,1,1471,31,1386,36
+498,1311152,Teknik Sipil - Unri,131,1,1451,50,1504,48
+499,3421074,Teknik Informatika - Unsil,342,1,1163,33,1064,48
+500,3721487,Teknologi Informasi - UB,372,3,525,32,947,32
+501,6311202,Ilmu Komputer - Undana,631,3,1115,45,1379,45
+502,3851054,Teknologi Pangan - UPNV Jatim,385,3,1033,30,1029,60
+503,6111022,Kedokteran Hewan - Unud,611,3,608,58,659,60
+504,5421116,Teknik Industri - ITK,542,3,0,48,357,50
+505,3411137,Komunikasi Dan Pengembangan Masyarakat - IPB,341,1,1553,40,1624,53
+506,3621103,Matematika - UNY,362,2,871,34,837,32
+507,3651013,Matematika - UIN Suka,365,2,228,25,152,27
+508,6111173,Ilmu Kesehatan Masyarakat - Unud,611,3,810,37,883,75
+509,3561207,Teknik Sipil - Unnes,356,2,1284,37,1477,32
+510,3111111,Pendidikan Matematika - Untirta,311,1,654,44,657,48
+511,3531046,Agribisnis - UNS,353,2,2005,62,2080,60
+512,3331117,Perikanan - Unpad,333,1,1159,119,1129,80
+513,7211023,Pendidikan Dokter Gigi - Unsrat,721,4,656,9,570,12
+514,3231066,Fisika - UNJ,323,1,260,16,319,40
+515,1221025,Pendidikan Biologi - Unimed,122,1,2060,77,1712,70
+516,1911151,Pend. Matematika - Unila,191,1,668,36,778,36
+517,3711091,Matematika - Unej,371,3,390,61,555,60
+518,1711052,Teknik Elektro - Unsri,171,1,1337,50,1370,70
+519,6121032,Pendidikan Kimia - Undiksha,612,3,54,47,52,10
+520,3411362,Ekonomi Syariah - IPB,341,1,1011,26,1049,35
+521,3651102,Pendidikan Biologi - UIN Suka,365,2,352,25,345,27
+522,6111045,Teknik Sipil - Unud,611,3,1142,56,1145,90
+523,3621397,Statistika - UNY,362,2,0,17,794,16
+524,5421043,Teknik Elektro - ITK,542,3,357,48,250,45
+525,3341077,Fisika - UPI,334,1,260,17,263,21
+526,7111366,Teknik Pengemb. Wilayah Kota - Unhas,711,4,970,38,1124,45
+527,3721104,Biologi - UB,372,3,867,61,901,70
+528,3811196,Kesehatan Masyarakat (PSDKU Banyuwangi) - Unair,381,3,206,20,384,20
+529,7111053,Kimia - Unhas,711,4,498,46,529,50
+530,1111293,Teknik Pertambangan - Unsyiah,111,1,662,27,731,24
+531,3551155,Oceanografi - Undip,355,2,996,49,1379,60
+532,6111053,Ilmu Dan Teknologi Pangan - Unud,611,3,352,26,496,40
+533,1211135,Agroekoteknologi - USU,121,1,2306,115,2345,108
+534,1411056,Ilmu Kesehatan Masyarakat - Unand,141,1,1859,60,2014,60
+535,6111134,Agribisnis - Unud,611,3,679,68,757,100
+536,3511034,Matematika - Unsoed,351,2,743,37,696,40
+537,6111103,Fisika - Unud,611,3,76,27,88,30
+538,1711381,Gizi - Unsri,171,1,1335,39,1124,50
+539,1921153,Teknik Industri - Itera,192,1,0,105,1073,88
+540,3411435,Meteorologi Terapan - IPB,341,1,710,27,669,35
+541,1221041,Pendidikan Kimia - Unimed,122,1,860,56,725,84
+542,3841052,Teknik Industri - Unijoyo,384,3,448,90,618,100
+543,1321065,Teknik Informatika - UIN Riau,132,1,1073,51,1075,20
+544,3561037,Pendidikan Kimia - Unnes,356,2,616,43,655,42
+545,3561045,Pendidikan Biologi - Unnes,356,2,1057,46,981,42
+546,3611291,Teknologi Hasil Perikanan - UGM,361,2,358,24,373,27
+547,1711342,Psikologi - Unsri,171,1,915,35,1178,40
+548,3611302,Manajemen Sumberdaya Akuatik (Manajemen Sumber Daya Perikanan) - UGM,361,2,408,24,277,27
+549,1211166,Agribisnis - USU,121,1,3576,61,3598,66
+550,5311295,Farmasi - ULM,531,3,1344,32,1391,35
+551,1411095,Matematika - Unand,141,1,640,40,705,40
+552,1711141,Teknik Pertanian - Unsri,171,1,765,43,713,50
+553,1411161,Teknik Lingkungan - Unand,141,1,1212,40,1694,40
+554,3341216,Arsitektur - UPI,334,1,1138,24,1179,27
+555,7111014,Matematika - Unhas,711,4,450,38,510,44
+556,3111014,Teknik Mesin - Untirta,311,1,607,33,579,48
+557,3621092,Pendidikan Teknik Sipil & Perencanaan - UNY,362,2,1557,50,1886,48
+558,6211271,Farmasi - Unram,621,3,1324,30,1283,38
+559,6111126,Teknik Elektro - Unud,611,3,439,59,393,75
+560,3711141,Kesehatan Masyarakat - Unej,371,3,1920,72,1997,100
+561,5311241,Kesehatan Masyarakat - ULM,531,3,1127,49,1375,45
+562,3561134,Kesehatan Masyarakat - Unnes,356,2,2244,72,2519,72
+563,3831057,Matematika - Unesa,383,3,553,35,679,32
+564,3721472,Pendidikan Teknologi Informasi - UB,372,3,574,34,257,32
+565,9121105,Teknik Informatika - Unmus,912,4,157,68,140,75
+566,1611147,Teknik Informatika - Unib,161,1,1161,49,1104,50
+567,1211093,Kimia - USU,121,1,537,55,570,51
+568,3731145,Biologi - UM,373,3,804,40,909,55
+569,7521083,Sistem Informasi - UNG,752,4,596,62,568,40
+570,3711276,Teknologi Informasi - Unej,371,3,1130,50,756,50
+571,3341197,Teknik Sipil - UPI,334,1,1710,41,1734,54
+572,3561092,Matematika - Unnes,356,2,460,18,557,18
+573,1221145,Gizi - Unimed,122,1,1478,17,1224,27
+574,3411393,Manajemen Sumberdaya Perairan - IPB,341,1,526,28,646,39
+575,3831154,Pendidikan Teknologi Informasi - Unesa,383,3,338,23,352,36
+576,7121016,Pendidikan Matematika - UNM,712,4,777,31,783,29
+577,7111207,Teknik Arsitektur - Unhas,711,4,1570,36,1508,45
+578,1811037,Teknik Pertambangan - UBB,181,1,226,20,222,17
+579,3561231,Gizi - Unnes,356,2,1646,40,1374,48
+580,3621142,Pendidikan Teknik Mekatronika - UNY,362,2,387,34,341,32
+581,3831073,Kimia - Unesa,383,3,472,35,514,32
+582,7131154,Sistem Informasi - UIN Alauddin,713,4,859,18,778,20
+583,7111416,Kedokteran Hewan - Unhas,711,4,588,27,636,20
+584,3531247,Pendidikan Teknik Informatika & Komputer - UNS,353,2,921,48,978,40
+585,3721201,Teknologi Industri Pertanian - UB,372,3,1256,81,1234,100
+586,5111351,Teknik Mesin - Untan,511,1,300,19,259,20
+587,1211151,Biologi - USU,121,1,812,46,761,44
+588,3621061,Pendidikan Teknik Otomotif - UNY,362,2,791,34,795,32
+589,7111061,Biologi - Unhas,711,4,713,46,707,50
+590,3411323,Teknologi & Manajemen Perikanan Budidaya - IPB,341,1,669,38,814,50
+591,1921025,Teknik Elektro - Itera,192,1,619,116,537,88
+592,5411307,Teknik Elektro - Unmul,541,3,255,25,219,25
+593,5511026,Teknik Sipil - UBT,551,3,307,27,290,34
+594,6311024,Pend. Biologi - Undana,631,3,684,34,632,45
+595,5111327,Statistik - Untan,511,1,182,25,170,30
+596,3531255,Ilmu Tanah - UNS,353,2,838,43,972,50
+597,3561126,Biologi - Unnes,356,2,698,36,721,32
+598,1421051,Pendidikan Fisika - UNP,142,1,375,64,375,72
+599,3711164,Teknik Elektro - Unej,371,3,685,62,702,60
+600,3621076,Pendidikan Teknik Mesin - UNY,362,2,977,34,933,32
+601,6211112,Pendidikan Kimia - Unram,621,3,152,42,129,50
+602,3831081,Biologi - Unesa,383,3,713,37,745,33
+603,3531263,Penyuluhan Dan Komunikasi Pertanian - UNS,353,2,887,48,778,50
+604,3311024,Teknik Industri - Unsika,331,1,1216,103,1396,111
+605,3221064,Kimia - UIN Jkt,322,1,404,54,474,48
+606,7111246,Statistika - Unhas,711,4,643,36,717,40
+607,7131065,Teknik Perencanaan Wilayah Dan Kota - UIN Alauddin,713,4,845,24,848,40
+608,7121055,Matematika - UNM,712,4,346,14,323,15
+609,5421074,Teknik Sipil - ITK,542,3,485,48,408,45
+610,3741051,Teknik Informatika - UIN Malang,374,3,1063,75,1050,90
+611,3531313,Ilmu Lingkungan - UNS,353,2,0,26,774,50
+612,3711117,Kimia - Unej,371,3,397,43,421,40
+613,1421082,Kimia (NK) - UNP,142,1,409,54,501,56
+614,1421116,Pendidikan Teknik Elektronika - UNP,142,1,243,30,226,26
+615,3221072,Fisika - UIN Jkt,322,1,342,60,295,40
+616,3651091,Pendidikan Kimia - UIN Suka,365,2,185,25,196,27
+617,7121175,Pend. Kimia Kls Internasional (Bilingual) - UNM,712,4,102,14,92,15
+618,1711164,Pend. Matematika - Unsri,171,1,633,32,636,40
+619,3331292,Keperawatan PSDKU Garut - Unpad,333,1,0,83,614,30
+620,3411281,Nutrisi Dan Teknologi Pakan - IPB,341,1,694,38,772,50
+621,1221184,Ilmu Komputer - Unimed,122,1,0,20,1868,36
+622,3811111,Budidaya Perairan - Unair,381,3,892,72,1086,72
+623,1811022,Teknik Elektro - UBB,181,1,183,29,158,32
+624,3561196,Teknik Mesin - Unnes,356,2,983,28,1070,24
+625,1311202,Ilmu Keperawatan - Unri,131,1,1221,77,1363,80
+626,3621126,Kimia - UNY,362,2,913,50,925,32
+627,7211046,Ilmu Keperawatan - Unsrat,721,4,721,27,704,34
+628,3721112,Fisika - UB,372,3,469,49,353,48
+629,5411161,Ilmu Komputer - Unmul,541,3,1012,47,933,40
+630,1911232,Arsitektur - Unila,191,1,470,18,426,28
+631,3551325,Agribisnis - Undip,355,2,1278,42,1334,50
+632,3831193,Teknik Informatika - Unesa,383,3,1408,41,1404,54
+633,3531135,Fisika - UNS,353,2,463,48,418,50
+634,1711253,Ilmu Keperawatan - Unsri,171,1,908,27,779,60
+635,5411257,Teknik Kimia - Unmul,541,3,172,24,161,25
+636,6121047,Pendidikan Fisika - Undiksha,612,3,49,52,44,18
+637,1711292,Sistem Informasi - Unsri,171,1,1456,57,1656,83
+638,3561181,Teknik Kimia - Unnes,356,2,604,33,654,42
+639,5411192,Teknik Lingkungan - Unmul,541,3,444,21,479,25
+640,3621165,Pendidikan IPA - UNY,362,2,1232,44,1038,32
+641,1411087,Biologi - Unand,141,1,643,48,727,48
+642,3421051,Teknik Sipil - Unsil,342,1,988,32,1039,48
+643,1911046,Teknik Sipil - Unila,191,1,1257,54,1427,66
+644,3111053,Teknik Kimia - Untirta,311,1,640,26,598,48
+645,3611283,Akuakultur (Budidaya Perikanan) - UGM,361,2,361,25,341,27
+646,3741012,Matematika - UIN Malang,374,3,336,75,407,66
+647,7121167,Pendidikan Teknik Informatika & Komputer - UNM,712,4,2580,67,2230,44
+648,3721383,Instrumentasi - UB,372,3,325,31,296,36
+649,6211127,Pendidikan Fisika - Unram,621,3,149,45,106,50
+650,3631136,Sistem Informasi - UPNYK,363,2,735,34,880,45
+651,1221176,Pendidikan Teknologi Informatika Dan Komputer - Unimed,122,1,1915,34,1078,41
+652,3851085,Arsitektur - UPNV Jatim,385,3,723,25,761,40
+653,1111223,Biologi - Unsyiah,111,1,317,26,382,36
+654,5311384,Kedokteran Gigi - ULM,531,3,991,30,1069,36
+655,1311264,Teknik Arsitek - Unri,131,1,527,14,457,32
+656,1921041,Teknik Geofisika - Itera,192,1,397,122,425,102
+657,3811045,Kedokteran Hewan - Unair,381,3,1338,100,1341,100
+658,5111092,Teknik Lingkungan - Untan,511,1,276,35,424,47
+659,3561022,Pendidikan Fisika - Unnes,356,2,520,42,482,42
+660,5421097,Teknik Perkapalan - ITK,542,3,172,48,127,45
+661,1911182,Pend. Biologi - Unila,191,1,882,36,837,36
+662,1421194,Teknik Sipil - UNP,142,1,1788,26,1675,26
+663,1321057,Teknik Industri - UIN Riau,132,1,452,61,492,20
+664,7111103,Agribisnis - Unhas,711,4,1823,95,2171,100
+665,7131073,Teknik Arsitektur - UIN Alauddin,713,4,561,24,594,45
+666,1921176,Teknik Kimia - Itera,192,1,0,69,277,59
+667,1511355,Teknik Sipil - Unja,151,1,719,19,562,23
+668,1911054,Kimia - Unila,191,1,347,63,370,63
+669,7121183,Pend. Matematika Kls Internas. (Bilingual) - UNM,712,4,142,15,131,15
+670,3411412,Teknologi & Manajemen Perikanan Tangkap - IPB,341,1,610,28,304,38
+671,7511131,Pendidikan Biologi - Unhalu,751,4,842,18,547,25
+672,3711172,Teknik Sipil - Unej,371,3,1262,76,1307,72
+673,6111165,Matematika - Unud,611,3,205,35,226,50
+674,1311241,Pend. Kimia - Unri,131,1,394,30,383,32
+675,6111037,Teknik Arsitektur - Unud,611,3,835,35,826,60
+676,3711052,Pendidikan Biologi - Unej,371,3,694,71,841,70
+677,6111076,Teknik Pertanian - Unud,611,3,231,30,264,30
+678,5421124,Informatika - ITK,542,3,0,48,558,35
+679,3831096,Pend. Sains - Unesa,383,3,686,45,876,43
+680,1921095,Teknik Lingkungan - Itera,192,1,654,93,632,88
+681,1911174,Pend. Kimia - Unila,191,1,348,36,345,36
+682,3331075,Agroteknologi - Unpad,333,1,2440,165,2951,150
+683,3621111,Fisika - UNY,362,2,335,34,341,32
+684,3231097,Pendidikan Vokasional Teknik Elektro - UNJ,323,1,531,16,366,30
+685,1221072,Pendidikan Teknik Elektro - Unimed,122,1,408,34,303,41
+686,3721151,Teknologi Hasil Perikanan - UB,372,3,740,57,528,72
+687,5311175,Teknik Sipil - ULM,531,3,1175,60,1152,54
+688,1911247,Teknik Geodesi - Unila,191,1,219,18,269,28
+689,7521091,Teknik Elektro - UNG,752,4,126,68,189,36
+690,1311121,Sosial Ekonomi Pertanian (Agribisnis) - Unri,131,1,1110,63,1140,64
+691,1911197,Teknik Kimia - Unila,191,1,358,36,364,66
+692,7511204,Teknik Informatika - Unhalu,751,4,2297,18,1791,24
+693,3561142,Pendidikan IPA - Unnes,356,2,939,34,920,32
+694,1911031,Teknik Geofisika - Unila,191,1,324,36,294,44
+695,3731072,Pendidikan Teknik Bangunan - UM,373,3,373,40,369,50
+696,1911023,Agribisnis - Unila,191,1,1735,45,1613,54
+697,3731064,Pendidikan Teknik Mesin - UM,373,3,370,40,356,50
+698,1911104,Teknik Pertanian - Unila,191,1,652,45,683,45
+699,1421066,Fisika (NK) - UNP,142,1,295,58,309,54
+700,5411176,Teknik Sipil - Unmul,541,3,947,22,884,25
+701,5211104,Teknik Perangkat Lunak (Tek. Informatika) - UPR,521,3,783,24,969,30
+702,3731176,Pendidikan Ilmu Pengetahuan Alam - UM,373,3,819,42,795,53
+703,7121202,Pend. Biologi Kls Internasional (Bilingual) - UNM,712,4,230,14,219,15
+704,1911093,Kehutanan - Unila,191,1,638,45,784,67
+705,1711117,Biologi - Unsri,171,1,404,50,436,60
+706,5211166,Teknik Pertambangan - UPR,521,3,352,20,352,24
+707,1311256,Teknik Lingkungan - Unri,131,1,519,29,656,32
+708,5111196,Biologi - Untan,511,1,242,51,247,50
+709,6311016,Pend. Matematika - Undana,631,3,597,32,516,45
+710,3551163,Teknologi Hasil Perikanan - Undip,355,2,606,43,750,50
+711,1411226,Psikologi - Unand,141,1,1197,41,1903,48
+712,3551082,Fisika - Undip,355,2,420,62,554,83
+713,1411137,Teknik Mesin - Unand,141,1,1743,60,1660,60
+714,3111103,Pendidikan Biologi - Untirta,311,1,664,38,665,48
+715,5311024,Pend. Biologi - ULM,531,3,297,43,293,45
+716,5421051,Teknik Kimia - ITK,542,3,193,48,154,45
+717,1421132,Pendidikan Teknik Otomotif - UNP,142,1,489,53,436,39
+718,1211197,Arsitektur - USU,121,1,1245,77,1220,69
+719,3341201,Pendidikan Ilmu Pengetahuan Alam - UPI,334,1,437,13,456,16
+720,3831146,Teknik Sipil - Unesa,383,3,1011,41,1169,36
+721,1221114,Matematika - Unimed,122,1,708,35,596,41
+722,6311225,Teknik Pertambangan - Undana,631,3,429,36,468,27
+723,7111335,Teknik Kelautan - Unhas,711,4,324,37,433,35
+724,5111343,Teknik Kimia - Untan,511,1,67,19,69,20
+725,5111022,Sosial Ekonomi Pertanian (Agribisnis) - Untan,511,1,758,33,770,50
+726,1921161,Farmasi - Itera,192,1,0,62,2019,73
+727,5411056,Pendidikan Biologi - Unmul,541,3,388,26,322,32
+728,9111173,Farmasi - Uncen,911,4,474,10,421,13
+729,3851077,Sistem Informasi - UPNV Jatim,385,3,812,36,1053,60
+730,3531224,Pendidikan Teknik Mesin - UNS,353,2,493,41,425,40
+731,5511073,Pendidikan Matematika - UBT,551,3,116,28,66,32
+732,3411427,Silvikultur - IPB,341,1,953,25,1147,32
+733,5111254,Keperawatan - Untan,511,1,686,22,670,30
+734,7121241,Pendidikan IPA - UNM,712,4,321,16,323,29
+735,1311071,Ilmu Kelautan - Unri,131,1,505,47,568,48
+736,1911166,Pend. Fisika - Unila,191,1,305,36,265,36
+737,3411466,Ilmu Keluarga Dan Konsumen - IPB,341,1,1045,26,1161,37
+738,3711334,Informatika - Unej,371,3,0,53,858,50
+739,1111335,Teknik Geologi - Unsyiah,111,1,145,19,153,24
+740,3111037,Teknik Industri - Untirta,311,1,1156,26,1201,48
+741,7121024,Pendidikan Fisika - UNM,712,4,423,32,341,29
+742,3721015,Manajemen Sumberdaya Perairan - UB,372,3,576,63,786,72
+743,1221095,Biologi - Unimed,122,1,990,52,949,54
+744,3851015,Agribisnis - UPNV Jatim,385,3,1144,57,1248,100
+745,1511297,Ilmu Kesehatan Masyarakat - Unja,151,1,1065,84,780,135
+746,3621084,Pendidikan Teknik Elektro - UNY,362,2,651,34,676,32
+747,1611252,Farmasi - Unib,161,1,0,14,606,15
+748,1611097,Pendidikan Matematika - Unib,161,1,373,35,333,40
+749,3731095,Pendidikan Teknik Otomotif - UM,373,3,366,42,341,50
+750,1921087,Arsitektur - Itera,192,1,573,100,619,88
+751,1921106,Teknik Geologi - Itera,192,1,451,70,347,59
+752,1411017,Agribisnis - Unand,141,1,1892,48,2143,56
+753,3721174,Keteknikan Pertanian - UB,372,3,420,41,520,52
+754,7211255,Kehutanan - Unsrat,721,4,66,40,115,27
+755,7511115,Ilmu Kesehatan Masyarakat - Unhalu,751,4,1411,127,1161,140
+756,3421101,Gizi - Unsil,342,1,0,16,1012,48
+757,3531305,Pendidikan IPA - UNS,353,2,421,26,483,40
+758,1321026,Matematika - UIN Riau,132,1,129,49,134,20
+759,1511235,Sistem Informasi - Unja,151,1,827,16,771,72
+760,6111231,Ilmu Kelautan - Unud,611,3,320,35,355,50
+761,9121032,Teknik Sipil - Unmus,912,4,100,62,123,60
+762,3331326,Keperawatan PSDKU Pangandaran - Unpad,333,1,0,33,188,30
+763,1311024,Kimia - Unri,131,1,448,46,391,48
+764,1321042,Teknik Elektro - UIN Riau,132,1,386,46,329,20
+765,1811014,Teknik Mesin - UBB,181,1,160,18,129,14
+766,5211151,Pend. Teknik Mesin - UPR,521,3,146,32,120,20
+767,7121032,Pendidikan Kimia - UNM,712,4,437,32,470,29
+768,1711133,Teknologi Hasil Pertanian - Unsri,171,1,596,44,559,50
+769,6111111,Teknik Mesin - Unud,611,3,431,62,466,90
+770,6211104,Pendidikan Biologi - Unram,621,3,350,51,312,60
+771,1211216,Kehutanan - USU,121,1,2494,89,2699,82
+772,5311264,Kimia - ULM,531,3,100,29,93,27
+773,7111432,Ilmu Komputer - Unhas,711,4,1374,28,1397,30
+774,1611155,Teknik Sipil - Unib,161,1,723,49,694,50
+775,7521117,Kesehatan Masyarakat - UNG,752,4,974,122,1251,99
+776,1221161,Teknik Sipil - Unimed,122,1,1317,26,1065,36
+777,1311295,Teknologi Industri Pertanian - Unri,131,1,733,14,523,16
+778,1611082,Pendidikan Kimia - Unib,161,1,184,35,150,20
+779,3621134,Biologi - UNY,362,2,1212,50,1198,32
+780,7221106,Pend. Inf./Kom - Unima,722,4,185,80,140,80
+781,3741074,Farmasi - UIN Malang,374,3,1200,63,1291,66
+782,7511123,Pendidikan Matematika - Unhalu,751,4,649,19,415,50
+783,1411192,Teknik Pertanian - Unand,141,1,1104,48,998,48
+784,3311086,Farmasi - Unsika,331,1,0,53,1099,40
+785,7121086,Biologi - UNM,712,4,541,19,575,15
+786,3831115,Pend. Teknik Mesin - Unesa,383,3,335,22,240,36
+787,1911077,Teknologi Hasil Pertanian - Unila,191,1,726,45,712,45
+788,3531054,Peternakan - UNS,353,2,1197,66,1225,70
+789,7121264,Statistika - UNM,712,4,349,31,446,29
+790,1421043,Biologi (NK) - UNP,142,1,551,55,709,56
+791,3811215,Teknologi Industri Hasil Perikanan - Unair,381,3,519,36,529,48
+792,3511073,Teknik Pertanian - Unsoed,351,2,782,41,914,50
+793,3551132,Perikanan Tangkap - Undip,355,2,444,41,350,50
+794,3231101,Pendidikan Vokasional Teknik Mesin - UNJ,323,1,796,27,600,45
+795,1221087,Kimia - Unimed,122,1,437,17,329,36
+796,3511011,Biologi - Unsoed,351,2,1126,82,990,75
+797,3611267,Proteksi Tanaman (Ilmu Hama Dan Penyakit Tumbuhan) - UGM,361,2,366,25,256,30
+798,1111103,Teknologi Hasil Pertanian - Unsyiah,111,1,438,44,480,48
+799,3231116,Pendidikan Vokasional Konstruksi Bangunan - UNJ,323,1,514,35,470,43
+800,7311217,Farmasi - Untad,731,4,1094,45,964,60
+801,1131073,Kesehatan Masyarakat - UTU,113,1,412,72,400,75
+802,5311202,Teknik Kimia - ULM,531,3,171,21,181,27
+803,3651036,Kimia - UIN Suka,365,2,169,25,209,27
+804,5111285,Perencanaan Wilayah Kota - Untan,511,1,295,16,291,20
+805,1311136,Teknologi Hasil Pertanian - Unri,131,1,588,14,590,32
+806,1331013,Teknik Elektro - Umrah,133,1,92,42,108,28
+807,1111304,Statistika - Unsyiah,111,1,350,20,386,24
+808,3521021,Teknik Sipil - Untidar,352,2,463,42,649,48
+809,1911135,Teknik Mesin - Unila,191,1,722,36,660,44
+810,1911216,Budidaya Perairan - Unila,191,1,496,23,449,31
+811,1311233,Pend. Fisika - Unri,131,1,319,30,289,32
+812,7511073,Matematika - Unhalu,751,4,158,21,101,24
+813,3831185,Sistem Informasi - Unesa,383,3,1051,42,753,54
+814,1911112,Matematika - Unila,191,1,420,63,464,63
+815,3511154,Ilmu Kelautan - Unsoed,351,2,578,26,696,30
+816,5311256,Matematika - ULM,531,3,158,28,144,27
+817,3851112,Desain Komunikasi Visual - UPNV Jatim,385,3,381,18,438,40
+818,7111157,Teknik Mesin - Unhas,711,4,1060,56,1171,75
+819,3811181,Pendidikan Dokter Hewan (PSDKU Banyuwangi) - Unair,381,3,167,20,300,20
+820,5311183,Teknik Arsitektur - ULM,531,3,412,21,465,27
+821,1221192,Pendidikan IPA - Unimed,122,1,0,41,684,48
+822,1421101,Pendidikan Teknik Elektro - UNP,142,1,414,39,361,39
+823,5411184,Teknik Industri - Unmul,541,3,435,22,444,25
+824,1711214,Arsitektur - Unsri,171,1,859,33,760,45
+825,3111045,Teknik Metalurgi - Untirta,311,1,576,26,572,48
+826,3561076,Pendidikan Teknik Elektro - Unnes,356,2,303,26,273,24
+827,3731161,Teknik Sipil - UM,373,3,1688,56,1777,70
+828,6111092,Kimia - Unud,611,3,154,35,151,40
+829,7221056,Pend. Fisika - Unima,722,4,63,30,66,32
+830,5421066,Teknik Material Dan Metalurgi - ITK,542,3,205,48,146,35
+831,6111196,Ilmu Keperawatan - Unud,611,3,641,30,610,45
+832,1311032,Matematika - Unri,131,1,415,29,427,32
+833,3561111,Kimia - Unnes,356,2,516,34,529,32
+834,3631105,Agribisnis - UPNYK,363,2,1231,48,1375,60
+835,1111157,Pendidikan Kimia - Unsyiah,111,1,216,32,233,40
+836,3551317,Agroekoteknologi - Undip,355,2,802,39,988,50
+837,5411064,Pendidikan Kimia - Unmul,541,3,106,26,135,32
+838,5411331,Matematika - Unmul,541,3,89,15,77,12
+839,1921122,Teknik Mesin - Itera,192,1,691,79,555,59
+840,3651021,Fisika - UIN Suka,365,2,100,25,105,27
+841,3841067,Teknik Informatika - Unijoyo,384,3,744,89,768,100
+842,3711303,Teknik Kimia - Unej,371,3,0,36,403,60
+843,1711396,Kesehatan Lingkungan - Unsri,171,1,443,37,517,50
+844,1711206,Ilmu Kesehatan Masyarakat - Unsri,171,1,1769,87,1934,110
+845,5111134,Pend. Kimia - Untan,511,1,220,20,187,26
+846,1311047,Biologi - Unri,131,1,715,45,573,48
+847,1211127,Ilmu Kesehatan Masyarakat - USU,121,1,3200,116,3196,118
+848,1711013,Teknik Sipil - Unsri,171,1,1968,50,2161,70
+849,5211112,Pend. Matematika - UPR,521,3,175,32,138,34
+850,7221095,Pend. Tek Elektro - Unima,722,4,55,30,51,32
+851,1221153,Teknik Elektro - Unimed,122,1,660,16,573,25
+852,3561061,Pendidikan Teknik Mesin - Unnes,356,2,435,45,452,36
+853,1421205,Statistika (NK) - UNP,142,1,0,20,474,18
+854,3511185,Ilmu Dan Teknologi Pangan - Unsoed,351,2,1334,53,1558,50
+855,1221033,Pendidikan Fisika - Unimed,122,1,777,60,553,84
+856,6121024,Pendidikan Biologi - Undiksha,612,3,111,47,80,16
+857,1511026,Pend. Matematika - Unja,151,1,449,40,397,54
+858,7511316,Teknik Pertambangan - Unhalu,751,4,1356,35,1180,40
+859,3711245,Teknologi Industri Pertanian - Unej,371,3,607,36,479,40
+860,1421124,Pendidikan Teknik Mesin - UNP,142,1,529,41,297,39
+861,1911062,Biologi - Unila,191,1,690,63,658,45
+862,3531031,Agroteknologi / Agroekoteknologi - UNS,353,2,2110,92,2076,100
+863,9111053,Ilmu Kesehatan Masyarakat - Uncen,911,4,639,44,603,45
+864,1411025,Agroekoteknologi - Unand,141,1,1351,40,1176,70
+865,3741066,Teknik Arsitektur - UIN Malang,374,3,664,75,736,68
+866,7221354,Teknik Informatika - Unima,722,4,301,50,350,64
+867,5411354,Geofisika - Unmul,541,3,0,27,45,24
+868,1211201,Ilmu Keperawatan - USU,121,1,1133,57,1233,72
+869,3571055,Gizi - UIN Walisongo,357,2,449,64,642,48
+870,5411072,Pendidikan Fisika - Unmul,541,3,98,22,102,24
+871,1111045,Teknik Kimia - Unsyiah,111,1,371,47,322,48
+872,1311016,Fisika - Unri,131,1,255,46,197,48
+873,5421132,Teknik Lingkungan - ITK,542,3,0,48,307,40
+874,3361027,Matematika - UIN Bdg,336,1,423,43,517,32
+875,3551116,Manajemen Sumberdaya Perairan - Undip,355,2,706,43,1064,40
+876,3711156,Teknik Mesin - Unej,371,3,844,62,821,60
+877,7211093,Perencanaan Wilayah Dan Kota - Unsrat,721,4,226,40,283,36
+878,5111126,Pend. Fisika - Untan,511,1,180,21,134,26
+879,3511162,Agroteknologi - Unsoed,351,2,2069,111,1846,110
+880,1921203,Teknik Kelautan - Itera,192,1,0,74,376,59
+881,9121055,Keteknikan Pertanian - Unmus,912,4,32,25,22,25
+882,1111134,Pendidikan Matematika - Unsyiah,111,1,424,41,422,48
+883,3111084,Agroekoteknologi - Untirta,311,1,709,56,641,80
+884,3561223,Teknik Elektro - Unnes,356,2,787,17,622,16
+885,3831107,Pend. Teknik Elektro - Unesa,383,3,327,20,230,36
+886,5311272,Biologi - ULM,531,3,191,28,168,27
+887,5311032,Pend. Kimia - ULM,531,3,190,39,135,36
+888,1221122,Fisika - Unimed,122,1,236,16,195,18
+889,1711303,Agroekoteknologi - Unsri,171,1,634,35,583,50
+890,3711125,Biologi - Unej,371,3,566,40,542,45
+891,1711222,Ilmu Kelautan - Unsri,171,1,431,51,458,60
+892,7111181,Teknik Geologi - Unhas,711,4,577,56,753,60
+893,1511042,Pend. Biologi - Unja,151,1,461,45,474,54
+894,3621173,Ilmu Keolahragaan - UNY,362,2,484,17,566,16
+895,7211031,Ilmu Kesehatan Masyarakat - Unsrat,721,4,1000,70,1131,90
+896,9111134,Ilmu Keperawatan - Uncen,911,4,449,14,425,13
+897,9111181,Sistem Informasi - Uncen,911,4,268,10,218,13
+898,1711261,Pend Teknik Mesin - Unsri,171,1,253,36,236,47
+899,3721143,Pemanfaatan Sumberdaya Perikanan - UB,372,3,475,58,590,72
+900,3411482,Teknologi Hasil Ternak - IPB,341,1,797,21,564,28
+901,3111165,Pendidikan IPA - Untirta,311,1,259,14,242,32
+902,1421171,Teknik Elektro Industri (NK) - UNP,142,1,1083,41,1067,39
+903,1711083,Matematika - Unsri,171,1,324,53,353,60
+904,3711075,Teknik Pertanian - Unej,371,3,629,49,525,55
+905,6311175,Teknik Sipil - Undana,631,3,1520,114,1708,45
+906,3341143,Pendidikan Teknik Elektro - UPI,334,1,360,40,314,50
+907,7111173,Teknik Perkapalan - Unhas,711,4,617,36,559,50
+908,7521195,Teknik Arsitektur - UNG,752,4,240,47,264,34
+909,1421186,Pendidikan Ilmu Pengetahuan Alam - UNP,142,1,608,54,437,54
+910,1111037,Teknik Mesin - Unsyiah,111,1,648,48,621,48
+911,3551124,Akuakultur - Undip,355,2,763,55,283,60
+912,3111022,Teknik Elektro - Untirta,311,1,592,28,575,48
+913,3711044,Pendidikan Fisika - Unej,371,3,302,70,350,65
+914,1311272,Sistem Informasi - Unri,131,1,917,35,931,48
+915,9121024,Teknik Mesin - Unmus,912,4,26,33,30,25
+916,9121113,Sistem Informasi - Unmus,912,4,79,45,93,40
+917,3731203,Teknik Elektro - UM,373,3,788,39,899,45
+918,1121016,Teknik Sipil - Unimal,112,1,641,135,724,100
+919,3111076,Agribisnis - Untirta,311,1,906,56,913,80
+920,3711206,Sistem Informasi - Unej,371,3,961,76,1178,75
+921,7121217,Pend. Fisika Kls Internasional (Bilingual) - UNM,712,4,90,15,85,15
+922,1711187,Pend. Kimia - Unsri,171,1,321,32,308,40
+923,1911085,Peternakan - Unila,191,1,626,23,637,31
+924,7111022,Fisika - Unhas,711,4,284,41,315,44
+925,3341127,Pendidikan Teknik Bangunan - UPI,334,1,336,40,335,27
+926,1131034,Teknik Industri - UTU,113,1,161,53,138,40
+927,1221056,Pendidikan Teknik Bangunan - Unimed,122,1,260,33,248,40
+928,1421097,Pendidikan Teknik Bangunan - UNP,142,1,223,26,256,26
+929,3421012,Pendidikan Matematika - Unsil,342,1,699,64,684,84
+930,3411242,Teknologi Hasil Hutan - IPB,341,1,1014,23,803,30
+931,5111053,Teknik Elektro - Untan,511,1,337,39,321,80
+932,5211127,Pend. Fisika - UPR,521,3,71,32,48,40
+933,6211174,Biologi - Unram,621,3,327,32,371,40
+934,1221064,Pendidikan Teknik Mesin - Unimed,122,1,590,40,508,41
+935,3511057,Manajemen Sumberdaya Perairan - Unsoed,351,2,521,28,545,30
+936,6211263,Teknik Informatika - Unram,621,3,1567,37,1649,50
+937,9111076,Pend. Biologi - Uncen,911,4,144,14,116,13
+938,3741027,Biologi - UIN Malang,374,3,646,70,664,66
+939,7211077,Teknik Sipil - Unsrat,721,4,789,42,901,54
+940,7511162,Teknik Sipil - Unhalu,751,4,2032,19,1569,35
+941,1511301,Teknik Lingkungan - Unja,151,1,224,23,236,23
+942,3861041,Sistem Informasi - UIN Sby,386,3,502,28,620,28
+943,3651044,Biologi - UIN Suka,365,2,289,25,310,27
+944,1111076,Agroteknologi - Unsyiah,111,1,609,53,649,48
+945,5511034,Agribisnis - UBT,551,3,220,49,184,48
+946,9111103,Teknik Sipil - Uncen,911,4,613,14,499,13
+947,1611171,Teknik Elektro - Unib,161,1,296,47,252,50
+948,5111374,Sistem Informasi - Untan,511,1,432,25,516,30
+949,5311392,Pendidikan Ilmu Komputer - ULM,531,3,418,38,328,18
+950,1611074,Pendidikan Biologi - Unib,161,1,458,36,374,40
+951,1411106,Fisika - Unand,141,1,347,48,317,48
+952,3831177,Teknik Mesin - Unesa,383,3,826,44,896,41
+953,3111061,Teknik Sipil - Untirta,311,1,845,31,1061,32
+954,1111285,Teknik Geofisika - Unsyiah,111,1,191,33,267,32
+955,5111262,Geofisika - Untan,511,1,44,30,56,30
+956,3831162,Teknik Elektro - Unesa,383,3,825,41,788,36
+957,6211166,Teknik Elektro - Unram,621,3,516,41,465,75
+958,7121113,Pend. Teknik Elektronika - UNM,712,4,332,35,270,15
+959,7121136,Pend. Teknik Otomotif - UNM,712,4,366,34,384,29
+960,6311047,Pend. Kimia - Undana,631,3,481,25,415,68
+961,1111126,Pendidikan Biologi - Unsyiah,111,1,636,40,534,48
+962,3341151,Pendidikan Teknik Mesin - UPI,334,1,592,45,589,41
+963,3561103,Fisika - Unnes,356,2,249,34,393,32
+964,7131011,Matematika - UIN Alauddin,713,4,222,27,222,45
+965,1211182,Peternakan - USU,121,1,1311,48,1310,54
+966,8111014,Pend. Biologi - Unpatti,811,4,246,45,219,40
+967,6121071,Pendidikan Teknik Elektro - Undiksha,612,3,68,28,39,16
+968,1111207,Fisika - Unsyiah,111,1,90,25,96,36
+969,1311144,Kehutanan - Unri,131,1,800,33,801,32
+970,1921192,Teknik Fisika - Itera,192,1,0,100,79,59
+971,3331102,Ilmu Peternakan - Unpad,333,1,2354,211,2006,200
+972,7221377,Ilmu Kesehatan Masyarakat - Unima,722,4,207,50,299,64
+973,7221362,Teknik Sipil - Unima,722,4,123,30,148,32
+974,7211174,Agroekoteknologi - Unsrat,721,4,58,48,90,27
+975,9111196,Teknik Geofisika - Uncen,911,4,27,10,21,13
+976,1921017,Teknik Geomatika - Itera,192,1,152,90,325,73
+977,5421027,Matematika - ITK,542,3,94,24,87,40
+978,1111022,Teknik Sipil - Unsyiah,111,1,1686,62,1567,64
+979,1411203,Teknologi Hasil Pertanian - Unand,141,1,1162,48,1027,48
+980,1611163,Teknik Mesin - Unib,161,1,302,54,326,50
+981,3521036,Teknik Mesin - Untidar,352,2,343,47,454,48
+982,1311306,Statistika - Unri,131,1,291,16,284,16
+983,5111045,Teknik Sipil - Untan,511,1,1044,42,1039,97
+984,7121071,Kimia - UNM,712,4,220,17,230,15
+985,9111037,Kimia - Uncen,911,4,18,10,16,13
+986,6121167,Matematika - Undiksha,612,3,0,15,49,6
+987,3711357,Teknik Lingkungan - Unej,371,3,0,26,485,40
+988,7121094,Geografi - UNM,712,4,239,17,243,15
+989,3311071,Agribisnis - Unsika,331,1,0,79,866,63
+990,6311167,Kimia - Undana,631,3,207,116,253,45
+991,1311086,Teknologi Hasil Perikanan - Unri,131,1,457,49,465,48
+992,6211143,Teknik Sipil - Unram,621,3,1152,61,1205,100
+993,1421027,Matematika (NK) - UNP,142,1,409,54,495,42
+994,1511251,Teknik Geologi - Unja,151,1,143,18,119,32
+995,1611132,Kimia - Unib,161,1,132,34,162,40
+996,1811045,Teknik Sipil - UBB,181,1,272,32,263,35
+997,3841075,Teknik Elektro - Unijoyo,384,3,363,68,311,60
+998,7211127,Matematika - Unsrat,721,4,136,60,117,54
+999,1911015,Agroteknologi - Unila,191,1,673,23,613,31
+1000,7121225,Pendidikan Teknologi Pertanian - UNM,712,4,931,39,897,29
+1001,1711245,Teknologi Hasil Perikanan - Unsri,171,1,246,34,274,50
+1002,3731122,Fisika - UM,373,3,391,42,436,60
+1003,3631094,Agroteknologi - UPNYK,363,2,1137,110,1503,125
+1004,1111061,Teknik Elektro - Unsyiah,111,1,774,55,707,48
+1005,3341174,Teknik Elektro - UPI,334,1,1057,35,980,50
+1006,1711102,Kimia - Unsri,171,1,267,50,297,60
+1007,1421213,Teknik Mesin (NK) - UNP,142,1,0,13,944,26
+1008,6121191,Sistem Informasi - Undiksha,612,3,0,50,160,24
+1009,3721023,Budidaya Perairan - UB,372,3,457,60,924,72
+1010,1611221,Arsitektur - Unib,161,1,242,19,171,25
+1011,1311113,Agroteknologi - Unri,131,1,1814,82,1677,80
+1012,1711091,Fisika - Unsri,171,1,208,51,230,60
+1013,7111092,Ilmu Dan Teknologi Pangan - Unhas,711,4,669,50,806,50
+1014,5411087,Pendidikan Matematika - Unmul,541,3,264,25,260,32
+1015,3741043,Fisika - UIN Malang,374,3,158,50,193,50
+1016,1321107,Ilmu Pertanian (Agroteknologi) - UIN Riau,132,1,724,44,710,33
+1017,7121105,Pendidikan Teknik Elektro - UNM,712,4,604,33,507,29
+1018,7121144,Pendidikan Teknik Bangunan - UNM,712,4,529,36,540,29
+1019,3831065,Fisika - Unesa,383,3,240,37,352,32
+1020,6211151,Teknik Mesin - Unram,621,3,408,46,333,75
+1021,7111231,Geofisika - Unhas,711,4,291,38,399,44
+1022,7511282,Teknik Geologi - Unhalu,751,4,209,36,238,40
+1023,6111157,Peternakan - Unud,611,3,241,96,419,100
+1024,6311032,Pend. Fisika - Undana,631,3,497,27,398,45
+1025,7311144,Fisika - Untad,731,4,71,35,55,40
+1026,8111231,Biologi - Unpatti,811,4,128,73,122,63
+1027,6211182,Matematika - Unram,621,3,266,31,285,40
+1028,1711125,Agribisnis - Unsri,171,1,1572,86,1610,100
+1029,3341112,Pendidikan Teknik Arsitektur - UPI,334,1,425,34,542,27
+1030,5211143,Pend. Biologi - UPR,521,3,216,41,160,40
+1031,7121287,Teknik Komputer - UNM,712,4,0,31,1867,29
+1032,3721271,Agribisnis - UB,372,3,2924,156,2623,168
+1033,1611066,Pendidikan Fisika - Unib,161,1,144,35,125,40
+1034,3811207,Budidaya Perairan (PSDKU Banyuwangi) - Unair,381,3,150,20,203,20
+1035,9111111,Teknik Elektro - Uncen,911,4,195,18,228,18
+1036,3711292,Perencanaan Wilayah Dan Kota - Unej,371,3,0,36,810,40
+1037,3561053,Pendidikan Teknik Bangunan - Unnes,356,2,242,33,342,24
+1038,1911321,Teknologi Industri Pertanian - Unila,191,1,448,23,389,27
+1039,7221385,Teknik Mesin - Unima,722,4,73,30,67,32
+1040,7221346,Arsitektur - Unima,722,4,81,35,79,32
+1041,1711311,Peternakan - Unsri,171,1,339,38,346,50
+1042,5421147,Teknik Kelautan - ITK,542,3,0,24,68,27
+1043,3841036,Teknologi Industri Pertanian - Unijoyo,384,3,435,75,442,68
+1044,3571105,Teknologi Informasi - UIN Walisongo,357,2,0,21,346,24
+1045,6311113,Ilmu Peternakan - Undana,631,3,758,310,825,225
+1046,6311191,Teknik Mesin - Undana,631,3,315,162,341,45
+1047,7111084,Agroteknologi - Unhas,711,4,1336,188,1578,200
+1048,7511146,Pendidikan Fisika - Unhalu,751,4,338,61,211,60
+1049,1921114,Matematika - Itera,192,1,226,68,320,59
+1050,6311055,Pend. Teknik Bangunan - Undana,631,3,149,82,155,36
+1051,6311217,Teknik Arsitektur - Undana,631,3,522,37,576,27
+1052,7111215,Kehutanan - Unhas,711,4,1657,116,1943,150
+1053,3711021,Agribisnis - Unej,371,3,1433,61,1377,75
+1054,1711237,Budidaya Perairan - Unsri,171,1,276,35,318,50
+1055,3731192,Teknik Mesin - UM,373,3,930,24,961,30
+1056,6311121,Ilmu Kesehatan Masyarakat - Undana,631,3,1672,199,1832,135
+1057,5111335,Teknik Kelautan - Untan,511,1,63,21,68,24
+1058,7211224,Teknologi Hasil Perikanan - Unsrat,721,4,46,38,46,23
+1059,9121047,Arsitektur - Unmus,912,4,43,16,40,20
+1060,7311086,Peternakan - Untad,731,4,507,286,476,175
+1061,3511193,Peternakan - Unsoed,351,2,1547,109,1439,110
+1062,7311264,Gizi - Untad,731,4,0,28,513,53
+1063,1711195,Pend Fisika - Unsri,171,1,290,33,270,40
+1064,9111207,Perencanaan Wilayah Dan Kota/Planologi - Uncen,911,4,138,14,90,13
+1065,9211255,Teknik Pertambangan - Unipa,921,4,118,24,82,24
+1066,5311225,Teknik Mesin - ULM,531,3,296,29,304,27
+1067,7521214,Teknik Geologi - UNG,752,4,70,18,79,18
+1068,1511363,Teknik Pertanian - Unja,151,1,477,42,394,36
+1069,7221176,Pendidikan IPA - Unima,722,4,39,35,55,16
+1070,1421155,Ilmu Keolahragaan (NK) - UNP,142,1,708,170,677,100
+1071,1511266,Biologi - Unja,151,1,188,17,152,32
+1072,8111022,Pend. Fisika - Unpatti,811,4,113,41,96,40
+1073,7121063,Fisika - UNM,712,4,177,15,157,15
+1074,7521187,Teknik Sipil - UNG,752,4,336,35,464,40
+1075,9111084,Pend. Kimia - Uncen,911,4,29,14,35,13
+1076,3531232,Pendidikan Teknik Bangunan - UNS,353,2,412,40,405,40
+1077,1611236,Sistem Informasi - Unib,161,1,293,26,302,25
+1078,3361074,Teknik Elektro - UIN Bdg,336,1,413,39,534,32
+1079,1921184,Kimia - Itera,192,1,0,76,174,59
+1080,7211085,Arsitektur - Unsrat,721,4,386,28,382,36
+1081,3311032,Teknik Mesin - Unsika,331,1,803,113,881,111
+1082,3721433,Teknologi Bioproses - UB,372,3,465,22,467,36
+1083,1231012,Ilmu Komputer - UIN SU,123,1,1031,103,1135,84
+1084,3111157,Pendidikan Kimia - Untirta,311,1,245,12,255,32
+1085,3851023,Agroteknologi - UPNV Jatim,385,3,1124,91,1238,120
+1086,7511227,Kehutanan - Unhalu,751,4,246,44,239,60
+1087,5311426,Statistika - ULM,531,3,0,28,149,23
+1088,1711365,Agronomi - Unsri,171,1,235,34,273,50
+1089,3231171,Rekayasa Keselamatan Kebakaran - UNJ,323,1,0,17,317,20
+1090,3741035,Kimia - UIN Malang,374,3,307,75,385,66
+1091,7521206,Farmasi - UNG,752,4,1041,70,1179,63
+1092,6311136,Matematika - Undana,631,3,193,44,193,45
+1093,3561173,Pendidikan Teknik Otomotif - Unnes,356,2,433,47,440,36
+1094,7221017,Pend. Biologi - Unima,722,4,208,90,189,72
+1095,3331303,Perikanan PSDKU Pangandaran - Unpad,333,1,0,33,174,30
+1096,1321011,Ilmu Peternakan - UIN Riau,132,1,243,56,205,33
+1097,1311063,Budidaya Perairan - Unri,131,1,376,32,406,48
+1098,3111173,Teknologi Pangan - Untirta,311,1,0,21,615,48
+1099,3841117,Teknik Mesin - Unijoyo,384,3,249,43,269,60
+1100,3731153,Pendidikan Teknik Elektro - UM,373,3,364,36,347,45
+1101,1511282,Matematika - Unja,151,1,111,14,105,32
+1102,1311094,Pemanfaatan Sumberdaya Perikanan - Unri,131,1,253,33,273,32
+1103,3571063,Matematika - UIN Walisongo,357,2,120,17,124,24
+1104,6121175,Biologi - Undiksha,612,3,0,25,36,6
+1105,3521044,Teknik Elektro - Untidar,352,2,385,41,508,48
+1106,5421012,Fisika - ITK,542,3,44,24,42,33
+1107,3551291,Peternakan - Undip,355,2,1319,99,1524,125
+1108,7221072,Pend. Matematika - Unima,722,4,165,120,161,80
+1109,3421066,Teknik Elektro - Unsil,342,1,480,32,467,48
+1110,7111262,Ilmu Kelautan - Unhas,711,4,645,84,746,85
+1111,1711357,Ilmu Tanah - Unsri,171,1,323,35,371,50
+1112,5411122,Statistika - Unmul,541,3,205,25,207,24
+1113,3841083,Pendidikan Informatika - Unijoyo,384,3,263,70,256,80
+1114,1911313,Ilmu Kelautan - Unila,191,1,285,23,294,27
+1115,5311322,Pend. Fisika - ULM,531,3,144,32,125,32
+1116,1311055,Manajemen Sumberdaya Perairan - Unri,131,1,572,31,535,48
+1117,6311264,Kehutanan - Undana,631,3,857,35,860,36
+1118,1111215,Kimia - Unsyiah,111,1,164,24,157,36
+1119,3511042,Fisika - Unsoed,351,2,342,37,366,40
+1120,3831123,Pend. Teknik Bangunan - Unesa,383,3,231,22,277,18
+1121,1111196,Matematika - Unsyiah,111,1,220,24,207,36
+1122,3711067,Teknologi Hasil Pertanian - Unej,371,3,867,57,965,82
+1123,9111022,Biologi - Uncen,911,4,113,10,80,13
+1124,3361082,Agroteknologi - UIN Bdg,336,1,600,18,613,32
+1125,1511204,Ilmu Keperawatan - Unja,151,1,402,30,380,54
+1126,9111142,Teknik Mesin - Uncen,911,4,190,18,154,18
+1127,5111277,Ilmu Kelautan - Untan,511,1,94,32,107,30
+1128,6311094,Agribisnis - Undana,631,3,700,146,896,126
+1129,6311144,Biologi - Undana,631,3,293,99,348,45
+1130,7511034,Peternakan - Unhalu,751,4,189,133,237,100
+1131,1921145,Biologi - Itera,192,1,0,82,430,44
+1132,7521036,Pendidikan Biologi - UNG,752,4,210,73,237,51
+1133,1111401,Teknik Komputer - Unsyiah,111,1,1144,36,1385,40
+1134,3421027,Pendidikan Biologi - Unsil,342,1,639,52,609,72
+1135,3571094,Biologi - UIN Walisongo,357,2,211,22,166,24
+1136,3711284,Pendidikan IPA - Unej,371,3,499,60,423,62
+1137,8111262,Teknik Sipil - Unpatti,811,4,499,49,545,50
+1138,1511065,Agribisnis - Unja,151,1,1173,113,1117,108
+1139,5211015,Ilmu Sosial Ekonomi Pertanian (Agribisnis) - UPR,521,3,249,50,298,40
+1140,9111231,Statistika - Uncen,911,4,0,10,35,13
+1141,7311225,Teknik Informatika - Untad,731,4,1412,83,1397,48
+1142,5311217,Teknik Lingkungan - ULM,531,3,523,23,621,27
+1143,7211294,Sistem Informasi - Unsrat,721,4,162,40,192,36
+1144,1611267,Geofisika - Unib,161,1,0,19,36,20
+1145,1111111,Teknik Pertanian - Unsyiah,111,1,703,45,741,40
+1146,5311337,Ilmu Keperawatan - ULM,531,3,615,41,730,41
+1147,3111142,Pendidikan Fisika - Untirta,311,1,176,12,151,32
+1148,5511081,Pendidikan Biologi - UBT,551,3,161,34,142,32
+1149,3311047,Teknik Elektro - Unsika,331,1,555,103,700,79
+1150,1911127,Fisika - Unila,191,1,185,63,199,63
+1151,3711365,Teknik Konstruksi Perkapalan - Unej,371,3,0,22,190,30
+1152,3841044,Ilmu Kelautan - Unijoyo,384,3,316,92,411,68
+1153,8111142,Majemen Sumb.Perairan - Unpatti,811,4,49,103,60,50
+1154,7511096,Kimia - Unhalu,751,4,90,46,100,40
+1155,7511177,Teknik Arsitektur - Unhalu,751,4,864,22,689,32
+1156,6311183,Teknik Elektro - Undana,631,3,392,139,480,45
+1157,7521164,Keperawatan - UNG,752,4,1295,60,1467,67
+1158,7131081,Ilmu Peternakan - UIN Alauddin,713,4,461,27,535,45
+1159,1511154,Kimia - Unja,151,1,122,16,123,36
+1160,3411296,Teknologi Produksi Ternak - IPB,341,1,771,32,864,40
+1161,6121152,Kimia - Undiksha,612,3,30,24,21,6
+1162,8111053,Agribisnis - Unpatti,811,4,78,63,109,50
+1163,8111037,Pend. Matematika - Unpatti,811,4,142,49,108,40
+1164,1911286,Agronomi - Unila,191,1,222,23,285,45
+1165,5411362,Pendidikan Komputer - Unmul,541,3,0,16,232,16
+1166,1611213,Statistika - Unib,161,1,106,20,110,20
+1167,7511057,Manajemen Sumberdaya Perairan - Unhalu,751,4,131,23,117,36
+1168,3731106,Ilmu Keolahragaan - UM,373,3,337,37,373,43
+1169,5111293,Ilmu Dan Teknologi Pangan - Untan,511,1,195,19,290,61
+1170,7211232,Agrobisnis Perikanan - Unsrat,721,4,58,59,69,34
+1171,3841125,Teknik Mekatronika - Unijoyo,384,3,111,47,178,60
+1172,7511154,Pendidikan Kimia - Unhalu,751,4,262,20,170,50
+1173,7311175,Biologi - Untad,731,4,192,45,211,40
+1174,1921226,Teknik Biosistem - Itera,192,1,0,89,211,44
+1175,7211197,Ilmu Kelautan - Unsrat,721,4,99,68,128,45
+1176,7221137,Ilmu Keolahragaan - Unima,722,4,59,35,57,32
+1177,9211247,Teknik Informatika - Unipa,921,4,236,10,196,12
+1178,1111053,Arsitektur - Unsyiah,111,1,809,44,761,48
+1179,1141117,Teknik Informatika - Unsam,114,1,496,34,451,32
+1180,5411025,Agribisnis - Unmul,541,3,486,29,434,36
+1181,7211062,Teknik Mesin - Unsrat,721,4,149,29,209,27
+1182,1511274,Fisika - Unja,151,1,57,20,60,18
+1183,1231043,Biologi - UIN SU,123,1,367,73,367,56
+1184,1231035,Matematika - UIN SU,123,1,218,61,237,56
+1185,8111223,Kimia - Unpatti,811,4,42,45,49,50
+1186,1511347,Teknik Kimia - Unja,151,1,100,18,131,23
+1187,5111173,Fisika - Untan,511,1,75,37,79,30
+1188,3361051,Kimia - UIN Bdg,336,1,429,35,473,32
+1189,8111045,Pend. Kimia - Unpatti,811,4,88,41,92,40
+1190,8111134,Teknik Industri - Unpatti,811,4,165,65,126,50
+1191,3571071,Kimia - UIN Walisongo,357,2,102,14,76,24
+1192,1511034,Pend. Fisika - Unja,151,1,209,45,184,54
+1193,1811084,Agribisnis - UBB,181,1,287,39,300,35
+1194,5211085,Teknik Sipil - UPR,521,3,491,53,546,64
+1195,9111014,Matematika - Uncen,911,4,25,10,30,13
+1196,9111223,Ilmu Perikanan - Uncen,911,4,52,10,30,13
+1197,1231066,Ilmu Kesehatan Masyarakat - UIN SU,123,1,956,191,1164,160
+1198,1411281,Proteksi Tanaman - Unand,141,1,342,40,515,40
+1199,3311063,Pend. Matematika - Unsika,331,1,594,110,719,95
+1200,5311411,Teknik Informatika - ULM,531,3,1271,22,1375,23
+1201,1911336,Nutrisi Dan Teknologi Pangan Ternak - Unila,191,1,0,23,254,31
+1202,1331052,Pendidikan Matematika - Umrah,133,1,97,32,106,36
+1203,1511011,Pend. Kimia - Unja,151,1,216,40,226,54
+1204,7511243,Farmasi - Unhalu,751,4,1750,63,1434,80
+1205,9111092,Pend. Fisika - Uncen,911,4,41,14,23,13
+1206,1921072,Fisika - Itera,192,1,103,93,111,44
+1207,6121144,Pendidikan IPA - Undiksha,612,3,78,48,65,24
+1208,6121136,Pendidikan Teknik Mesin - Undiksha,612,3,61,22,44,19
+1209,1511324,Teknik Elektro - Unja,151,1,296,23,251,23
+1210,1911305,Penyuluhan Pertanian - Unila,191,1,253,23,231,45
+1211,3711102,Fisika - Unej,371,3,212,40,268,45
+1212,1711373,Proteksi Tanaman - Unsri,171,1,185,33,271,50
+1213,7211286,Teknik Lingkungan - Unsrat,721,4,78,21,115,18
+1214,5211216,Pendidikan Teknik Bangunan - UPR,521,3,45,38,55,20
+1215,6211062,Kehutanan - Unram,621,3,591,42,614,50
+1216,9111045,Fisika - Uncen,911,4,25,10,13,13
+1217,6111254,Manajemen Sumber Daya Perairan - Unud,611,3,192,31,222,50
+1218,9111061,Pend. Matematika - Uncen,911,4,96,14,80,13
+1219,3721263,Agroekoteknologi - UB,372,3,2053,296,3032,312
+1220,3421043,Agribisnis - Unsil,342,1,1084,48,941,48
+1221,1311105,Sosial Ekonomi Perikanan - Unri,131,1,282,33,211,32
+1222,5111246,Kehutanan - Untan,511,1,737,170,864,180
+1223,1111382,Perencanaan Wilayah Dan Kota - Unsyiah,111,1,633,20,551,24
+1224,7121256,Pendidikan IPA Kls Internasional (Bilingual) - UNM,712,4,103,14,76,15
+1225,5111061,Teknik Arsitektur - Untan,511,1,419,17,381,25
+1226,8111304,Statistika - Unpatti,811,4,0,26,66,38
+1227,7211054,Teknik Elektro - Unsrat,721,4,244,41,315,36
+1228,7111277,Budidaya Perairan - Unhas,711,4,303,51,562,50
+1229,7221041,Ilmu Kimia - Unima,722,4,14,35,28,16
+1230,9121063,Agribisnis - Unmus,912,4,56,19,68,30
+1231,7311241,Teknik Geologi - Untad,731,4,241,39,215,40
+1232,1111092,Peternakan - Unsyiah,111,1,361,44,426,48
+1233,7131034,Kimia - UIN Alauddin,713,4,199,24,215,40
+1234,1511332,Teknik Geofisika - Unja,151,1,76,16,63,18
+1235,7521276,Pendidikan Teknik Mesin - UNG,752,4,62,32,85,27
+1236,8111196,Agrobisnis Perikanan - Unpatti,811,4,83,60,97,60
+1237,6311256,Kedokteran Hewan - Undana,631,3,445,29,454,27
+1238,7521021,Pendidikan Fisika - UNG,752,4,55,38,76,27
+1239,7111304,Sosial Ekonomi Perikanan - Unhas,711,4,365,37,351,40
+1240,3711342,Penyuluhan Pertanian - Unej,371,3,0,20,143,25
+1241,3341166,Ilmu Keolahragaan - UPI,334,1,550,42,662,59
+1242,7311016,Pend. Biologi - Untad,731,4,564,73,486,75
+1243,7121121,Pendidikan Teknik Mesin - UNM,712,4,466,38,489,15
+1244,7521237,Pendidikan Teknologi Informasi - UNG,752,4,347,66,386,36
+1245,7521245,Teknik Industri - UNG,752,4,93,53,140,27
+1246,8111103,Teknik Perkapalan - Unpatti,811,4,50,79,46,50
+1247,7111293,Pemanfaatan Sumberdaya Perikanan - Unhas,711,4,657,46,719,50
+1248,7511297,Ilmu Kelautan - Unhalu,751,4,146,32,115,33
+1249,6121063,Ilmu Keolahragaan - Undiksha,612,3,34,21,35,8
+1250,3721166,Agrobisnis Perikanan - UB,372,3,719,60,652,72
+1251,1511073,Teknologi Hasil Pertanian - Unja,151,1,378,52,347,54
+1252,1911271,Ilmu Tanah - Unila,191,1,244,23,237,27
+1253,8111254,Perencanaan Wilayah Dan Kota - Unpatti,811,4,241,47,287,50
+1254,1411234,Ilmu Tanah - Unand,141,1,592,40,742,40
+1255,3511235,Pendidikan Jasmani Kesehatan Dan Rekreasi - Unsoed,351,2,367,35,376,35
+1256,3511065,Budidaya Perairan - Unsoed,351,2,581,26,532,30
+1257,8211127,Budidaya Perairan - Unkhair,821,4,52,35,55,20
+1258,3841133,Sistem Informasi - Unijoyo,384,3,475,87,421,100
+1259,1141091,Teknik Sipil - Unsam,114,1,226,49,276,32
+1260,1511057,Agroekoteknologi - Unja,151,1,678,112,739,90
+1261,3311016,Agroteknologi - Unsika,331,1,1145,91,902,79
+1262,6311086,Agronomi/Agroekoteknologi - Undana,631,3,422,323,506,144
+1263,3841091,Pendidikan Ilmu Pengetahuan Alam - Unijoyo,384,3,384,64,487,80
+1264,5111165,Matematika - Untan,511,1,146,37,137,30
+1265,3631121,Ilmu Tanah - UPNYK,363,2,467,32,662,60
+1266,7221025,Ilmu Biologi - Unima,722,4,83,80,95,32
+1267,1111397,Kehutanan - Unsyiah,111,1,193,26,246,32
+1268,7511193,Teknik Elektro - Unhalu,751,4,571,22,429,32
+1269,3721286,Peternakan - UB,372,3,1899,275,1856,264
+1270,1411296,Penyuluhan Pertanian - Unand,141,1,0,16,316,16
+1271,6211023,Agribisnis - Unram,621,3,1596,85,1628,160
+1272,1911263,Sumberdaya Akuatik - Unila,191,1,103,23,165,31
+1273,7211182,Peternakan - Unsrat,721,4,195,175,150,99
+1274,8111084,Kehutanan - Unpatti,811,4,96,61,103,60
+1275,3231147,Pendidikan Vokasional Teknik Elektronika - UNJ,323,1,327,36,280,40
+1276,7521102,Agribisnis - UNG,752,4,526,91,530,54
+1277,1141102,Teknik Industri - Unsam,114,1,109,19,121,16
+1278,1161025,Pendidikan Teknologi Informatika - UIN Ar Raniry,116,1,424,56,487,28
+1279,1411122,Peternakan - Unand,141,1,1774,140,1691,140
+1280,7521052,Pendidikan Geografi - UNG,752,4,169,79,144,54
+1281,3841021,Agribisnis - Unijoyo,384,3,634,120,769,68
+1282,5411137,Biologi - Unmul,541,3,216,35,239,32
+1283,6211247,Keteknikan Pertanian - Unram,621,3,612,54,556,60
+1284,3111126,Pendidikan Teknik Elektro - Untirta,311,1,108,17,98,32
+1285,3421097,Pendidikan Fisika - Unsil,342,1,0,32,273,54
+1286,7221122,Ilmu Geografi - Unima,722,4,19,15,24,16
+1287,7511332,Geografi - Unhalu,751,4,159,47,116,20
+1288,9111165,Ilmu Kelautan - Uncen,911,4,38,10,20,13
+1289,1111312,Pemanfaatan Sumberdaya Perikanan - Unsyiah,111,1,217,69,242,72
+1290,7511065,Budidaya Perairan - Unhalu,751,4,97,29,92,27
+1291,1511371,Teknologi Industri Pertanian - Unja,151,1,245,44,292,36
+1292,7211216,Budidaya Perairan - Unsrat,721,4,37,39,30,23
+1293,8111215,Fisika - Unpatti,811,4,49,41,42,50
+1294,7311032,Pend. Fisika - Untad,731,4,169,70,153,75
+1295,1231051,Fisika - UIN SU,123,1,96,51,81,42
+1296,8211062,Teknologi Pertanian - Unkhair,821,4,115,30,88,20
+1297,1331044,Manajemen Sumberdaya Perairan - Umrah,133,1,111,40,109,48
+1298,7311256,Perencanaan Wilayah Dan Kota - Untad,731,4,428,69,461,48
+1299,3231124,Ilmu Keolahragaan - UNJ,323,1,721,13,676,30
+1300,7511011,Agribisnis - Unhalu,751,4,719,58,737,45
+1301,8211182,Teknik Informatika - Unkhair,821,4,562,37,670,40
+1302,1131011,Teknik Sipil - UTU,113,1,269,62,262,60
+1303,1721023,Pendidikan Biologi - IAIN Raden Fatah,172,1,437,41,393,48
+1304,6311241,Budidaya Perikanan - Undana,631,3,394,53,416,36
+1305,7111327,Peternakan - Unhas,711,4,1148,162,1201,160
+1306,7111285,Manajemen Sumberdaya Perairan - Unhas,711,4,534,48,607,50
+1307,7221064,Ilmu Fisika - Unima,722,4,26,30,21,16
+1308,7311121,Teknik Mesin - Untad,731,4,402,84,396,48
+1309,1111231,Ilmu Kelautan - Unsyiah,111,1,344,69,411,72
+1310,7211104,Teknik Pertanian - Unsrat,721,4,213,45,230,36
+1311,7211112,Ilmu Dan Teknologi Pangan - Unsrat,721,4,104,38,106,27
+1312,7211151,Kimia - Unsrat,721,4,60,41,57,32
+1313,1921211,Sains Atmosfir Dan Keplanetan - Itera,192,1,0,85,246,59
+1314,1331067,Pendidikan Biologi - Umrah,133,1,108,49,120,36
+1315,5311403,Pendidikan IPA - ULM,531,3,198,35,195,36
+1316,6211232,Ilmu Dan Teknologi Pangan - Unram,621,3,691,58,850,60
+1317,6111142,Agroekoteknologi - Unud,611,3,465,67,422,113
+1318,1141083,Teknik Mesin - Unsam,114,1,115,44,127,32
+1319,1611027,Kehutanan - Unib,161,1,433,52,478,50
+1320,8111157,Il. Kelautan - Unpatti,811,4,67,76,64,50
+1321,7311272,Teknik Geo Fisika - Untad,731,4,0,31,57,50
+1322,5411145,Kimia - Unmul,541,3,116,32,120,40
+1323,7221033,Pend. Kimia - Unima,722,4,41,30,42,16
+1324,7511107,Biologi - Unhalu,751,4,206,22,159,30
+1325,1911344,Pendidikan Vokasional Teknologi Informasi - Unila,191,1,0,14,123,14
+1326,1111014,Pendidikan Dokter Hewan - Unsyiah,111,1,913,96,921,88
+1327,1121071,Teknik Arsitektur - Unimal,112,1,276,97,311,64
+1328,7311024,Pend. Matematika - Untad,731,4,400,71,286,75
+1329,7311152,Matematika - Untad,731,4,115,33,92,40
+1330,8211135,Pend. Matematika - Unkhair,821,4,131,45,138,32
+1331,7121152,Ilmu Keolahragaan - UNM,712,4,713,91,751,57
+1332,3561084,Ilmu Keolahragaan - Unnes,356,2,391,88,431,48
+1333,3861033,Arsitektur - UIN Sby,386,3,362,27,388,28
+1334,1721015,Pendidikan Matematika - IAIN Raden Fatah,172,1,248,41,246,36
+1335,6311063,Pend. Teknik Mesin - Undana,631,3,128,32,125,36
+1336,6311071,Pend. Teknik Elektro - Undana,631,3,148,77,187,36
+1337,3341182,Pendidikan Teknologi Agro Industri - UPI,334,1,611,30,651,36
+1338,5211182,Kehutanan - UPR,521,3,259,90,349,96
+1339,7521013,Pendidikan Matematika - UNG,752,4,201,110,197,72
+1340,5211263,Biologi - UPR,521,3,0,29,102,30
+1341,7121272,Pendidikan Vokasional Mekatronika - UNM,712,4,0,43,100,15
+1342,1141021,Agribisnis - Unsam,114,1,246,34,301,32
+1343,3861064,Biologi - UIN Sby,386,3,406,28,447,28
+1344,1111351,Pendidikan Biologi (Pdsku Gayo Lues) - Unsyiah,111,1,32,17,25,16
+1345,3571086,Fisika - UIN Walisongo,357,2,59,17,47,12
+1346,7311047,Pend. Kimia - Untad,731,4,168,81,160,75
+1347,7311063,Kehutanan - Untad,731,4,488,361,644,300
+1348,3111134,Pendidikan Teknik Mesin - Untirta,311,1,85,17,120,32
+1349,8111173,Pemanfaatan Sd Perikanan - Unpatti,811,4,39,88,34,40
+1350,8111207,Matematika - Unpatti,811,4,70,49,68,50
+1351,1231027,Sistem Informasi - UIN SU,123,1,580,99,770,84
+1352,3421035,Agroteknologi - Unsil,342,1,1019,65,990,72
+1353,5311152,Agribisnis Perikanan - ULM,531,3,165,24,195,27
+1354,1611124,Biologi - Unib,161,1,266,44,273,40
+1355,3841013,Agroekoteknologi - Unijoyo,384,3,450,120,630,68
+1356,7211143,Biologi - Unsrat,721,4,159,35,150,27
+1357,7311055,Agroteknologi - Untad,731,4,652,331,660,225
+1358,7311113,Teknik Arsitektur - Untad,731,4,591,98,511,48
+1359,7211166,Agribisnis - Unsrat,721,4,253,106,288,90
+1360,7531023,Sistem Informasi - USN,753,4,278,72,275,100
+1361,7211201,Manajemen Sumberdaya Perairan - Unsrat,721,4,46,37,47,23
+1362,1221106,Ilmu Keolahragaan - Unimed,122,1,861,31,828,45
+1363,5211093,Arsitektur - UPR,521,3,179,26,176,40
+1364,5511042,Agroteknologi - UBT,551,3,132,59,123,48
+1365,6111061,Teknologi Industri Pertanian - Unud,611,3,289,35,308,40
+1366,7521172,Teknologi Hasil Perikanan - UNG,752,4,110,154,112,90
+1367,8111076,Tek. Hasil Pertanian - Unpatti,811,4,68,37,64,50
+1368,7211247,Pemanfaatan Sumberdaya Perikanan - Unsrat,721,4,32,42,40,23
+1369,8111126,Teknik Mesin - Unpatti,811,4,115,108,125,75
+1370,3361043,Fisika - UIN Bdg,336,1,160,23,204,16
+1371,6211216,Peternakan - Unram,621,3,812,135,744,150
+1372,3711013,Agroteknologi / Agroekoteknologi - Unej,371,3,1162,95,1136,75
+1373,6211201,Kimia - Unram,621,3,156,31,185,40
+1374,3361035,Biologi - UIN Bdg,336,1,613,43,775,32
+1375,7521075,Agroteknologi - UNG,752,4,275,111,257,58
+1376,7521125,Manajamen Sumberdaya Perairan - UNG,752,4,88,144,90,90
+1377,7111351,Teknik Sistem Perkapalan - Unhas,711,4,296,38,348,45
+1378,7411056,Teknik Informatika - Univsulbar,741,4,632,106,600,143
+1379,3111092,Perikanan - Untirta,311,1,507,37,351,48
+1380,1221137,Pendidikan Teknik Otomotif - Unimed,122,1,420,35,328,41
+1381,7511266,Teknik Geofisika - Unhalu,751,4,62,28,75,20
+1382,7521253,Ilmu Teknologi Pangan - UNG,752,4,190,106,173,54
+1383,1611116,Fisika - Unib,161,1,110,39,67,40
+1384,7121191,Desain Komunikasi Visual - UNM,712,4,352,31,367,41
+1385,1811053,Agroteknologi - UBB,181,1,251,46,301,35
+1386,5211135,Pend. Kimia - UPR,521,3,100,27,40,30
+1387,1331075,Pendidikan Kimia - Umrah,133,1,56,27,54,24
+1388,1611012,Agroekoteknologi - Unib,161,1,526,54,410,65
+1389,1111084,Agribisnis - Unsyiah,111,1,1083,40,1096,48
+1390,1141075,Pendidikan Biologi - Unsam,114,1,92,31,127,32
+1391,5211255,Kimia - UPR,521,3,0,30,18,30
+1392,1611051,Teknologi Industri Pertanian - Unib,161,1,478,66,552,65
+1393,7521311,Matematika - UNG,752,4,73,32,82,27
+1394,8211151,Pend. Fisika - Unkhair,821,4,106,50,134,32
+1395,7311233,Statistika - Untad,731,4,212,42,203,50
+1396,9111215,Ilmu Keolahragaan - Uncen,911,4,57,14,47,45
+1397,1721054,Biologi - IAIN Raden Fatah,172,1,217,17,202,14
+1398,3341232,Pendidikan Multimedia Kampus Cibiru - UPI,334,1,0,56,332,45
+1399,5111231,Agroteknologi - Untan,511,1,690,71,739,100
+1400,5311047,Agroekoteknologi - ULM,531,3,308,50,391,21
+1401,1611035,Peternakan - Unib,161,1,379,70,342,60
+1402,3861025,Teknik Lingkungan - UIN Sby,386,3,434,29,609,28
+1403,1411257,Peternakan ( Kampus Ii Payakumbuh) - Unand,141,1,382,40,324,40
+1404,5311071,Teknologi Industri Pertanian - ULM,531,3,302,28,331,25
+1405,7511421,Ilmu Komputer - Unhalu,751,4,0,23,758,24
+1406,7521326,Statistika - UNG,752,4,93,34,95,28
+1407,7311167,Kimia - Untad,731,4,107,49,82,40
+1408,8211166,Pend. Kimia - Unkhair,821,4,121,49,126,32
+1409,8111181,Tek. Hasil Perikanan - Unpatti,811,4,92,96,74,50
+1410,5411017,Agroekoteknologi - Unmul,541,3,390,39,319,60
+1411,7221087,Pend. Tek Bangunan - Unima,722,4,20,30,22,16
+1412,5311055,Agribisnis - ULM,531,3,589,59,549,33
+1413,8211143,Pend. Biologi - Unkhair,821,4,221,46,223,32
+1414,1911294,Proteksi Tanaman - Unila,191,1,145,23,186,27
+1415,5211174,Agroteknologi - UPR,521,3,294,71,322,88
+1416,6311152,Fisika - Undana,631,3,163,79,154,45
+1417,1131026,Teknik Mesin - UTU,113,1,153,55,124,40
+1418,1131042,Agribisnis - UTU,113,1,294,72,241,60
+1419,1811076,Biologi - UBB,181,1,213,15,182,16
+1420,5311376,Agronomi - ULM,531,3,131,22,145,21
+1421,5311121,Budidaya Perairan - ULM,531,3,103,16,104,27
+1422,1811111,Kimia - UBB,181,1,48,16,68,14
+1423,1331102,Sosial Ekonomi Perikanan - Umrah,133,1,24,20,27,16
+1424,3331311,Peternakan PSDKU Pangandaran - Unpad,333,1,0,33,257,30
+1425,1121047,Teknik Elektro - Unimal,112,1,333,134,416,80
+1426,7511444,Teknik Kelautan - Unhalu,751,4,0,22,56,24
+1427,7521292,Biologi - UNG,752,4,144,70,141,48
+1428,8211201,Teknik Pertambangan - Unkhair,821,4,283,30,304,24
+1429,1121167,Sistem Informasi - Unimal,112,1,273,78,391,56
+1430,1511316,Kepelatihan Olahraga - Unja,151,1,171,94,170,68
+1431,1111327,Ilmu Tanah - Unsyiah,111,1,263,39,334,32
+1432,1121094,Agribisnis - Unimal,112,1,738,70,780,60
+1433,1611043,Agribisnis - Unib,161,1,1041,45,837,50
+1434,6211197,Fisika - Unram,621,3,119,34,96,40
+1435,5311287,Fisika - ULM,531,3,71,28,69,32
+1436,5111312,Peternakan - Untan,511,1,136,23,146,24
+1437,1121024,Teknik Mesin - Unimal,112,1,327,138,370,100
+1438,1121144,Pendidikan Matematika - Unimal,112,1,176,45,159,32
+1439,7411087,Pend. Biologi - Univsulbar,741,4,326,88,236,120
+1440,1111246,Budidaya Perairan - Unsyiah,111,1,238,67,294,72
+1441,5311063,Produksi Ternak - ULM,531,3,113,21,108,25
+1442,1121105,Budidaya Perairan - Unimal,112,1,240,75,254,48
+1443,1511227,Pemanfaatan Sumberdaya Perikanan - Unja,151,1,190,55,208,36
+1444,5411041,Kehutanan - Unmul,541,3,544,129,471,135
+1445,7511371,Bioteknologi - Unhalu,751,4,65,24,58,24
+1446,1141013,Agroteknologi - Unsam,114,1,170,31,202,32
+1447,1161017,Pendidikan Teknik Elektro - UIN Ar Raniry,116,1,126,54,134,28
+1448,6211255,Budidaya Perairan - Unram,621,3,323,43,345,50
+1449,3521083,Pendidikan Matematika - Untidar,352,2,0,45,384,48
+1450,1811126,Fisika - UBB,181,1,40,18,34,14
+1451,1511115,Pend. Olahraga & Kesehatan - Unja,151,1,702,63,667,68
+1452,1811092,Budidaya Perairan - UBB,181,1,167,40,178,30
+1453,1331091,Teknologi Hasil Perikanan - Umrah,133,1,83,34,100,32
+1454,7521044,Pendidikan Kimia - UNG,752,4,81,73,84,43
+1455,7211135,Fisika - Unsrat,721,4,37,32,38,23
+1456,1511131,Peternakan - Unja,151,1,624,117,606,95
+1457,7311105,Teknik Sipil - Untad,731,4,1142,111,1039,80
+1458,1121032,Teknik Kimia - Unimal,112,1,256,159,303,100
+1459,1111343,Agroteknologi (PSDKU Gayo Lues) - Unsyiah,111,1,102,31,69,20
+1460,1141044,Pendidikan Matematika - Unsam,114,1,48,16,58,16
+1461,3521013,Agroteknologi - Untidar,352,2,616,41,723,48
+1462,8111165,Budidaya Perairan - Unpatti,811,4,54,68,26,40
+1463,5411033,Teknologi Hasil Pertanian - Unmul,541,3,327,32,335,36
+1464,9121144,Pendidikan Kimia - Unmus,912,4,14,9,12,10
+1465,7521133,Peternakan - UNG,752,4,178,118,148,58
+1466,1121055,Teknik Industri - Unimal,112,1,493,122,542,80
+1467,5311314,Kehutanan - ULM,531,3,422,73,492,68
+1468,7531031,Teknik Sipil - USN,753,4,153,91,151,64
+1469,1511123,Kehutanan - Unja,151,1,766,62,684,90
+1470,7511185,Teknik Mesin - Unhalu,751,4,516,21,432,35
+1471,7531046,Teknik Pertambangan - USN,753,4,157,81,193,64
+1472,7511235,Ilmu Dan Teknologi Pangan - Unhalu,751,4,290,110,294,45
+1473,6121183,Akuakultur - Undiksha,612,3,0,26,38,6
+1474,7521141,Budidaya Perairan - UNG,752,4,94,227,86,90
+1475,1811103,Ilmu Kelautan - UBB,181,1,114,20,81,14
+1476,6311272,Manajemen Sumber Daya Perairan - Undana,631,3,193,68,269,36
+1477,7311136,Teknik Elektro - Untad,731,4,342,64,359,40
+1478,7521284,Kimia - UNG,752,4,67,73,69,43
+1479,1121086,Agroekoteknologi - Unimal,112,1,491,132,515,80
+1480,7311202,Budidaya Perairan - Untad,731,4,236,92,276,75
+1481,6211286,Ilmu Tanah - Unram,621,3,303,26,294,30
+1482,3341247,Pendidikan Sistem Dan Teknologi Informasi Kampus Purwakarta - UPI,334,1,0,56,210,45
+1483,5211062,Budidaya Perairan - UPR,521,3,70,77,143,72
+1484,7511026,Agroteknologi / Agroekoteknologi - Unhalu,751,4,273,60,229,45
+1485,7511413,Statistika - Unhalu,751,4,0,32,182,24
+1486,8211174,Agroteknologi - Unkhair,821,4,50,26,65,20
+1487,7411017,Agribisnis - Univsulbar,741,4,571,69,554,70
+1488,5411315,Teknologi Hasil Perikanan - Unmul,541,3,125,47,114,32
+1489,3831131,Ilmu Keolahragaan - Unesa,383,3,484,91,538,81
+1490,9121121,Pendidikan Matematika - Unmus,912,4,49,28,30,30
+1491,5211232,Teknologi Industri Pertanian - UPR,521,3,138,42,166,48
+1492,3861017,Pendidikan Matematika - UIN Sby,386,3,416,32,472,32
+1493,1331036,Ilmu Kelautan - Umrah,133,1,163,42,185,48
+1494,9211182,Biologi - Unipa,921,4,33,42,33,28
+1495,5211054,Manajemen Sumberdaya Perairan - UPR,521,3,84,79,131,72
+1496,5411114,Manajemen Sumberdaya Perairan - Unmul,541,3,142,32,140,32
+1497,7411041,Teknik Sipil - Univsulbar,741,4,417,81,366,143
+1498,5311353,Ilmu Tanah - ULM,531,3,150,23,146,33
+1499,3521075,Pendidikan Biologi - Untidar,352,2,0,51,306,48
+1500,7221114,Pend. Tek Mesin - Unima,722,4,36,30,39,32
+1501,5411346,Ilmu Kelautan - Unmul,541,3,0,47,122,32
+1502,5111181,Kimia - Untan,511,1,134,50,145,50
+1503,1121136,Pendidikan Kimia - Unimal,112,1,100,53,76,32
+1504,5211197,Teknologi Hasil Perikanan - UPR,521,3,86,38,63,72
+1505,3861072,Matematika - UIN Sby,386,3,249,24,254,28
+1506,7521222,Pendidikan Teknik Bangunan - UNG,752,4,26,32,31,18
+1507,1331083,Budi Daya Perairan - Umrah,133,1,78,31,82,32
+1508,1611275,Pendidikan IPA - Unib,161,1,0,37,139,40
+1509,1161033,Arsitektur - UIN Ar Raniry,116,1,209,83,194,48
+1510,6321042,Pend. Biologi - Unimor,632,3,195,59,174,50
+1511,7411033,Keperawatan - Univsulbar,741,4,184,93,199,80
+1512,7531015,Pendidikan Matematika - USN,753,4,61,98,58,48
+1513,7511081,Fisika - Unhalu,751,4,70,25,58,28
+1514,1111374,Proteksi Tanaman - Unsyiah,111,1,131,25,192,32
+1515,5311167,Ilmu Kelautan - ULM,531,3,82,20,114,27
+1516,7511436,Rekayasa Infrastruktur Dan Lingkungan - Unhalu,751,4,0,17,60,24
+1517,1161056,Biologi - UIN Ar Raniry,116,1,150,71,130,48
+1518,5211201,Peternakan - UPR,521,3,67,27,63,48
+1519,5411153,Fisika - Unmul,541,3,71,32,70,30
+1520,7511363,Penyuluhan Pertanian - Unhalu,751,4,248,42,259,30
+1521,1611101,Matematika - Unib,161,1,170,37,169,40
+1522,3841102,Manajemen Sumberdaya Perairan - Unijoyo,384,3,218,55,267,45
+1523,5211247,Fisika - UPR,521,3,0,32,17,30
+1524,3711326,Ilmu Pertanian - Unej,371,3,0,24,287,25
+1525,7521303,Fisika - UNG,752,4,33,17,29,13
+1526,8211085,Peternakan - Unkhair,821,4,21,18,44,20
+1527,5411106,Agrobisnis Perikanan - Unmul,541,3,189,37,139,32
+1528,7511386,Ilmu Keolahragaan - Unhalu,751,4,104,28,105,30
+1529,1121175,Ilmu Kelautan - Unimal,112,1,167,58,161,36
+1530,5511096,Manajemen Sumber Daya Perairan - UBT,551,3,137,70,105,48
+1531,1721077,Pendidikan Kimia - IAIN Raden Fatah,172,1,99,24,81,24
+1532,8211216,Agribisnis - Unkhair,821,4,88,26,135,20
+1533,3341224,Pendidikan Kelautan Dan Perikanan Kampus Serang - UPI,334,1,0,56,177,45
+1534,6321034,Peternakan - Unimor,632,3,386,52,279,63
+1535,1111366,Kehutanan (PSDKU Gayo Lues) - Unsyiah,111,1,122,28,95,16
+1536,7531135,Ilmu Komputer - USN,753,4,0,92,141,56
+1537,8211104,Ilmu Kelautan - Unkhair,821,4,133,48,148,40
+1538,5311144,Manajemen Sd Perairan - ULM,531,3,84,20,90,27
+1539,1811061,Manajemen Sumberdaya Perairan - UBB,181,1,176,29,186,25
+1540,6211015,Agroekoteknologi - Unram,621,3,466,64,493,75
+1541,5311136,Pemanfaatan Sd Perikanan - ULM,531,3,58,18,88,27
+1542,7521067,Pendidikan Seni Rupa - UNG,752,4,32,60,47,36
+1543,5311113,Teknologi Hasil Perikanan - ULM,531,3,107,21,119,27
+1544,1141156,Biologi - Unsam,114,1,40,21,48,16
+1545,7531054,Agribisnis - USN,753,4,81,60,119,80
+1546,7521334,Pendidikan Ilmu Pengetahuan Alam - UNG,752,4,63,45,65,27
+1547,7531062,Agroteknologi - USN,753,4,38,82,58,48
+1548,8211197,Kehutanan - Unkhair,821,4,199,44,208,48
+1549,7311071,Agribisnis - Untad,731,4,1109,160,1152,150
+1550,8211112,Pemanfaatan Sumberdaya Perairan - Unkhair,821,4,41,28,41,20
+1551,8111061,Agroteknologi - Unpatti,811,4,37,52,45,35
+1552,3711373,Peternakan - Unej,371,3,0,22,327,25
+1553,7411025,Kehutanan - Univsulbar,741,4,206,75,202,60
+1554,8211093,Manajemen Sumberdaya Perairan - Unkhair,821,4,90,51,86,32
+1555,8211232,Ilmu Tanah - Unkhair,821,4,58,35,59,32
+1556,8211031,Teknik Elektro - Unkhair,821,4,155,54,146,40
+1557,1161064,Kimia - UIN Ar Raniry,116,1,44,59,27,48
+1558,9211305,Teknik Geologi - Unipa,921,4,30,40,20,24
+1559,1121121,Pendidikan Fisika - Unimal,112,1,108,56,79,48
+1560,7411072,Pend. Matematika - Univsulbar,741,4,186,55,131,100
+1561,7531104,Pendidikan Kimia - USN,753,4,0,100,26,48
+1562,8211046,Arsitektur - Unkhair,821,4,219,40,262,40
+1563,7211313,Agronomi - Unsrat,721,4,56,39,85,21
+1564,7311295,Teknik Sipil (PSDKU Morowali) - Untad,731,4,0,68,20,30
+1565,7511405,Perikanan Tangkap - Unhalu,751,4,104,39,99,35
+1566,3711311,Agronomi - Unej,371,3,0,20,207,25
+1567,8111293,Teknik Geologi - Unpatti,811,4,0,9,341,8
+1568,1611205,Ilmu Tanah - Unib,161,1,144,24,197,25
+1569,7511301,Ilmu Lingkungan - Unhalu,751,4,80,72,101,48
+1570,7411106,Peternakan - Univsulbar,741,4,191,82,195,60
+1571,3521067,Pendidikan Ilmu Pengetahuan Alam - Untidar,352,2,324,48,286,48
+1572,1141067,Pendidikan Kimia - Unsam,114,1,21,14,34,16
+1573,9121136,Pendidikan Fisika - Unmus,912,4,21,7,21,10
+1574,5311361,Proteksi Tanaman - ULM,531,3,87,23,113,29
+1575,5411242,Peternakan - Unmul,541,3,143,18,173,18
+1576,7411114,Budidaya Perairan - Univsulbar,741,4,129,102,148,80
+1577,5411095,Budidaya Perairan - Unmul,541,3,134,38,105,32
+1578,1141036,Budidaya Perairan - Unsam,114,1,107,44,97,32
+1579,1141052,Pendidikan Fisika - Unsam,114,1,22,15,38,16
+1580,7531093,Pendidikan Biologi - USN,753,4,0,93,81,48
+1581,9121071,Agroteknologi - Unmus,912,4,35,17,29,20
+1582,7211321,Proteksi Tanaman - Unsrat,721,4,44,45,55,23
+1583,7411095,Pend. Fisika - Univsulbar,741,4,73,58,54,100
+1584,8111111,Teknik Sistim Perkapalan - Unpatti,811,4,34,64,29,50
+1585,9211166,Matematika - Unipa,921,4,15,26,7,16
+1586,8111092,Peternakan - Unpatti,811,4,39,48,28,30
+1587,9211224,Peternakan - Unipa,921,4,30,34,26,24
+1588,3861056,Ilmu Kelautan - UIN Sby,386,3,242,25,318,28
+1589,8211023,Teknik Mesin - Unkhair,821,4,96,53,94,32
+1590,1131065,Perikanan - UTU,113,1,259,54,225,60
+1591,8211015,Teknik Sipil - Unkhair,821,4,589,55,581,60
+1592,1721062,Pendidikan Fisika - IAIN Raden Fatah,172,1,84,24,74,24
+1593,1121152,Pendidikan Teknik Mesin - Unimal,112,1,92,55,102,32
+1594,7531127,Kimia - USN,753,4,0,54,4,48
+1595,7411122,Perikanan Tangkap - Univsulbar,741,4,0,55,146,50
+1596,6321011,Agribisnis - Unimor,632,3,393,51,340,63
+1597,1161041,Teknik Lingkungan - UIN Ar Raniry,116,1,199,79,216,48
+1598,9211174,Fisika - Unipa,921,4,6,27,11,16
+1599,7511347,Ilmu Tanah - Unhalu,751,4,83,52,120,30
+1600,7211305,Ilmu Tanah - Unsrat,721,4,36,52,45,27
+1601,9211135,Ilmu Kelautan - Unipa,921,4,42,25,27,16
+1602,3711253,Ilmu Tanah - Unej,371,3,326,18,191,25
+1603,1611186,Ilmu Kelautan - Unib,161,1,264,48,344,45
+1604,3521091,Akuakultur - Untidar,352,2,0,65,221,48
+1605,7531112,Teknologi Hasil Pertanian - USN,753,4,0,82,47,48
+1606,7511394,Oseanografi - Unhalu,751,4,33,33,47,30
+1607,7511355,Proteksi Tanaman - Unhalu,751,4,35,64,73,30
+1608,9211263,Teknik Elektro - Unipa,921,4,44,26,31,16
+1609,1611244,Proteksi Tanaman - Unib,161,1,82,30,97,25
+1610,7511324,Teknologi Hasil Perikanan - Unhalu,751,4,95,88,82,28
+1611,7531085,Ilmu Perikanan - USN,753,4,22,83,52,48
+1612,1721046,Kimia - IAIN Raden Fatah,172,1,73,17,70,14
+1613,9211127,Manajemen Sumberdaya Perairan - Unipa,921,4,21,26,21,16
+1614,9211232,Kehutanan - Unipa,921,4,111,74,80,24
+1615,1141133,Fisika - Unsam,114,1,14,29,25,16
+1616,6321026,Agroteknologi - Unimor,632,3,250,58,211,63
+1617,9211201,Agribisnis - Unipa,921,4,45,37,35,24
+1618,5111366,Ilmu Tanah - Untan,511,1,218,47,223,61
+1619,1141141,Kimia - Unsam,114,1,19,20,37,16
+1620,9211216,Agroteknologi - Unipa,921,4,20,38,22,24
+1621,3521052,Peternakan - Untidar,352,2,283,51,345,48
+1622,8111285,Ilmu Tanah - Unpatti,811,4,0,32,21,25
+1623,1131107,Teknologi Hasil Pertanian - UTU,113,1,0,40,168,40
+1624,7311287,Agroteknologi (PSDKU Morowali) - Untad,731,4,0,69,11,30
+1625,1131057,Agroteknologi - UTU,113,1,158,79,122,60
+1626,7511251,Agrobisnis Perikanan - Unhalu,751,4,179,20,149,24
+1627,9211352,Teknik Sipil - Unipa,921,4,0,21,81,16
+1628,1131081,Akuakultur - UTU,113,1,46,38,38,30
+1629,1141125,Matematika - Unsam,114,1,32,17,24,16
+1630,8111277,Pemuliaan Tanaman - Unpatti,811,4,0,31,8,20
+1631,9121086,Peternakan - Unmus,912,4,32,27,21,20
+1632,1131115,Ilmu Kelautan - UTU,113,1,0,58,73,30
+1633,9211313,Pendidikan Fisika - Unipa,921,4,11,26,7,16
+1634,9211271,Pendidikan Biologi - Unipa,921,4,41,23,35,16
+1635,7411064,Matematika - Univsulbar,741,4,56,130,53,100
+1636,9211294,Pendidikan Kimia - Unipa,921,4,11,24,14,16
+1637,7531077,Peternakan - USN,753,4,23,83,43,48
+1638,8111335,Pendidikan Matematika (PSDKU Kab. Aru) - Unpatti,811,4,0,35,1,20
+1639,7311314,Teknik Sipil (PSDKU Touna) - Untad,731,4,0,70,11,50
+1640,9211104,Teknologi Hasil Pertanian - Unipa,921,4,44,40,25,24
+1641,3711261,Proteksi Tanaman - Unej,371,3,219,19,134,25
+1642,1131096,Sumber Daya Akuatik - UTU,113,1,40,23,23,30
+1643,9211286,Pendidikan Matematika - Unipa,921,4,22,26,11,16
+1644,8111327,Pendidikan Matematika (PSDKU Kab. Mbd) - Unpatti,811,4,0,35,3,20
+1645,9121094,Manajemen Sumberdaya Perairan - Unmus,912,4,28,21,29,30
+1646,9211344,Teknik Pertanian Dan Biosistem - Unipa,921,4,0,27,19,16
+1647,9211197,Kimia - Unipa,921,4,17,27,12,16
+1648,9211321,Ilmu Tanah - Unipa,921,4,0,41,7,24
+1649,7311306,Agroteknologi (PSDKU Touna) - Untad,731,4,0,69,12,25
+1650,8111312,Peternakan (PSDKU Kab. Mbd) - Unpatti,811,4,0,35,0,20
+1651,9211336,Nutrisi Dan Teknologi Pakan Ternak - Unipa,921,4,0,35,7,16
+,1121183,TEKNIK MATERIAL - Unimal,112,1,,,,32
+,1161072,TEKNOLOGI INFORMASI - UIN Ar Raniry,116,1,,,,48
+,1321115,GIZI - UIN Riau,132,1,,,,20
+,1411307,TEKNOLOGI INDUSTRI PERTANIAN - Unand,141,1,,,,24
+,1811134,MATEMATIKA - UBB,181,1,,,,12
+,1911352,FARMASI - Unila,191,1,,,,32
+,1911367,BIOLOGI TERAPAN - Unila,191,1,,,,18
+,1921234,TEKNOLOGI INDUSTRI PERTANIAN - Itera,192,1,,,,59
+,1921242,TEKNIK SISTEM ENERGI - Itera,192,1,,,,59
+,1921257,TEKNOLOGI PANGAN - Itera,192,1,,,,59
+,1921265,TEKNIK MATERIAL - Itera,192,1,,,,59
+,1921273,TEKNIK PERTAMBANGAN - Itera,192,1,,,,59
+,1921281,ARSITEKTUR LANSKAP - Itera,192,1,,,,59
+,1921296,DESAIN KOMUNIKASI VISUAL - Itera,192,1,,,,59
+,3111181,ILMU KEOLAHRAGAAN - Untirta,311,1,,,,16
+,3111196,GIZI - Untirta,311,1,,,,16
+,3241103,TEKNIK ELEKTRO - UPNVJ,324,1,,,,20
+,3241111,FARMASI - UPNVJ,324,1,,,,15
+,3311094,GIZI - Unsika,331,1,,,,32
+,3311105,TEKNIK KIMIA - Unsika,331,1,,,,32
+,3311113,ILMU KEOLAHRAGAAN - Unsika,331,1,,,,32
+,3531321,PENGELOLAAN HUTAN - UNS,353,2,,,,25
+,3551356,BIOTEKNOLOGI - Undip,355,2,,,,45
+,3561246,SISTEM INFORMASI - Unnes,356,2,,,,16
+,3561254,ILMU LINGKUNGAN - Unnes,356,2,,,,16
+,3561262,FARMASI - Unnes,356,2,,,,16
+,3611503,ILMU AKTUARIA - UGM,361,2,,,,18
+,3621401,PENDIDIKAN JASMANI KESEHATAN DAN REKREASI - UNY,362,2,,,,80
+,3621416,PENDIDIKAN KEPELATIHAN OLAHRAGA - UNY,362,2,,,,48
+,3621424,PGSD PENDIDIKAN JASMANI - UNY,362,2,,,,48
+,3621432,TEKNIK ELEKTRO - UNY,362,2,,,,16
+,3621447,TEKNOLOGI INFORMASI - UNY,362,2,,,,16
+,3621455,TEKNIK MANUFAKTUR - UNY,362,2,,,,16
+,3631144,TEKNIK GEOMATIKA - UPNYK,363,2,,,,35
+,3711381,GIZI - Unej,371,3,,,,25
+,3711396,TEKNIK PERTAMBANGAN - Unej,371,3,,,,20
+,3711407,TEKNIK PERMINYAKAN - Unej,371,3,,,,20
+,3721495,AGROEKOTEKNOLOGI (PSDKU KEDIRI) - UB,372,3,,,,20
+,3721506,AGRIBISNIS (PSDKU KEDIRI) - UB,372,3,,,,20
+,3721514,PETERNAKAN (PSDKU KEDIRI) - UB,372,3,,,,16
+,3721522,AKUAKULTUR (PSDKU KEDIRI) - UB,372,3,,,,20
+,3721537,SOSIAL EKONOMI PERIKANAN (PSDKU KEDIRI) - UB,372,3,,,,20
+,3861087,PENDIDIKAN ILMU PENGETAHUAN ALAM - UIN Sby,386,3,,,,12
+,5411377,FARMASI KLINIS - Unmul,541,3,,,,20
+,5411385,SISTEM INFORMASI - Unmul,541,3,,,,40
+,6121202,ILMU KOMPUTER - Undiksha,612,3,,,,24
+,6121217,KEDOKTERAN - Undiksha,612,3,,,,20
+,7531143,FARMASI - USN,753,4,,,,48
+,8111343,TEKNIK GEOFISIKA - Unpatti,811,4,,,,8
+,8111351,TEKNIK PERMINYAKAN - Unpatti,811,4,,,,8

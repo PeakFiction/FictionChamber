@@ -1,0 +1,279 @@
+# WS 02 
+# Alvin Zhafif Afilla
+# 2206046632
+
+# 1 
+# def balik(n):
+#     if n > 0: 
+#         print (n%10)
+#         balik(n // 10)
+
+# balik(2134) 
+
+# 2 
+# def cetak(x):
+#    if x > 0 :
+#        cetak(x // 10)
+#        print(x % 10)
+
+# cetak(31245)
+
+# 3
+# def mini(L):
+#     if len(L) == 1:
+#         return L[0]
+#     else:
+#         minNumber = mini(L[:-1])
+#         if minNumber < L[-1]:
+#             return minNumber
+#         else:
+#             return L[-1]
+# print(mini([-20,9,0,3,4,5,-19]))
+
+# 4 
+# def countneg(l):
+#     if l == []:
+#         return 0
+#     else:
+#         if l[0]<0:
+#             return 1 + countneg(l[1:])
+#         else:
+#             return countneg(l[1:])
+
+# print(countneg([3,0,-5,6,-2,3]))
+
+        
+# 5
+# def numOnes(n):
+#     # base case
+#     if n <= 0:
+#         return 0
+#     # recursive case
+#     else:
+#         if n%2 == 0:
+#             return numOnes(n//2)
+#         else:
+#             return 1 + numOnes(n//2)
+
+# print(numOnes(14))
+
+# 6
+# dictio = {'a': 36, 'c' : 25, 'b' : 40}
+
+# print(dictio.keys())
+
+# print(dictio.values())
+
+# print(sorted(dictio.items(), key = lambda x : x[0]))
+
+# print(sorted(dictio.items(), key = lambda x : x[1]))
+
+
+
+# 7 
+# L = {True : 'ya', 1 : ' tidak',0 : 'mungkin'}
+# print(L.values())
+
+# 8
+# words = [ x for x in "hellocelloecho"]
+# counts = {}
+# for w in words:
+#     counts[w] = counts.get(w,0) + 1
+# uniquewords = sorted(list(set(words)))
+# for w in uniquewords :
+#     print(w, counts[w])
+
+# function for counting all elements inside of a list
+# def plus(n):
+#     if len(n) == 1:
+#         return n[0]
+#     else:
+#         return n[0] + plus(n[1:])
+    
+# print(plus([2,3,4,5]))
+
+# if __name__ == '__main__':
+#     n = int(input())
+#     for i in range(n):
+#         print(i**2)
+
+"-----------------------------------WS 03 --------------------------------------------------"
+#1
+# outFile = open("ws04_2019.txt",'w')
+# print(23, file=outFile)
+# print(117, file=outFile)
+# print(-15, file=outFile)
+# outFile.close()
+# inFile = open("ws04_2019.txt",'r')
+# var = 0
+# for line in inFile:
+#  var = var + int(line.strip())
+# inFile.close()
+# print(var)    # output is 125
+
+#2
+# lst = ['satu', '\x64\x75\x61', 'tiga', 'empat']
+# lst2 = [ kata[::-2] for kata in lst ]
+# print( lst2 )
+# print( lst[1][:1] )
+# list1 = [30,20,10,0,[41,42]]
+# list2 = list1
+# list3 = list2[:]
+# list1[0] = 1
+# list2[1] = 2
+# list3[2] = 3
+# list3[-1][1] = 5
+# print("list2:", list2)
+# print("list3:", list3) 
+
+#3
+# def syr(x):
+#     lst = [x]
+#     while x>1:
+#         if x % 2 == 0:
+#             x = x//2
+#             lst.append(x)
+#         else:
+#             x = 3*x+1
+#             lst.append(x)
+#     return lst
+# print(syr(9))
+
+#4
+# even_cubes = []
+# for x in range(50):
+#     if x % 2 == 0:
+#         even_cubes.append(x**3)
+
+#using list comprehension
+# [x**3 for x in range(50) if x %2 ==0]
+# print(x)
+
+#5
+# def sumDigit(n):
+#     temp = str(n)
+#     res = 0
+#     for i in temp:
+#         res += int(i)
+#     return res
+# print(sumDigit(12123123))
+
+#6
+# def sumTo1Digits(n):
+#     temp = str(n)
+#     res = 0
+#     for i in temp:
+#         res += int(i)
+#         print(res)
+#     axis = str(res)
+#     count = 0
+#     for b in axis:
+#         count += int(b)
+#     return count
+# print(sumTo1Digits(67432))
+
+#7
+# def WordLengths(lst):
+#     new_lst = []
+#     visited = []
+#     for word in lst:
+#         if word in visited:
+#             continue
+#         else:
+#             length = len(word)
+#             visited.append(word)
+#             new_lst.append([word,length])
+#     return new_lst
+# print(WordLengths(['hello','hi','wow','zaoshanhao','bing chilling']))
+
+#8
+# [2*i if i%2==0 else 5*i for i in range(1,11)]  # 5 4 15 
+
+worksheet 4
+
+program for increasing and decreasing the size of the canvas by 10 pixel, using a mouse click
+
+from tkinter import *
+class GrowShrinkCanvas(object):
+    def __init__(self):
+        window = Tk() # Create a window
+        window.title("Growing and Shrinking") # Set a title
+        self.canvas = Canvas(window, bg = "yellow",
+            width = 200, height = 200)
+        self.canvas.pack()
+
+        # Bind canvas with mouse events
+        self.canvas.bind("<Button-1>", self.grow)
+        self.canvas.bind("<Button-3>", self.shrink)
+
+        window.mainloop() # Create an event loop
+
+    def grow(self, event):
+        self.canvas["width"] = self.canvas.winfo_width() + 10
+        self.canvas["height"] = self.canvas.winfo_height() + 10
+
+    def shrink(self, event):
+        self.canvas["width"] = self.canvas.winfo_width() - 10
+        self.canvas["height"] = self.canvas.winfo_height() - 10
+    
+GrowShrinkCanvas()
+
+In Python, define a class Bujursangkar (or Square) as a subclass of Rectangle.
+Remember that a square is a rectangle whose width and height are equal.
+Use the information from UML diagram below.
+
+class Bujursangkar1(Rectangle):
+    def __init__(self, color, filled, width, height):
+        if width == height:
+            Rectangle.__init__(self, width, height, color, filled)
+	else:
+	    print("Width and height must be equal")
+
+class Bujursangkar2(Rectangle):
+    def __init__(self, color, filled, width, height):
+        if width == height:
+	    super().__init__(width, height, color, filled)
+	else:
+	    print("Width and height must be equal")
+
+type error: when youre trying to add strings with integers
+keyerror: when the key is not inside the dictionary
+
+. Implement a class that models a tally counter, a mechanical device
+that is used to count people—for example, to find out how many
+people attend a concert. Whenever the operator pushes a button, the
+counter value advances by one. We model this operation with a click
+method. A physical counter has a display to show the current value. In
+our simulation, we use a getValue method instead.
+
+
+class counter(object):
+    def __init__(self):
+        self.value = 0
+    def up(self):
+        if self.value< 9999:
+            self.value += 1
+        else:
+            0
+        return self
+    def down(self):
+        if self.value>0:
+            self.value -= 1
+        else:
+            9999
+    def res(self):
+        self.value = 0
+    def display(self):
+        print(str(self.value).rjust(4,'0'))
+
+def main():
+    c = counter()
+    c.display()
+    c.down()
+    c.display()
+    c.res().display()
+if __name__ == '__main__' :
+    main()
+print(sum(map(lambda x,y:x*y,[1,2,3,4],[11,12,13,14])))
+		
+
