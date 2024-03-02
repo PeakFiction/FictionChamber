@@ -25,8 +25,6 @@ type_col = df['Type'].to_numpy()
 df = df.drop(columns=['Type'])
 print(df.head())
 
-###########################################################################
-
 # Apply Min-Max Scaling to all attributes
 scaler = MinMaxScaler()
 df_scaled = scaler.fit_transform(df)
@@ -35,6 +33,7 @@ df_scaled = pd.DataFrame(df_scaled, columns=df.columns)
 print("========================================================")
 print("Print DataFrame after Min-Max Scaling")
 print(df_scaled.head())
+###########################################################################
 
 
 # Initialize lists to store silhouette scores

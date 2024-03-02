@@ -1,3 +1,4 @@
+# TODO: which df method should you use?
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,6 +17,9 @@ print("========================================================")
 print("Print DataFrame after Changing the Null Values to Zero")
 df.fillna(0, inplace=True)
 print(df.tail(5))
+
+type_col = df['Type'].to_numpy()
+df = df.drop(columns=['Type'])
 
 print("========================================================")
 print("Descriptive Statistics of the Dataset")
