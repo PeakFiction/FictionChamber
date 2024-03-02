@@ -39,6 +39,7 @@ print(df_scaled.head())
 k = 3
 agg_cluster = AgglomerativeClustering(n_clusters=k, linkage='complete')
 df_scaled['agg_label'] = agg_cluster.fit_predict(df_scaled)
+print(df_scaled["agg_label"])
 
 # Display the first 5 rows of the dataframe with cluster labels
 print("========================================================")
