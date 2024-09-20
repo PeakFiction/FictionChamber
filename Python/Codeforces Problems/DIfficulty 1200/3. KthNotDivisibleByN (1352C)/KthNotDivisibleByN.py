@@ -9,7 +9,11 @@ for i in range(numberOfTestCase):
     n = queryInput[0]
     k = queryInput[1]
     
-    Counter = 1
+    t = k
+    
+    d = k//n
+    
+    
     
     while len(notDivisibleList) != k:
         if Counter % n != 0:
