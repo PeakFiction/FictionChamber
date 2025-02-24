@@ -1,6 +1,11 @@
-my_list = [1, 2, 3, 4, 5]
+import numpy as np
 
-# Pick the last element using negative indexing
-last_element = my_list[-1]
+# Create a symmetric matrix
+A = np.array([[1, 2, 3],
+              [2, 4, 5],
+              [3, 5, 6]])
 
-print(last_element)
+# Extract the diagonal elements
+D = np.diag(A)
+
+print(D)
