@@ -1,11 +1,8 @@
-import numpy as np
+statement1 = "HELLO"
+statement2 = "HELLO"
 
-# Create a symmetric matrix
-A = np.array([[1, 2, 3],
-              [2, 4, 5],
-              [3, 5, 6]])
 
-# Extract the diagonal elements
-D = np.diag(A)
-
-print(D)
+if statement1 == statement2:
+    print("YES")
+else:
+    print("NO")
