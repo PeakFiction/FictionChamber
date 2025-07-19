@@ -1,137 +1,193 @@
-# Tekken 8 — **Lars Alexandersson Cheat Sheet**
+# Tekken 8 — **Lars Alexandersson Cheat Sheet**
 
-*Last updated: 21 July 2025*
+*Last updated: 21 July 2025*
 
 ---
 
 ## Legend  
-`()` = hold input `~` = instant cancel/stance entry **OB** = on block **OH** = on hit **CH** = counter‑hit  
+`()` = hold input `~` = instant cancel/stance entry **OB** = on block **OH** = on hit **CH** = counter‑hit  
 Directions use number pad notation (P1 side).
 
 ---
 
-## 1 · Neutral & Core Pressure
+## 1 · Neutral & Core Pressure
 | Move | Frames | Notes |
 |------|--------|-------|
-| **1,2** | i10 | Poke, LEN mix on `d` |
-| **d/f+1** | i13 | Mid poke, leads to `d/f+1,1~F` (DEN) |
-| **d/f+1,1** | i13 | Natural combo |
-| **b+1** | Homing | Safe keepout tool |
-| **d/b+1** | Low | ‑1 OH |
-| **d+2** | +8 OH | FC mix starter |
-| **1,1,1** | CH confirmable | |
-| **d/b+2,1** | i14 | Safe poke, ‑8 OB |
-| **FC d/f+2** | i15 | CH launcher, safe |
-| **d/b+4** | +5 OH | Sets up FC d/f+2 trap |
-| **b+4~1+2** | | On hit follow-up |
-| **3+4** | Heat engager | Sidestep trap |
-| **ss 2** | ‑6 OB | +8 (Heat) |
-| └ *CH (Right)* | → **f+3, 3+4** guaranteed |
+| **1,2** | i10 | Poke, press `d` → LEN mixup |
+| **d/f+1** | i13 | Mid poke |
+| **d/f+1,1** | i13 | Natural combo, second hit is high |
+| **b+1** | | Homing, safe keepout tool |
+| **d/b+1** | | Low poke, ‑1 OH |
+| **d+2** | | +8 OH, leads to crouch |
+| **1,1,1** | i10 | CH confirmable |
+| **d/b+2,1** | | Safe poke, ‑8 OB |
+| **FC d/f+2** | i15 | Safe CH launcher |
+| **d/b+4** | | Keepout tool, +5 OH |
+| **b+4** | | → 1+2 on hit |
+| **3+4** | | Heat engager, catches sidesteps |
+| **2,1** | i10 | Press `d` → LEN, backdash after |
+| **d/b+2** | | → SEN, +13 OH SEN 1 |
+| **DEN 3** | | Homing, +5 OB heat engager |
+| **b+1+2** | | Homing, safe, wall splat |
+| **ss 2** | | ‑6 OB, +8 on heat |
+| └ *CH (Right)* | | → **f+3, 3+4** guaranteed stomp |
 | **u/f+3+4,4** | | |
-| **f+3+4** | Heat only | +5 OB, mix starter |
+| **wr 1** | | → DEN, approach tool |
+| **f+3+4** | | Heat exclusive, +5 OB approach tool |
 
 ---
 
-## 2 · Punishers
+## 2 · Punishers
 | Move | i | Notes |
 |------|---|-------|
 | **2,1~LEN** | i10 | LEN mixup |
-| **f+2,4** | i12 | ‑12 OB, wallsplat |
-| **f+2,1~f~SEN** | i12 | +6 OH, stance mix |
-| **d/f+1,1~DEN** | i13 | Safe, leads to mix |
-| **f,N,b+2,1** | i14 | Mid launcher |
-| **f+1+2** | i15 | Mid punish |
-| **d/f+3~D~DEN** | i16 | + on hit → guaranteed **DEN 1,2** |
+| **f+2,4** | i12 | ‑12 OB, wall splat |
+| **f+2,1~f** | i12 | +6 OH → SEN |
+| **d/f+1,1** | i13 | → DEN mixups |
+| **f,N,b+2,1** | i14 | Mid launch punisher |
+| **f+1+2** | i15 | |
+| **d/f+3** | i16 | On hit guaranteed DEN 1,2 |
 | **b+3,4** | i17 | Long range punish |
 
 ---
 
-## 3 · While Standing
+## 3 · While Standing Punishers
 | Move | i | Block | Notes |
 |------|---|-------|-------|
-| **WS 4** | 11 | ‑5 | Fast poke |
-| **WS 2,1~LEN** | 13 | ‑12 | Stance mixup |
-| **WS 2,3~D~LEN** | 13 | ‑15 | More plus frames |
-| **WS 1** | 15 | ‑9 | Mid |
-| **WS 3** | 20 | ‑12 | Launcher |
+| **WS 4** | 11 | | Fast option |
+| **WS 2,1** | 13 | | → LEN |
+| **WS 2,3** | 13 | ‑15 | → LEN, more plus frames |
+| **WS 1** | 15 | | |
+| **WS 3** | 20 | | Launcher |
 
 ---
 
 ## 4 · Frame Traps
 | Setup | Frames | Trap |
 |-------|--------|------|
-| **d/b+4 (+5 OH)** | → **FC d/f+2 (i15)** |
-| **d+2 (+8 OH)** | → **FC d/f+2,3** |
-| **FC d+1+2 (+1 OH)** | → **1,1,1** |
+| **d/b+4 (+5 OH)** | → **FC d/f+2 (i15)** |
+| **d+2 (+8 OH, crouch)** | → **FC d/f+2,3** |
+| **FC d+1+2 (+1 OH)** | → **1,1,1** |
 
 ---
 
-## 5 · Homing / Tracking
-| Move | Type | OB | Notes |
-|------|------|----|-------|
-| **b+1** | Mid | Safe | Keepout |
-| **DEN 3** | Mid | +5 OB | Heat engager |
-| **SEN 4** | High | +4 OB | Homing |
-| **b+1+2** | Mid | Safe | Wall splat |
+## 5 · Stance Entry Guide
+
+### How to Enter Stances
+
+**Dynamic Entry (DEN)**
+- **f+3** (direct entry)
+- **d/f+3, D** (hold down, on hit guaranteed DEN 1,2)
+- **ws2, D** (hold down, goes backwards)
+- **d/f+1,1, F** (second hit is high)
+
+**Silent Entry (SEN)**
+- **f** during DEN
+- **DEN 3** (immediate transition)
+- **d/f+2, F**
+- **d/b+2, F**
+- **b+3, F**
+- **ws2, F**
+- **DEN 3+4, F**
+- **DEN 1, F**
+
+**Limited Entry (LEN)**
+- **2,1** (immediate transition)
+- **d/b+1,3, D**
+- **DEN 4, D**
+- **ws2,3, D**
 
 ---
 
-## 6 · Heat Engagers & Starters
-| Move | Type | Notes |
-|------|------|-------|
-| **3+4** | Mid | Tracks, safe |
-| **DEN 1,2** | Mid | Fastest from DEN |
-| **SEN 1** | Mid | Fastest from SEN |
-| **f+3+4** | Mid | +5 OB, mix starter |
-| **b+1+2** | Mid | Wallsplat |
-| **f,f+3** | Mid | Approach tool |
+## 6 · Stance Options
+
+### 6.1 Dynamic Entry (DEN)  
+*Entries:* `f+3` · `d/f+3,D` · `d/f+1,1,F` · `ws2,D` · `DEN 3+4,F` · `DEN 1,F`
+
+| Command | Notes |
+|---------|-------|
+| **DEN 1,2** | Heat engager, fastest option |
+| **DEN 2** | CH launcher, hits grounded |
+| **DEN 1+2** | Tornado on normal hit, ‑10 OB, i12 |
+| **DEN 3** | Homing, +5 OB, heat engager |
+| **DEN 4** | Low, +1 OH |
+| **DEN 3+4** | Low stomp, Heat safe knockdown, hold `F` → SEN |
+
+### 6.2 Silent Entry (SEN)  
+*Entries:* `DEN f` · `d/f+2,F` · `d/b+2,F` · `b+3,F` · `ws2,F` · `DEN3+4,F` · `DEN1,F`
+
+| Command | Notes |
+|---------|-------|
+| **SEN 1** | Heat engager, fastest option |
+| **SEN 1+2** | Tornado, wall crush |
+| **SEN 2** | Low, ‑12 OB |
+| **SEN 3** | Launcher, ‑13 OB |
+| **SEN 4** | Homing high, +4 OB |
+| **SEN 3+4** | Floor break, 0 OB |
+
+### 6.3 Limited Entry (LEN)  
+*Entries:* `2,1` · `d/b+1,3,D` · `DEN 4,D` · `ws2,3,D`
+
+| Command | Notes |
+|---------|-------|
+| **LEN 1** | Low, ‑12 OB |
+| **LEN 2** | Tornado, safe ‑9 |
+| **LEN 3 or WS 3** | Press `D` → LEN |
+| **Other buttons** | Normal WS moves |
+| **Orbital** | Beats lows/dickjabs |
 
 ---
 
-## 7 · Stance Reference
+## 7 · Stance Transitions
 
-### 7.1 Dynamic Entry (DEN)  
-*Entries:* `f+3` · `d/f+3,D` · `d/f+1,1,F` · `ws2,D` · `DEN 3+4,F` · `DEN 1,F`
+### Direct Entries from Neutral
+| Input | Destination | Notes |
+|-------|------------|-------|
+| **d/f+2, F** | SEN | |
+| **d/b+2, F** | SEN | |
+| **b+3, F** | DEN | |
+| **ws2, F** | SEN | |
+| **ws2, D** | DEN | Creates whiffs (Lars goes backwards) |
+| **d/b+1+2, D** | DEN | Backswing blow |
+| **2,1** | LEN | Direct entry |
+| **1,4, D** | LEN | |
+| **ws2,3, D** | LEN | |
+| **d+2, D** | WS/Crouch | 0 OB, leads to WS moves |
 
-| Command | Notes |
-|---------|-------|
-| **DEN 1,2** | Heat engager |
-| **DEN 2** | CH launcher, hits grounded |
-| **DEN 1+2** | Tornado on NH, ‑10 OB |
-| **DEN 3** | Homing, +5 OB |
-| **DEN 4** | Low, +1 OH |
-| **DEN 3+4** | Low stomp, Heat safe KD, `F` → SEN |
+### Stance-to-Stance Transitions
+| From | Input | To | Notes |
+|------|-------|----|----|
+| **DEN** | `F` | SEN | |
+| **DEN** | `3+4, F` | SEN | |
+| **DEN** | `1, F` | SEN | |
+| **DEN** | `4, D` | LEN | |
+| **DEN** | `B` | DEN | Backwards in stance |
+| **SEN** | `D` | LEN | |
+| **SEN** | `B` | DEN | Backwards to DEN |
+| **SEN** | `2` | WS | Frame trap ws2 on hit |
+| **LEN** | `2` | WS | Safe transition |
+| **LEN** | `3, D` or `WS3, D` | LEN | |
 
-### 7.2 Silent Entry (SEN)  
-*Entries:* `DEN f` · `df2,F` · `db2,F` · `b3,F` · `ws2,F` · `DEN3+4,F` · `DEN1,F`
+### Frame Traps & Special Properties
+| Setup | Frame Advantage | Follow-up |
+|-------|----------------|-----------|
+| **SEN 4** | +4 OB | d/f+2 frame trap |
+| **SEN 2** | Crouch | ws2 frame trap on hit |
+| **d+2** | 0 OB | Crouch mixup |
 
-| Command | Notes |
-|---------|-------|
-| **SEN 1** | Heat engager |
-| **SEN 1+2** | Tornado, wall crush |
-| **SEN 2** | Low, ‑12 OB |
-| **SEN 3** | Launcher, ‑13 OB |
-| **SEN 4** | Homing high, +4 OB |
-| **SEN 3+4** | Floor break, 0 OB |
-
-### 7.3 Limited Entry (LEN)  
-*Entries:* `2,1` · `db1,3,D` · `DEN 4,D` · `ws2,3,D`
-
-| Command | Notes |
-|---------|-------|
-| **LEN mixups** | Not documented in detail |
+*See visual flowchart diagram below for complete stance system overview.*
 
 ---
 
 ## 8 · Combo Starters / Routes
 | Starter | Example Follow‑up |
 |---------|------------------|
-| **d/f+3~D** | → DEN 1,2 |
-| **f,N,b+2,1** | Dash combo |
-| **b+3,4** | Wall carry |
-| **SEN 3** | → f+3, 3+4 |
-| **CH ss2 (right)** | → f+3, 3+4 |
-| **WR 1** | → DEN |
-| **FC d/f+2** | → FC combo |
+| **d/f+3~D** | → DEN 1,2 |
+| **f,N,b+2,1** | Mid launcher |
+| **b+3,4** | Long range wall carry |
+| **SEN 3** | Launcher combo |
+| **CH ss2 (right)** | → f+3, 3+4 stomp |
+| **WR 1** | → DEN approach |
+| **FC d/f+2** | CH launcher combo |
 
 ---
