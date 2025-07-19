@@ -1,8 +1,8 @@
-statement1 = "HELLO"
-statement2 = "HELLO"
+inputString = input()
+splitInputString = inputString.split()
 
-
-if statement1 == statement2:
-    print("YES")
-else:
-    print("NO")
+print(splitInputString)
+newIntString = [int(x) for x in splitInputString ]
+print(newIntString)
+print(newIntString[0])
+print(newIntString[1])
