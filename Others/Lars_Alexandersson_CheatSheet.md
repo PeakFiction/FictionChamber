@@ -165,7 +165,7 @@ Directions use number pad notation (P1 side).
 | **SEN** | `D` | LEN | |
 | **SEN** | `B` | DEN | Backwards to DEN |
 | **SEN** | `2` | WS | Frame trap ws2 on hit |
-| **LEN** | `2` | WS | Safe transition |
+| **LEN** | `1` | WS | Safe transition |
 | **LEN** | `3, D` or `WS3, D` | LEN | |
 
 ### Frame Traps & Special Properties
