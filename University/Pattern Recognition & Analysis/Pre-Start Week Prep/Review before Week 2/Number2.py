@@ -8,8 +8,8 @@ def FactorialUpToN(n):
         i += 1
         factorial = factorial * i
         
-    
     return resultList
 
 
 print(FactorialUpToN(10010))
+
