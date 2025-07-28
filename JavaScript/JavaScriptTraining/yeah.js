@@ -1,1 +1,1 @@
-console.log("FUck you".startsWith("F"));
+console.log("OH YEAH")
