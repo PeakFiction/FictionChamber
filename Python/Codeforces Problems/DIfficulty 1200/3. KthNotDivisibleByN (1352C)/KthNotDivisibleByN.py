@@ -1,25 +1,25 @@
-numberOfTestCase = int(input())
-outputlist = []
+testCaseInputs = int(input())
 
-for i in range(numberOfTestCase):
+def mainAlgo(n, k):
+    counter = 0
     notDivisibleList = []
-    query = input()
-    queryListed = query.split()
-    queryInput = [int(element) for element in queryListed]
-    n = queryInput[0]
-    k = queryInput[1]
+    for i in range(n*k):
+        if counter % n != 0:
+            notDivisibleList.append(counter)
+        counter += 1
     
-    Counter = 1
+    return notDivisibleList
+
+for i in range(testCaseInputs):
+    mainInput = input()
+    mainInputSplit = mainInput.split()
+    mainInputQuery = [int(element) for element in mainInputSplit]
     
-    while len(notDivisibleList) != k:
-        if Counter % n != 0:
-            notDivisibleList.append(Counter)
-        else:
-            pass
-        Counter = Counter + 1
-    lastnumber = notDivisibleList[-1]
-    outputlist.append(lastnumber)
+    n = mainInputQuery[0]
+    k = mainInputQuery[1]
+    
+    print(mainAlgo(n, k)[k-1])
 
 
-for i in outputlist:
-    print(i)
+
+
