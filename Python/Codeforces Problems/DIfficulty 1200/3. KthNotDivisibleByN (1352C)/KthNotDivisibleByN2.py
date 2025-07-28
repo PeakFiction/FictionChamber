@@ -1,23 +1,12 @@
-totalQuery = int(input())
+testCaseNumber = int(input())
 
-output = []
-
-for i in range(totalQuery):
+for i in range(testCaseNumber):
+    inputString = input()
+    splitInputString = inputString.split()
+    intedInputString = [int(x) for x in splitInputString]
+    nNumber = intedInputString[0]
+    kNumber = intedInputString[1]
+    # k + (k // n)
     
-    initialInput = input()
-    splitInput = initialInput.split()
-    intedInput = [int(element) for element in splitInput]
-    n = intedInput[0]
-    k = intedInput[1]
-    
-    if k < n:
-        output.append(k)
-    else:
-        quotient = k // n
-        remainder = k % n 
-        finalK = k + quotient + remainder
-        output.append(finalK)
-        
-print("________________")
-for _ in output:
-    print(_)
+    result = kNumber + (kNumber // nNumber)
+    print(result)

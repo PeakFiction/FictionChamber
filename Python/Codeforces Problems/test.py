@@ -1,11 +1,8 @@
-import numpy as np
+inputString = input()
+splitInputString = inputString.split()
 
-# Create a symmetric matrix
-A = np.array([[1, 2, 3],
-              [2, 4, 5],
-              [3, 5, 6]])
-
-# Extract the diagonal elements
-D = np.diag(A)
-
-print(D)
+print(splitInputString)
+newIntString = [int(x) for x in splitInputString ]
+print(newIntString)
+print(newIntString[0])
+print(newIntString[1])
