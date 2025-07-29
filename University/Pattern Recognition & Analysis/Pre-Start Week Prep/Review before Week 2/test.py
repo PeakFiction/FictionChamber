@@ -1,5 +1,10 @@
-numbers = 1
+test = input()
+print(test)
 
-for i in range(10):
-    print(numbers)
-    numbers = numbers + 1
+test.split()
+
+print()
+print(test)
+
+bool_checks = [el.isdigit() for el in elements]
+print(bool_checks)
