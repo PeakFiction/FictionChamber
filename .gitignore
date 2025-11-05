@@ -1,0 +1,7 @@
+# macOS crap
+.DS_Store
+**/.DS_Store
+
+# Node modules anywhere
+node_modules/
+**/node_modules/
