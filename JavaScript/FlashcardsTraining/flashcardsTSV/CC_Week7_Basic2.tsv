@@ -1,0 +1,39 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 7
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week7 VectorDB RAG INFS3208
+What is a vector database?	A database that stores, indexes, and queries vector embeddings (numeric representations of text/images/audio/etc.) for fast similarity search and nearest‑neighbour queries.
+Why vector databases (concise)?	They handle unstructured/high‑dimensional data, enable efficient similarity search, integrate with AI/ML pipelines, and scale horizontally for modern applications.
+Common vector DB use cases	Retrieval‑Augmented Generation (RAG), recommender systems, anomaly detection, and image similarity search.
+What is a vector embedding?	A dense numeric vector that represents an item in a high‑dimensional space; distances between vectors reflect semantic similarity.
+What is similarity search?	Retrieval based on closeness of vectors (e.g., Euclidean, cosine, inner product), not exact string/field matches.
+What is indexing (in vector DBs)?	Data structures/algorithms that accelerate nearest‑neighbour search in high‑dimensional spaces (e.g., HNSW, IVFPQ).
+RDB vs Vector DB — data representation	RDB: tables/rows/columns for structured data. Vector DB: multi‑dimensional vectors for complex/unstructured data.
+RDB vs Vector DB — search & retrieval	RDB: SQL over structured fields. Vector DB: similarity search over embeddings; retrieve by closest vectors.
+RDB vs Vector DB — indexing focus	RDB: B‑trees and similar. Vector DB: metric/graph/quantization indexes (e.g., HNSW, IVFPQ).
+Similarity measure — Euclidean (L2)	Distance preserving magnitude; smaller distance = more similar.
+Similarity measure — Inner product	Measures both magnitude and alignment; larger value = more similar.
+Similarity measure — Cosine similarity	Measures orientation; independent of vector length; closer to 1 = more similar.
+What is a vector index?	A structure that organizes vectors to support fast nearest‑neighbour/similarity queries.
+Flat index (brute force) — what/when	Exact search over all vectors; highest accuracy but slow. Good for low dimensions, small datasets, simple/low‑volume queries, real‑time ingestion, and benchmarking.
+HNSW — what is it	A multi‑layer proximity graph; search walks edges from an entry point to close neighbours; designed for high‑dimensional, large datasets.
+HNSW — when to use	High‑dimensional data, large scale, fast/approximate NN search, dynamic updates, and distributed environments.
+Product Quantization (PQ) — idea	Lossy compression: split vectors into sub‑vectors, train codebooks with k‑means, encode segments by codebook IDs for compact storage and fast approximate distance.
+IVFPQ — training (high level)	1) Partition space with an inverted file (Voronoi cells). 2) Store residuals (vector−centroid). 3) Apply PQ on residuals to build codebooks.
+IVFPQ — query (high level)	1) Find top‑k nearest centroids. 2) Compute query residuals per centroid. 3) Split residual, lookup partial distances via codebooks. 4) Sum partials; maintain top results (e.g., max‑heap).
+Inverted index — concept refresher	Reverses data→locations mapping (e.g., term→document list). In vector settings, partitions map to lists of candidate vectors to probe.
+Vector DB types — in‑memory / disk / distributed	In‑memory: RAM‑resident, ultra‑low latency (e.g., RedisVL/TorchServe). Disk‑based: larger‑than‑memory datasets (e.g., Milvus, ANNOY, ScaNN). Distributed: multi‑node scale/out (e.g., FAISS + sharding, Elasticsearch w/ vectors).
+Other types — graph‑based / time‑series	Graph‑based (Neo4j/TigerGraph/Neptune) capture relationships via nodes/edges; time‑series (InfluxDB/Timescale/Prometheus) use vectors for temporal patterns/anomalies.
+FAISS — key features	Open‑source (FAIR). Efficient similarity search & clustering, many index types, CPU/GPU acceleration, integrates with Python/C++.
+RAG — definition	Method that retrieves relevant context (from a vector DB or other store) and conditions a generator (LLM) to produce accurate, grounded responses.
+RAG — pipeline steps (generic)	1) User query → 2) Embed/query vector DB → 3) Retrieve Top‑K contexts → 4) Build prompt with context → 5) LLM generates answer.
+Why RAG (vs pure generation)	Addresses factual/context gaps of LLMs by grounding outputs in retrieved, up‑to‑date sources.
+RAG — example use cases	Employee knowledge assistants, analysis/report assistants, customer‑support chatbots.
+Why anomaly detection with vector DBs	High‑dimensional anomalies occur across domains; vector DBs support real‑time, scalable similarity/outlier search.
+Anomaly detection — core challenges	Curse of dimensionality, sparsity, and overfitting in high‑D data.
+Anomaly detection — vector DB advantages	Optimized storage of embeddings, horizontal scalability, fast vector metrics, and support for engineered features.
+Tutorial Q1 — What is a vector database? (exam‑style)	Store/index/query embeddings; enable nearest‑neighbour similarity search across unstructured/high‑D data.
+Tutorial Q2 — Why do we need vector DBs? (exam‑style)	To search un/semi‑structured data by meaning, scale to large/high‑D corpora, and integrate with AI pipelines (RAG/recs/anomaly).
+Tutorial Q3 — Indexes in FAISS (summary)	Flat: exact, slow, small datasets. HNSW: graph‑based, fast NN on high‑D/large data. IVFPQ: inverted lists + PQ for compressed, approximate search at scale.

@@ -1,0 +1,47 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 11
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week11 MapReduce Security Hashing Encryption Signatures INFS3208
+What is Hadoop (concise)?	Open‑source framework for distributed storage and processing of large datasets. Core: HDFS (storage), MapReduce (compute), YARN (cluster manager).
+Why Hadoop (design assumptions)?	Petabyte‑scale data; commodity hardware; frequent failures; batch processing; move computation to data; simple programming model.
+MapReduce — one‑liner definition	Distributed computation model that transforms input <key,value> pairs into output <key,value> pairs via parallel Map and Reduce functions.
+Map function — role & signature	Processes each input record and emits zero or more intermediate <k2,v2> pairs. Applied in parallel to all splits.
+Reduce function — role & signature	Consumes grouped <k2, list(v2)> and emits final <k3,v3>. Typically aggregates per key.
+MapReduce I/O types (table gist)	Input: <k1,v1> → Map → list(<k2,v2>) → shuffle/sort → Reduce(<k2, list(v2)>) → <k3,v3>.
+No direct mapper/reducer communication	Mappers don’t talk to mappers; reducers don’t talk to reducers. Coordination happens via shuffle/sort and the framework.
+MapReduce job components (MRv1)	Client submits job → JobTracker schedules/monitors → TaskTrackers run Map/Reduce tasks; heartbeat for health.
+MapReduce workflow (high level)	1) InputFormat selects files & creates InputSplits; 2) RecordReader turns splits into records; 3) Map emits intermediates; 4) Optional Combiner; 5) Partitioner assigns reducers; 6) Shuffle & Sort; 7) Reduce; 8) OutputFormat writes results.
+InputFormat — purpose	Defines how input is split & read; creates InputSplits that determine number of map tasks.
+InputSplit — meaning	Logical chunk of input processed by one map task; not necessarily a full HDFS block boundary.
+RecordReader — purpose	Converts split data into <key,value> records for the mapper.
+Mapper output storage	Intermediate map output is written to local disk (spill/merge); not HDFS to avoid replication overhead.
+Combiner — purpose & when safe	Local aggregation of mapper output to reduce shuffle size. Safe when the reduce function is associative and commutative (e.g., sum).
+Partitioner — purpose	Assigns intermediate keys to reducers (often hash‑based). All identical keys go to the same reducer. Count equals number of reducers.
+Shuffle & Sort — purpose	Moves and groups intermediate data by key to reducers; sorts keys within partitions; major network/disk cost stage.
+OutputFormat — purpose	Controls how reducer outputs are written to HDFS (one file per reducer in target directory).
+Word Count — pipeline	text → flatMap to words → map(word→(word,1)) → optional combiner(sum) → reduceByKey(sum) → write results.
+Max monthly temperature by year — idea	Map: (YYYYMM,temp) → (YYYY,temp). Combiner/Reduce: take max per year.
+Average temperature by year — with combiner	Map: (YYYYMM,temp) → (YYYY,(sum=temp,count=1)). Combiner: sums partials. Reduce: total_sum/total_count.
+Word length distribution — idea	Map: emit (len(word),1). Reduce: sum counts per length to get histogram.
+Mutual friends — idea	Map: for person P with friends F, emit ((min(P,f),max(P,f)), F). Reduce: intersect friend lists to get mutuals.
+Inverted index — definition & goal	Index mapping term → list of documents (and positions). Enables fast full‑text search over large corpora.
+Legacy MR vs modern engines (2025)	MR remains for archival batch; modern pipelines prefer Spark/Flink/Beam for speed, memory, streaming, and flexibility.
+Hive — what & when	SQL‑like warehouse on Hadoop (schema‑on‑read); translates HiveQL to MapReduce; suited for OLAP, not OLTP.
+Hive data model	Tables (dirs in HDFS) → Partitions (subdirs) → Buckets (files via hash).
+OLTP vs OLAP (contrast)	OLTP: transactional, frequent small updates, low latency. OLAP: analytical, large scans/aggregations, not time‑critical.
+Pig/Pig Latin — what & why	High‑level dataflow language on Hadoop (can run on MR or Spark); supports UDFs; fewer lines than Java MR for pipelines.
+Hive vs Pig — key difference	Hive: declarative SQL‑style for reporting; Pig: procedural dataflows for ETL/adhoc analysis.
+Encryption vs Hashing vs Digital Signature (one‑liners)	Encryption: reversible confidentiality with a key. Hashing: one‑way fixed‑length digest for integrity. Digital signature: sign with private key so anyone can verify authenticity/integrity.
+Symmetric vs Asymmetric encryption	Symmetric: same key to encrypt/decrypt (fast; e.g., AES). Asymmetric: key pair (public/private) for encrypt or key exchange (e.g., RSA, ECC).
+When to use symmetric vs asymmetric	Use symmetric for bulk data; use asymmetric for key exchange, identity, and small messages; combine in protocols (e.g., TLS).
+Block vs stream cipher (examples)	Block: encrypts fixed‑size blocks (AES). Stream: encrypts byte/bit streams (ChaCha20).
+Cipher modes (why GCM/CTR over ECB)	ECB leaks patterns; CTR/GCM provide semantic security; GCM adds authenticated encryption (confidentiality+integrity).
+Cryptographic hash properties	Preimage‑resistant; second‑preimage‑resistant; collision‑resistant; fixed length; avalanche effect. Examples: SHA‑256/512.
+Password storage best practice	Use salted, slow KDFs (PBKDF2/bcrypt/scrypt/Argon2). Never store raw hashes; add pepper at app layer when possible.
+MAC/HMAC vs Digital Signature	HMAC: integrity+auth using shared secret (fast; symmetric). Signature: integrity+auth/non‑repudiation using private/public keys (asymmetric).
+PKI & certificates (what they add)	Bind a public key to an identity via a certificate signed by a trusted CA; enables trust chains and revocation.
+Encryption at rest vs in transit	At rest: disk/object‑store encryption (keys via KMS). In transit: TLS with forward secrecy (ECDHE) and AEAD ciphers.
+TLS handshake (very high level)	Negotiate cipher suite; exchange ephemeral keys (ECDHE); server proves identity (cert); derive shared secret; switch to symmetric AEAD for data.
+Cloud security mechanisms (exam‑style list)	IAM & RBAC; network controls (VPC/SG/WAF); encryption (KMS, TLS); key management & rotation; logging/monitoring (SIEM); backups & DR; secrets management; compliance.

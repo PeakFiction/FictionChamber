@@ -1,0 +1,48 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 9
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week9 Spark RDD PairRDD SQL MLlib INFS3208
+RDD — definition	Immutable, distributed collection of elements partitioned across nodes; supports transformations (lazy) and actions (eager); resilient via lineage.
+Create RDD — textFile(path[, partitions])	Loads files/dirs/wildcards/compressed from local/HDFS/S3, etc. Optional partitions. Local paths must be accessible on all workers.
+Create RDD — parallelize(collection[, partitions])	Creates an RDD from a local in-memory collection (useful for learning/tests).
+Default partitions & setting	spark.default.parallelism; local: CPU cores; Standalone/YARN: max(2, total_cpus); Mesos default 8.
+Change partitions — repartition(n)	Returns a new RDD with n partitions (full shuffle).
+Transformation: map	Apply a function to each element → new RDD.
+Transformation: filter	Keep elements where predicate is true → new RDD.
+Transformation: flatMap	Map each element to 0..N outputs (e.g., split lines to words).
+Transformation: distinct	Remove duplicates (shuffle; can be expensive).
+Transformation: union vs intersection vs subtract	union keeps duplicates; intersection returns common elements and removes duplicates (shuffle); subtract = A minus B (shuffle).
+Transformation: cartesian	All pairs (a,b) with a∈A, b∈B; very expensive at scale.
+Action: collect	Return all elements to the driver; only safe for small results.
+Action: count / countByValue	count = total elements; countByValue = map of value→count.
+Action: reduce(func)	Aggregate all elements with associative+commutative func (e.g., sum).
+Action: first / take(n) / top(n) / takeSample(...)	Inspect sample/top elements quickly; may be biased by partition order.
+Action: foreach(func)	Run a function for side effects on each element (e.g., write/update).
+Cache/Persist RDD	cache() = MEMORY_ONLY; persist(level) for other levels; unpersist() to drop; LRU eviction when memory is full.
+Broadcast variables	Read-only data sent once per executor; accessed via .value; reduces network overhead for lookups/models.
+Accumulators	Write-only from workers, read on driver; for counters/sums with associative+commutative ops.
+Create Pair RDDs	Use map(x => (key, value)) or extract pairs from data (e.g., (word,1)).
+reduceByKey(func) — what	Aggregate values per key with func: (V,V)→V; returns (K,V). More efficient than groupByKey+reduce.
+groupByKey() — what	Group values per key: (K, Iterable[V]); causes shuffle; often followed by a reduce/map.
+reduceByKey vs groupByKey	reduceByKey combines values locally before shuffle; groupByKey shuffles all values; prefer reduceByKey for aggregations.
+keys / values	Extract keys or values as new RDDs.
+mapValues(func)	Transform values only; keys unchanged.
+sortByKey([asc])	Sort (K,V) pairs by key (ascending default; false for descending).
+join(other)	Join (K,V) with (K,W) → (K,(V,W)); outer joins available.
+countByKey / collectAsMap / lookup(k)	Count items per key; collect as map; get all values for key k.
+partitionBy(partitioner) for pair RDDs	Hash-partition pair RDDs to reduce shuffle in joins/aggregations; preserves partitioner for later ops.
+repartition vs partitionBy — difference	repartition works on any RDD via full shuffle; partitionBy applies a Partitioner to pair RDDs and keeps it for downstream ops.
+Example — word count pipeline	textFile → flatMap(split) → map(word→(word,1)) → reduceByKey(_+_) → sortByKey or sortBy(count,false).
+Example — average marks per student	mapValues(score→(sum=score,count=1)) → reduceByKey((a,b)=>(a.sum+b.sum,a.c+b.c)) → mapValues(sum/count).
+Example — top-5 numeric	parse→map(toDouble) → sortBy(x,false) → take(5).
+Example — file sorting across many files	textFile on directory/wildcards → sortBy(key/line) → saveAsTextFile(dir).
+Example — MovieLens average rating	ratings: (movieId,rating) groupByKey or reduceByKey(sum,count)→avg; movies: (movieId,title); join → sortBy(avg,false) → take(100).
+Load text & save text	sc.textFile(path[,minPartitions]); rdd.saveAsTextFile(pathDir). Paths are directories; output written in multiple part files.
+Load JSON (Scala)	scala.util.parsing.json.JSON.parseFull returns Some(map) or None for a JSON string.
+Spark SQL — what	Module for working with structured data via DataFrames/Datasets and SQL.
+Spark SQL — basic usage	spark.read.format('json/csv/parquet').load(...) → df.select/filter/groupBy/agg → df.createOrReplaceTempView('t'); spark.sql('SELECT ... FROM t').
+Spark MLlib — what	Machine learning library with Estimators, Transformers, Pipelines, Evaluators.
+MLlib — typical workflow	Load DataFrame → feature engineering (StringIndexer, OneHotEncoder, VectorAssembler) → train/test split → fit(model) → transform → evaluate → save.
+MLlib — common algorithms	Classification/Regression (LogReg, GBT, RandomForest), Clustering (KMeans), Recs (ALS), feature transformers, evaluators (Binary/Multiclass/Regression).

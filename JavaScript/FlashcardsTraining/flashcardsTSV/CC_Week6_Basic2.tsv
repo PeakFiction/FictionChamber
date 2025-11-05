@@ -1,0 +1,52 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 6
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week6 Databases NoSQL RDBMS INFS3208
+What is a database?	A shared, integrated computer structure that stores end‑user data and metadata for efficient search, update, and management.
+Why use a DBMS? (core benefits)	Program–data independence; controlled redundancy & sharing; concurrent multi‑user access; backup & recovery; standard query language; optimizers; integrity constraints.
+Relational database (one‑liner)	Data stored in formally described tables; accessed/recombined in many ways via relational algebra (selection, projection, join/union/diff, etc.).
+Key relational terms	Entity/Table; Attribute/Column; Record/Row; Relationship; Data; Metadata.
+Database schema (what is it)	The formal blueprint of how data is organized in the DBMS (tables, fields, relationships).
+SQL statement types	DDL (CREATE/DROP/ALTER), DML (SELECT/INSERT/UPDATE/DELETE), DCL (GRANT/REVOKE), TCL (COMMIT/ROLLBACK).
+Normalization goals (why)	Minimize redundancy and anomalies; each table = single subject; non‑key attributes depend on the primary key; aim ≥ 3NF.
+ACID: Atomicity	All parts of a transaction succeed or none do; on failure, rollback leaves DB unchanged.
+ACID: Consistency	Transactions move the DB from one valid state to another while enforcing rules/constraints.
+ACID: Isolation	Concurrent transactions don’t interfere; effects are as if executed serially.
+ACID: Durability	Once committed, effects persist even after crashes (via logs/replication).
+Clustered RDBMS (what & examples)	Distributed/HA RDBMS for ACID at scale. Examples: MySQL NDB Cluster, CockroachDB, Amazon Aurora. Pros: HA/throughput. Cons: complexity, resource heavy.
+ACID trade‑offs (cons, high level)	Overheads from locks/logging/coordination can hurt throughput and horizontal scalability, especially in distributed settings.
+What is NoSQL?	“Not only SQL”: distributed, fault‑tolerant DBs without fixed schemas or joins; complements RDBMS.
+Why NoSQL (web‑scale needs)	Massive concurrency; global availability; horizontal scale; semi/unstructured data; rapid change.
+Key‑value store (definition + use)	Map key→value; very fast reads/writes; great for sessions, caching, carts; weak for complex queries. Examples: Redis, Riak, Memcached.
+Document store (definition + use)	Stores JSON/BSON‑like documents with nested fields; flexible schemas; multi‑indexing. Examples: MongoDB, CouchDB.
+Columnar vs wide‑column (contrast)	Columnar: column‑oriented layout for analytics/OLAP (ClickHouse, MariaDB columnstore). Wide‑column: schema‑flex table with column families (Cassandra, HBase, Bigtable).
+Wide‑column store (use cases)	Time‑series, large‑scale personalization, analytics with horizontal scale across many nodes.
+Graph database (one‑liner + use)	Nodes/edges to model relationships; suited to social networks, knowledge graphs, routing, bioinformatics.
+Database partitioning (why)	Improve scalability, performance, availability, security, and operational flexibility by splitting data.
+Vertical partitioning (definition)	Split an entity’s columns across partitions (e.g., frequent vs sensitive fields); ideal for wide‑column stores like HBase/Cassandra.
+Horizontal partitioning / Sharding (definition)	Split rows by key across shards/servers; choose good shard key; balance load; avoid hotspots; used by SQL and NoSQL.
+Hashing in NoSQL (purpose)	Fast O(1) lookups; even data distribution; load balancing. Often: hash(key) % N to pick node/shard.
+Redis hashing (cluster)	Keys map to 16,384 hash slots via CRC16; slots assigned to nodes for distribution and failover.
+MongoDB hashing (use)	Hashed sharding for even distribution by shard key; hashed indexes support it; geohash for geospatial indexes.
+CAP theorem (define C/A/P)	A distributed store can provide at most two of: Consistency (latest read), Availability (always responds), Partition tolerance (works through network splits).
+CAP options (CA/AP/CP)	CA: consistent & available (no partitions). AP: available & partition‑tolerant (eventual consistency). CP: consistent & partition‑tolerant (may reject during splits).
+BASE (vs ACID)	Basically Available, Soft state, Eventually consistent—typical for many NoSQL systems under partitions.
+CAP positions: MongoDB / Cassandra / HBase	MongoDB: CP‑leaning; Cassandra: AP (tunable consistency); HBase: CP.
+Choose NoSQL by scenario (examples)	Likes counter/catalog browsing: favor availability → AP. Monetary transactions/seat booking: favor consistency → CP.
+MongoDB data model	Database → Collections → Documents (BSON) → Fields; schema‑free; documents can embed arrays/documents.
+JSON vs BSON (MongoDB)	JSON is text‑based; BSON is binary JSON‑like with types, efficient to store/scan.
+MongoDB CRUD (verbs)	Create: insertOne/Many; Read: find/findOne (+operators); Update: updateOne/Many/replaceOne; Delete: deleteOne/Many.
+MongoDB query operators (examples)	$eq,$ne,$gt,$gte,$lt,$lte,$in,$nin,$and,$or,$not,$nor,$exists.
+MongoDB write atomicity	Writes are atomic at the single‑document level.
+MongoDB CAP stance	Focus on Consistency + Partition tolerance (CP) with replica sets; availability may be limited during partitions.
+Cassandra architecture (core)	Peer‑to‑peer, no single master; any node accepts reads/writes; data replicated; gossip protocol for membership/failure detection.
+Cassandra write path	Commit log → Memtable → SSTable on flush; compaction merges SSTables; writes auto‑partitioned & replicated.
+Cassandra read path	Check memtable, then SSTables; merge results; bloom filters/indexes help locate partitions.
+Cassandra CAP stance	AP by default; tune replication factor and consistency level (e.g., QUORUM) to trade availability for stronger consistency.
+HBase on HDFS (what)	Open‑source Bigtable‑like wide‑column store running on HDFS; optimized for random reads/writes, not batch scans.
+HBase data model (4 keys)	Row key, Column family, Column qualifier, Timestamp; cells are versioned; values are byte arrays (no fixed type).
+HBase vs HDFS (when to use)	Use HDFS for large batch scans; use HBase for online record lookup, incremental inserts, and updates (not in place).
+HBase basics (shell)	list, create, put, get, scan, disable, drop; CRUD ≈ PUT/GET/PUT/DELETE.
+Quick compare: Cassandra vs HBase vs MongoDB vs Redis	Cassandra: AP wide‑column, P2P. HBase: CP wide‑column on HDFS. MongoDB: CP document. Redis: CP key‑value (in‑memory).

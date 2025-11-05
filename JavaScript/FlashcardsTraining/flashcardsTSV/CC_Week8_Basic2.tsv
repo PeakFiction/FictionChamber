@@ -1,0 +1,38 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 8
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week8 Spark RDD DAG Shuffle Dataproc INFS3208
+Tutorial Q1 — What is Apache Spark?	Open‑source distributed cluster‑computing framework for in‑memory analytics. Provides implicit data parallelism and fault tolerance; faster and more general than classic Hadoop MapReduce.
+Tutorial Q1 — Spark vs Hadoop MapReduce (exam‑style)	Spark: in‑memory, low‑latency, supports iterative/interactive workloads, unified stack (SQL/Streaming/ML/Graph). MapReduce: disk‑based, higher latency, batch‑oriented; fewer ops per job.
+Tutorial Q2 — What is an RDD?	Resilient Distributed Dataset: immutable, partitioned collection of elements across nodes; supports transformations (build new RDDs) and actions (compute results). Can be recomputed from lineage on failure.
+Tutorial Q3 — How does Spark work (high level)?	You create RDDs/DataFrames and transformations; at an action, Spark builds a DAG, splits it into stages, schedules tasks per partition on executors via a cluster manager; results are returned or written out.
+Define Apache Spark (one‑liner)	Distributed, general‑purpose cluster computing engine optimized for in‑memory processing and data‑parallel workloads.
+Why is Spark fast?	Primarily in‑memory execution, fewer disk I/Os, DAG scheduler optimizing stages and pipelining narrow deps.
+Spark unified stack — name the components	Spark Core, Spark SQL (DataFrames/Datasets), Spark Streaming (micro‑batch), MLlib, GraphX.
+Spark — supported languages	Scala, Python, Java, R, and SQL shells.
+Where can Spark run? (cluster managers)	Standalone, YARN, Mesos, Kubernetes.
+What data sources can Spark access?	HDFS, Hive, HBase, Cassandra, JDBC, JSON/Parquet files, and more via connectors.
+RDD properties (3 keywords)	Immutable, distributed (partitioned), and resilient (recoverable via lineage).
+Two kinds of RDD operations	Transformations (lazy, return new RDD) and Actions (trigger execution, return value or write out).
+Common transformations (examples)	map, filter, flatMap, union, sortByKey, join (and left/right/full outer joins).
+Common actions (examples)	collect, count, reduce, first, take, foreach.
+Lazy evaluation (what/why)	Transformations are recorded; execution is deferred until an action to allow global optimization and fewer passes.
+RDD lineage graph (purpose)	Tracks dependencies so Spark can recompute lost partitions and optimize execution.
+Persistence vs cache (why/when)	Persist/cache intermediate RDDs to speed iterative/interactive jobs or expensive chains; MEMORY_ONLY by default; persist() lets you choose memory/disk/off‑heap.
+Spark job / stage / task (define)	Job: work triggered by an action. Stages: contiguous sets of ops separated by shuffles. Tasks: per‑partition units executed by executors.
+Driver / Executors (roles)	Driver hosts SparkContext and schedules jobs; Executors run tasks and keep cached data.
+SparkContext (role)	Main entry point; configures app, creates RDDs, coordinates with cluster manager, tracks cached RDDs.
+Cluster manager (options)	Standalone, YARN, Mesos, Kubernetes — allocate resources and launch executors.
+What is a DAG in Spark?	An optimized execution plan of stages and tasks derived from transformations once an action is called.
+Narrow dependency (examples)	Each child partition depends on at most one parent partition; allows pipelining. Examples: map, filter, flatMap, union.
+Wide dependency (examples)	Child partitions depend on multiple parent partitions; requires shuffle. Examples: groupByKey, reduceByKey, join (without co‑partitioning).
+What triggers a shuffle?	Operations that require repartitioning/aggregation across keys: join, groupByKey, reduceByKey, combineByKey, etc.
+Why is shuffle expensive?	Disk I/O, serialization, and network I/O; creates many intermediate files.
+How are stages generated?	DAG Scheduler groups narrow transformations into stages and splits at wide dependencies (shuffle boundaries).
+Two ways to run Spark in cloud (from slides)	1) On your own K8s/Swarm/GKE cluster (you manage Spark). 2) Managed service (e.g., Dataproc/EMR/HDInsight) that provisions Spark/Hadoop for you.
+Dataproc demo — Task 1 (SQL)	Read NYC TLC 2022 table from BigQuery; compute avg trip distance and total fare amount grouped by passenger count; write results to GCS (Parquet).
+Dataproc demo — Task 2 (MLlib)	Clean/engineer features; train Gradient‑Boosted Trees regressor for fare prediction; evaluate model; write outputs to GCS.
+Pros of Spark (list)	Fast in‑memory compute; rich APIs; unified libraries; fault tolerance; multi‑language; integrates with Hadoop ecosystem; encryption/SSL support.
+Cons of Spark (list)	High memory demand; micro‑batch (not true millisecond streaming); relies on external storage (small‑file problem).

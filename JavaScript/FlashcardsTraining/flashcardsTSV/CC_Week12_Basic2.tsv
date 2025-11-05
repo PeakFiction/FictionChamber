@@ -1,0 +1,48 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 12
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week12 Security Privacy PKI TLS Hashing Encryption INFS3208
+Security goals — list	Confidentiality, Integrity, Authentication, Non‑Repudiation, Availability.
+Confidentiality (cloud context)	Only authorised parties can access data in transit and storage.
+Integrity (cloud context)	Data has not been altered by unauthorised parties; verify end‑to‑end that sent data equals received data.
+Authentication (AUTH)	Verify the claimed identity of a party or source.
+Non‑repudiation (NR)	Sender cannot credibly deny an action/message later (proof of origin).
+Availability (AVL)	Service/data is accessible and usable during required time windows; often a shared responsibility in cloud.
+Threat (definition)	Potential security violation designed to exploit weaknesses and cause harm; results in an attack.
+Vulnerability (definition)	A weakness (config, policy, user error, HW/FW flaw, software bug, poor architecture) that can be exploited.
+Risk (definition)	Possibility of loss; function of threat probability and expected impact.
+Security mechanism vs policy	Mechanisms: technical defenses (encryption, IAM, etc.). Policy: rules and governance for how security is implemented and enforced.
+Threat agent (definition)	Entity capable of carrying out an attack (internal/external; human/software).
+Threat: Traffic eavesdropping	Passive interception of data in transit; compromises confidentiality; hard to detect.
+Threat: Malicious intermediary	Interception and modification/injection of messages; compromises confidentiality/integrity.
+Threat: Denial of Service (DoS)	Overload services or networks (imitation messages, repeated requests, traffic floods, memory/CPU exhaustion).
+Threat: Insufficient/weak authN/Z	Over‑broad or erroneous access grants; weak passwords/shared accounts allow unauthorised access.
+Encryption — purpose	Transform plaintext → ciphertext to protect confidentiality/integrity in transit and at rest; requires keys and ciphers.
+Symmetric encryption (what + examples)	Same key for encrypt/decrypt; fast; basic authenticity of key possession. Examples: AES, DES, RC4/RC5.
+Asymmetric encryption (what + examples)	Public/private key pair; encrypt with public, decrypt with private (or sign with private, verify with public). Slower. Examples: RSA, ECC.
+Symmetric vs asymmetric — speed & key sizes	Symmetric: small keys, ~10^6 ops/s on 1GHz (AES‑NI accelerates). Asymmetric: larger keys (e.g., RSA‑2048), ~10^2–10^3 ops/s verify/sign.
+TLS/SSL — why combine both?	Use asymmetric to agree/verify keys and identity; switch to symmetric for bulk data (performance).
+Hashing (purpose)	One‑way, fixed‑length digest for integrity checks; any change → different digest. Examples: MD5 (legacy), SHA‑1 (legacy), SHA‑2.
+Hash vs encryption (difference)	Encryption is reversible with a key; hashing is one‑way with no decryption.
+MAC/HMAC — purpose	Integrity + origin auth using a shared secret (symmetric). Receiver recomputes MAC to verify.
+MAC replay attack — countermeasure	Use nonces and challenge‑response; each MAC binds to fresh nonce → prevents reuse.
+Digital signature — what it guarantees	Authenticity, integrity, and non‑repudiation by signing a message digest with the sender’s private key.
+Digital signature — process (steps)	Hash message → encrypt digest with private key → attach signature. Receiver: decrypt with public key and compare digests.
+MITM problem with bare public keys	Without verification, attacker can swap public keys; need a way to bind identity to keys.
+PKI — purpose	Bind identities to public keys using digitally signed certificates; enable verification of key ownership and validity.
+Certification Authority (CA) — role	Issues and signs certificates after identity checks; parties trust CA’s signature to validate certificates.
+Certificate types (DV/OV/EV)	DV: domain control only. OV: org validated (identity/address/phone). EV: extended validation (most stringent).
+How browsers/app clients verify certs	Validate the certificate chain/signatures against trusted CA roots; inspect subject, validity period, usage; then establish TLS.
+Privacy — definition (lecture)	Empowers users to decide who can process their data and for what purpose; intersection of data, tech, expectations, and law.
+Australia: Privacy Act 1988	Regulates handling of personal information (reasonably identifiable); APPs: notice, access/correction, overseas disclosure safeguards, security, deletion/de‑identification when no longer needed.
+Australia: Australian Consumer Law (ACL)	Protects against unfair terms, misleading claims, unconscionable conduct, and enforces product guarantees (incl. data protection claims).
+Privacy questions for cloud providers — storage location	Where is data stored (onshore/offshore)? Different countries’ laws allow access by authorities; provider must disclose.
+Privacy questions — encryption	Do you encrypt data? In transit/at rest? Is encryption standard or an add‑on? Key management model?
+Privacy questions — deletion & retention	Will data be deleted after contract? When and how? Distinguish anonymisation vs deletion.
+Privacy questions — backups	Do you back up data? Where are backups stored? Retention and restore policies?
+Privacy questions — exit & portability	What format will data be returned on exit? Vendor lock‑in, exit clauses, migration assistance.
+Privacy questions — third‑party disclosure	Under what circumstances is data shared with third parties? Is explicit consent required?
+Why encrypted databases/search?	Limit breach impact and support compliance; encrypted at rest and queryable (to various degrees).
+Encrypted DB techniques — examples	Deterministic/OPE, Searchable Symmetric Encryption (SSE), Trusted Execution Environments, ORAM, Functional/Homomorphic encryption, Secure MPC; each trades functionality vs security vs performance.

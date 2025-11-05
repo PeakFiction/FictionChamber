@@ -1,0 +1,42 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 10
+#notetype:Basic2
+#columns:Front	Back
+#tags:CloudComputing Week10 DFS GFS HDFS NFS CFS INFS3208
+Tutorial Q1 — Desirable features of a DFS	Access transparency; Location transparency; Concurrency transparency; Failure transparency; Replication transparency; Migration transparency; Heterogeneity; Scalability.
+Tutorial Q2 — What is a Clustered File System? (one sentence)	A file system where multiple servers/nodes work together to provide a unified, shared namespace with coordinated access and management across the cluster.
+Tutorial Q3 — GFS READ: step-by-step	1) Client asks Master for chunk metadata+replica locations for byte range.<br>2) Master returns chunk handle and replica servers.<br>3) Client contacts a chosen replica (often nearest).<br>4) Chunk server returns the requested data; checksum verified. Client caches metadata.
+Tutorial Q3 — GFS WRITE: step-by-step	1) Client asks Master for the lease holder (primary) and replica locations.<br>2) Master replies with primary + secondaries.<br>3) Client pipelines data to all replicas.<br>4) Client sends write request to primary.<br>5) Primary assigns a serial # and forwards to secondaries.<br>6) Secondaries apply in that order and acknowledge.<br>7) Primary replies success/error to client.
+Tutorial Q4 — GFS vs HDFS: key differences	Chunk/block size: GFS 64MB; HDFS 128MB default (64MB in older).<br>Roles: GFS Master/ChunkServers; HDFS NameNode/DataNodes.<br>Logs: GFS operational log; HDFS editlog + fsimage/ckpt.<br>Writers: GFS may allow multiple writers to a file; HDFS typically one writer at a time.<br>Deletion handling differs (GFS hidden namespace vs HDFS trash/GC).
+What is a File System? (recap)	Abstraction to organize/manipulate data (hierarchical files/directories) with a uniform view independent of storage devices.
+What is a Distributed File System (DFS)?	A file system spread across multiple autonomous computers so multiple users share files/resources transparently over the network.
+DFS roles: servers vs clients	Servers: hold/export files; Clients: access files via network; in practice clients usually don’t share local files; servers are more powerful.
+Sun NFS — what it is	A distributed file system protocol (1984) that lets clients access remote files like local; uses RPC; designed to be OS/network independent.
+NFS — VFS/user view	VFS layer routes system calls to local FS or NFS client; user interface matches local FS; supports mounts with RO/RW privileges.
+NFS — pros/limits (from slides)	Pros: easy sharing, centralised admin/backup, secure placement. Limits for big data: scale, HA, redundancy become bottlenecks.
+Why Clustered File Systems?	To achieve scalability, availability, resiliency, and load balancing for very large storage across many servers.
+What is a CFS?	A cluster of servers that jointly provide a unified file system to clients; clients see a transparent cluster namespace.
+CFS at block level: distributing vs striping	Distribute whole files across servers vs stripe file blocks across servers for parallel access (block‑level management).
+DFS vs NFS vs CFS — quick contrast	DFS: components across systems (broad). NFS: client‑server remote file access. CFS: pooled multi‑server shared FS with unified namespace and coordinated access.
+NFS vs CFS — table gist	CFS > scalability, concurrency, parallel performance, and fault tolerance; NFS simpler but single‑server bottlenecks and less HA.
+GFS — design assumptions (high level)	Thousands of commodity machines; frequent failures; few huge files; streaming & small random reads; many concurrent appends; throughput > latency.
+GFS — core design	Files split into fixed 64MB chunks with 64‑bit IDs; default replication 3 across ChunkServers; a single Master stores metadata and coordinates.
+GFS Master — responsibilities	Namespace & access control; file→chunk mapping; chunk replica locations via heartbeats; operation log + checkpoints for durability.
+GFS chunks — pros/cons	Large chunks reduce metadata and Master involvement, enable large sequential I/O; downside: hotspot risk for small/popular files; mitigations: higher replication, staggered starts, client-to-client reads.
+HDFS — motivations (like GFS)	Commodity hardware with failures; very large files; streaming reads; append‑heavy; prioritize sustained bandwidth over low latency.
+HDFS NameNode — role	Maintains namespace tree, maps files→blocks→DataNodes, tracks attributes/quotas; nominates DataNodes for replicas; keeps metadata in RAM.
+HDFS metadata: fsimage vs editlog	fsimage: checkpointed namespace snapshot. editlog: recent operations since last fsimage; merged by checkpointing to control log size.
+Secondary (Checkpoint) NameNode — purpose	Fetch fsimage+editlog, merge into new checkpoint (fsimage.ckpt) and push back; not a hot standby ‘second’ NameNode.
+HDFS DataNode — behavior	Stores block replicas (data+metadata), handshakes on startup, sends heartbeats (∼3s); no heartbeat for ~10 min ⇒ node considered dead → re-replication scheduled.
+HDFS Client — read/write path	Read: asks NameNode for block locations then streams from chosen DataNode. Write: NameNode selects pipeline of DataNodes; client streams blocks; repeats for subsequent blocks.
+HDFS architecture (master/worker)	NameNode + (optional) Secondary NN; many DataNodes with local disks; replication, balancing, and heartbeats manage cluster health.
+HDFS block placement policy (default)	Replica1 on writer’s node; Replica2 and 3 on two nodes in a different rack; constraints avoid >1 replica per node and >2 per rack in typical cases.
+HDFS replication management	Over‑replicated: NN removes replicas preferentially to keep rack diversity and balance disk usage. Under‑replicated: prioritized queue to restore target replication.
+HDFS vs GFS — quick compare (slide)	Platform: HDFS cross‑platform/Java; GFS Linux/C,C++.<br>Block size: HDFS 128MB default (64MB older); GFS 64MB.<br>Writers: HDFS one‑writer; GFS can have multiple writers.<br>Deletion/logging semantics differ (editlog/fsimage vs operational log).
+HDFS user commands (examples)	hdfs dfs -ls, -ls -R, -du -h, -df; copyFromLocal <src> <dst>; copyToLocal <src> <dst>; rm [options] <path>.
+HDFS fsck — purpose	Report health/metadata for files/blocks (replication, corrupt/missing). Usage: hdfs fsck /path [options].
+HDFS dfsadmin — examples	hdfs dfsadmin -report; -printTopology.
+HDFS oiv — offline image viewer	Dump NameNode fsimage to XML: hdfs oiv -i <fsimage> -o <out> -p XML.
+HDFS web UI (as per slide)	http://<namenode-host>:50070 for NameNode GUI (note: some newer Hadoop builds use 9870).
+When to use DFS vs Distributed DB (slide gist)	DFS for large unstructured, write-once/read-many, batch analytics (e.g., HDFS/S3). Distributed DB for structured data, transactions/ACID, low‑latency queries.

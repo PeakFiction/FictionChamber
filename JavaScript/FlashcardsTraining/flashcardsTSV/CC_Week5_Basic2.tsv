@@ -1,0 +1,32 @@
+#separator:Tab
+#html:true
+#deck:Cloud Computing Week 5
+#notetype:Basic
+#columns:Front	Back
+#tags:CloudComputing Week5 Kubernetes INFS3208
+What is Kubernetes (K8s)?	Open-source container orchestration that automates deployment, scaling, and management of containerized apps across a cluster. Works with multiple container runtimes (e.g., containerd).
+Why use Kubernetes? (key capabilities)	Scaling & high availability; self-healing; automated rollouts/rollbacks; service discovery & load balancing; storage orchestration; config/secrets; portable across clouds.
+What is a Cluster?	A set of machines managed together by Kubernetes to run containerized workloads.
+What is a Node?	A single machine in the cluster. Control-plane nodes run management components; worker nodes run application Pods.
+What is a Container?	A packaged process built from an image (your app + its dependencies) that runs in isolation.
+What is a Pod?	Smallest deployable unit. Wraps one or more containers that share the same network IP and volumes; ephemeral; unit of scheduling and scaling.
+API Server — purpose	Front door for all Kubernetes requests. Validates and persists objects to the database (etcd); serves the Kubernetes API over HTTPS.
+etcd — purpose	The cluster database. Stores Kubernetes objects (specs and status), such as Pods, Deployments, Services, ConfigMaps, Secrets, RBAC, etc. Not your app's user data.
+Scheduler — purpose	Assigns newly created (unscheduled) Pods to suitable worker nodes based on resource availability and policies.
+Controller Manager — purpose	Runs controllers that reconcile desired state vs current state (e.g., keep N replicas, recreate failed Pods, manage Jobs).
+Worker components — kubelet	Agent on each worker node. Starts/stops containers to satisfy Pod specs, runs health probes, and reports status back to the API Server.
+Worker components — container runtime	Software that runs containers (e.g., containerd or CRI-O). Pulls images and executes containers for Pods.
+Worker components — kube-proxy	Programs node-level network rules so Services can load-balance traffic to the current Pod IPs.
+What is a Deployment?	Higher-level controller that manages ReplicaSets/Pods for stateless apps and supports rolling updates & rollbacks.
+What is a ReplicaSet?	Ensures a specified number of identical Pods are running; created and managed by a Deployment in most cases.
+What is a StatefulSet?	Controller for stateful apps; gives Pods stable identities and ordered, predictable rollouts/scaling.
+What is a Service?	Stable virtual IP/DNS that routes to a group of Pods selected by labels; types: ClusterIP, NodePort, LoadBalancer.
+What is an Ingress?	HTTP/HTTPS routing rules that expose Services to external clients via hostnames/paths and TLS.
+ConfigMap vs Secret	ConfigMap: non-sensitive key-values. Secret: sensitive data (passwords/tokens/keys). Both can be mounted as files or injected as env vars.
+Volumes, PV, PVC, StorageClass	Pod volumes provide storage. PV: cluster storage resource; PVC: request for storage; StorageClass: how PVs are provisioned; Pods mount PVCs for persistence.
+Declarative model	You submit YAML describing desired state; Kubernetes stores it and continuously works to make the actual state match it.
+Reconciliation loop	Continuous observe → compare → act cycle run by controllers to keep current state aligned with desired state.
+Minikube	Local Kubernetes for development/learning. Provides a single-node cluster with add-ons; alternatives: kind, microk8s.
+kubectl	CLI to interact with the API Server: apply manifests, list and inspect resources, get logs, exec, etc.
+GKE (demo) — cluster creation (concept)	Provision a managed control plane and node pools on Google Cloud, then use kubectl (via gcloud) to deploy workloads.
+MySQL + phpMyAdmin example — components	Deployments (mysql, phpmyadmin), Services (internal for DB, external for UI), Secret (DB creds), ConfigMap (DB URL), optional PV/PVC for persistence.
