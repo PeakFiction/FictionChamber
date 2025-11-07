@@ -1,42 +1,147 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+.app-root {
+  min-height: 100vh;
+  background: #020617; /* almost black */
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  padding: 40px 16px;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    sans-serif;
+}
+
+.app-inner {
+  width: 100%;
+  max-width: 900px;
+}
+
+.app-title {
+  font-size: 2.4rem;
+  font-weight: 700;
   text-align: center;
+  margin: 0 0 24px;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.top-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.deck-select label {
+  font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.deck-select select {
+  background: #020617;
+  color: #e5e7eb;
+  border: 1px solid #4b5563;
+  border-radius: 6px;
+  padding: 6px 10px;
+  outline: none;
 }
 
-.card {
-  padding: 2em;
+.deck-select select:focus {
+  border-color: #38bdf8;
 }
 
-.read-the-docs {
-  color: #888;
+.stats {
+  font-size: 0.95rem;
+  color: #9ca3af;
+}
+
+.question h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 0 18px;
+}
+
+.choices {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Base choice button */
+.choice-button {
+  text-align: left;
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1px solid #1f2937;
+  background: #111827;
+  color: #e5e7eb;
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    transform 0.05s ease;
+}
+
+.choice-button:hover {
+  border-color: #4b5563;
+  transform: translateY(-1px);
+}
+
+/* State variants */
+.choice--base {
+}
+
+.choice--correct {
+  background: #064e3b;
+  border-color: #22c55e;
+}
+
+.choice--correct-selected {
+  background: #166534;
+  border-color: #22c55e;
+}
+
+.choice--incorrect-selected {
+  background: #7f1d1d;
+  border-color: #f97373;
+}
+
+/* Controls */
+.controls {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.next-button {
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid #4b5563;
+  background: #111827;
+  color: #e5e7eb;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.next-button:hover {
+  border-color: #38bdf8;
+}
+
+.app-root {
+  min-height: 100vh;
+  width: 100%;
+  background: #020617;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;   /* center horizontally */
+  align-items: flex-start;   /* stick near top; use center if you want vertical centering */
+  padding: 40px 16px;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    sans-serif;
 }
